@@ -268,4 +268,3 @@
 0x213	Đường dẫn Git bị thiếu hoặc trống trong cấu hình. Sử dụng đường dẫn Git mặc định.
 0x214	Tệp tô sáng cú pháp không tồn tại.
 0x215	Sử dụng đường dẫn mặc định.
-ftughvjkiohugyfutg
