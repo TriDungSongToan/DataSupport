@@ -152,11 +152,13 @@
 0x138	Error creating or opening Cdb file:
 0x139	Error creating or opening Lua file:
 0x13a	Error creating image card:
-0x13b	Error cloning repository:
-0x13c	Error fetching data:
-0x13d	Error reading configuration:
-0x13e	Error updating data:
-0x13f	Database Connection Error:
+0x13b	Error saving cards:
+0x13c	Error saving script:
+0x13d	Error cloning repository:
+0x13e	Error fetching data:
+0x13f	Error reading configuration:
+0x141	Error updating data:
+0x142	Database Connection Error:
 
 0x145	Failed to create the CDB file:
 0x146	Failed to create the Script file:
@@ -176,78 +178,93 @@
 0x161	Invalid Card ID.
 0x162	Invalid Permissions.
 0x163	Invalid Encoding.
+0x164	Invalid Setting. Please select a Setting before saving.
+0x165	Invalid FontSize. Font size must be a valid number between 1 and 50.
+0x166	Invalid Image Size. Please enter in a,b format where a and b are numbers.
+0x167	Invalid Stamp Size. Please enter in a,b format where a and b are numbers.
+0x168	Invalid Stamp Margin. Please enter in a,b format where a and b are numbers.
+0x169	Invalid Image DPI. DPI must be a valid number between 1 and 100.
+0x16a	Invalid ToggleButton.
 
-0x16a	No files found.
-0x16b	No selected Window.
-0x16a	No selected Card Database.
-0x16d	No valid Cards found.
-0x16e	No valid Datas found.
-0x16f	No valid Data in Clipboard.
+0x175	Invalid Background Color Code.
+0x176	Invalid Foreground Color Code.
 
-0x175	No Cards found.
-0x176	No Cards selected.
-0x177	No Cards for copy.
-0x178	No Cards for export.
-0x179	No Cards for filter.
-0x17a	No Cards for save.
+0x181	No files found.
+0x182	No selected Window.
+0x183	No selected Card Database.
+0x184	No valid Cards found.
+0x185	No valid Datas found.
+0x186	No valid Data in Clipboard.
 
-0x181	Folder does not exist.
-0x182	File does not exist.
-0x183	File already exist.
-0x184	Card does not exist in database.
-0x185	Card ID already exists.
-0x186	Card ID does not exist.
-0x187	Not an Image File.
-0x188	Width or Height value is not a valid number.
+0x191	No Cards found.
+0x192	No Cards selected.
+0x193	No Cards for copy.
+0x194	No Cards for export.
+0x195	No Cards for filter.
+0x196	No Cards for save.
 
-0x191	Database created successfully, do you want to open it?
-0x192	File created successfully, do you want to open it?
-0x193	New card added successfully!
-0x194	Card updated successfully!
-0x195	Card deleted successfully.
-0x196	Cards copied successfully!
-0x197	Cards pasted successfully!
-0x198	Save cards successfully!
-0x199	Data exported successfully!
-0x19a	Data imported successfully!
-0x19b	Zip file exported successfully at:
+0x1a1	Data Source Path cannot be empty.
+0x1a2	Folder does not exist.
+0x1a3	File does not exist.
+0x1a4	File already exist.
+0x1a5	Card does not exist in database.
+0x1a6	Card ID already exists.
+0x1a7	Card ID does not exist.
+0x1a8	Not an Image File.
+0x1a9	Width or Height value is not a valid number.
 
-0x1a1	Extract functions data successfully!
-0x1a2	Extract constants data successfully!
-0x1a3	Repository has been cloned successfully!
-0x1a4	Data has been updated successfully!
-0x1a5	Filter successful. Found
-0x1a6	cards out of
-0x1a7	total cards.
+0x1b1	Database created successfully, do you want to open it?
+0x1b2	File created successfully, do you want to open it?
+0x1b3	New card added successfully!
+0x1b4	Card updated successfully!
+0x1b5	Card deleted successfully.
+0x1b6	Cards copied successfully!
+0x1b7	Cards pasted successfully!
+0x1b8	Save cards successfully!
+0x1b9	Save Script successfully!
+0x1ba	Data exported successfully!
+0x1bb	Data imported successfully!
+0x1bc	Zip file exported successfully at:
 
-0x1b1	Save Database File
-0x1b2	Save File
-0x1b3	All Files
-0x1b4	Text Documents
-0x1b5	Markdown
-0x1b6	log
-0x1b7	Deck
-0x1b8	YAML
-0x1b9	Configuration
-0x1ba	Zip file
+0x1c5	Extract functions data successfully!
+0x1c6	Extract constants data successfully!
+0x1c7	Repository has been cloned successfully!
+0x1c8	Data has been updated successfully!
+0x1c9	Settings have been reset to default.
+0x1ca	Restart application to apply.
+0x1cb	Filter successful. Found
+0x1cc	cards out of
+0x1cd	total cards.
 
-0x1c1	Confirm Reset?
-0x1c2	Confirm Clear?
-0x1c3	Confirm Delete?
+0x1d5	Save Database File
+0x1d6	Save File
+0x1d7	All Files
+0x1d8	Text Documents
+0x1d9	Markdown
+0x1da	log
+0x1db	Deck
+0x1dc	YAML
+0x1dd	Configuration
+0x1de	Zip file
 
-0x1ca	Do you want to delete all selected data on the interface?
-0x1cb	Are you sure you want to Clear all selected data on the interface?
-0x1cc	Are you sure you want to Reset the selected card? Changes will not be saved.
-0x1cd	Are you sure you want to PERMANENTLY DELETE selected card?
-0x1ce	Do you want to overwrite it?
+0x1e5	Confirm Reset?
+0x1e6	Confirm Clear?
+0x1e7	Confirm Delete?
 
-0x1d1	Data source is missing or invalid, download now?
-0x1d2	No updates found.
-0x1d3	Update Complete!
-0x1d4	Update Available, dowload it now?
+0x1f5	Do you want to delete all selected data on the interface?
+0x1f6	Are you sure you want to Clear all selected data on the interface?
+0x1f7	Are you sure you want to Reset the selected card? Changes will not be saved.
+0x1f8	Are you sure you want to reset settings to default? All changes will be lost.
+0x1f9	Are you sure you want to PERMANENTLY DELETE selected card?
+0x1fa	Do you want to overwrite it?
 
-0x1da	Unable to delete existing file after multiple attempts.
-0x1db	git.exe path not found, make sure Git is installed and using correct path in application configuration
-0x1dc	Git Path is missing or empty in configuration. Using default Git path.
-0x1dd	The syntax highlighting file does not exist.
-0x1de	Using default path.
+0x205	Data source is missing or invalid, download now?
+0x206	No updates found.
+0x207	Update Complete!
+0x208	Update Available, dowload it now?
+
+0x211	Unable to delete existing file after multiple attempts.
+0x212	git.exe path not found, make sure Git is installed and using correct path in application configuration
+0x213	Git Path is missing or empty in configuration. Using default Git path.
+0x214	The syntax highlighting file does not exist.
+0x215	Using default path.
