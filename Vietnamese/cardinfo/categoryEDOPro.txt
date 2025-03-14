@@ -1,0 +1,32 @@
+0x1	Phá Hủy Quái Vật
+0x2	Phá Hủy Phép/Bẫy
+0x4	Phá Hủy Bộ Bài
+0x8	Phá Hủy Bài trên Tay
+0x10	Gửi Bài vào Mộ
+0x20	Gửi Bài lên Tay
+0x40	Gửi Bài về Bộ Bài
+0x80	Trục Xuất
+0x100	Rút Bài
+0x200	Tìm Kiếm
+0x400	Thay đổi Công/Thủ
+0x800	Thay đổi Cấp/Hạng
+0x1000	Position
+0x2000	Xuyên Thủ
+0x4000	Tấn Công trực tiếp
+0x8000	Tấn Công nhiều lần
+0x10000	Phủ Nhận sự Kích Hoạt
+0x20000	Phủ Nhận hiệu Ứng
+0x40000	Gây Sát Thương
+0x80000	Hồi Phục
+0x100000	Triệu Hồi Đặc Biệt
+0x200000	Không hiệu ứng
+0x400000	Liên quan Token
+0x800000	Liên quan Dung Hợp
+0x1000000	Liên quan Nghi Thức
+0x2000000	Liên quan Đồng Bộ
+0x4000000	Liên quan Bứt Phá
+0x8000000	Liên quan Liên Kết
+0x10000000	Liên quan Bộ Đếm
+0x20000000	Đánh cược
+0x40000000	Điều Khiển
+0x80000000	Thay đổi vùng

@@ -1,0 +1,286 @@
+﻿0x1	File
+0x2	New
+0x3	Open
+0x4	Save
+0x5	Save as
+0xa	Exit
+
+0x11	Window
+0x12	Setting
+0x13	Setting
+0x14	Card
+0x15	Data
+0x16	Help
+
+0x1a	Card Database
+0x1b	Card Script
+0x1c	Card Image
+0x1d	CardEditSet
+
+0x21	Image Editor
+0x22	Data Editor
+0x23	Code Editor
+0x24	Script Support
+
+0x2a	Copy Card
+0x2b	Paste Card
+0z2c	Save Card
+
+0x35	Selected Cards
+0x36	Found Cards
+0x37	All Cards
+0x38	Duplicate Cards
+0x39	Different Cards
+
+0x41	Filter With CDB File
+0x42	Filter With YDK File
+0x43	Export as zip
+0x44	Export CardEditorSet
+0x45	Import CardEditorSet
+0x46	Linter Script
+0x47	Check Update
+---------------------------
+0x81	Create a new Card Database.
+0x82	Create a new Card Script.
+0x83	Create a new Archive.
+0x84	Open an existing Card Database.
+0x85	Open an existing Card Script.
+
+0x91	Save all cards in the list to the original Card Database file.
+0x92	Save all cards in the list to the original CardEditorSet file.
+0x93	Save the current script content to the original Card Script file.
+
+0x9a	Save cards to a new Card Database file.
+0x9b	Save the selected cards to a new database file.
+0x9c	Save the currently displayed cards (after applying filters) to a new database file.
+0x9d	Save all cards in the list to a new database file.
+
+0xa1	Save the current script content as a new Card Script file.
+0xa2	Exit the application.
+
+0xa5	Open a new Image Editor Tab.
+0xa6	Open a new Data Editor Tab.
+0xa7	Open a new Code Editor Tab.
+0xa8	Open the Script Support Window.
+0xa9	Open the Settings Window.
+
+0xb1	Copy cards to the clipboard.
+0xb2	Copy the selected cards to the clipboard.
+0xb3	Copy the currently displayed cards (after applying filters) to the clipboard.
+0xb4	Copy all cards in the list to the clipboard.
+0xb5	Paste cards from the clipboard into the list.
+
+0xba	Filter and display cards on the list using a Card Database file.
+0xbb	Filter and display cards on the list that APPEAR in the selected Card Database.
+0xbc	Filter and display cards on the list that DO NOT APPEAR in the selected Card Database.
+0xbd	Filter and display cards on the list using a Deck file.
+0xbe	Filter and display cards on the list that APPEAR in the selected Deck.
+0xbf	Filter and display cards on the list that DO NOT APPEAR in the selected Deck.
+
+0xc5	Extract Database (and all Images, Scripts of each card in Database) as ZIP file.
+0xc6	Extract the selected cards.
+0xc7	Extract the currently displayed cards (after applying filters).
+0xc8	Extract all cards in the list.
+
+0xd1	Extract cards in the list as CardEditorSet file.
+0xd2	Extract the selected cards.
+0xd3	Extract the currently displayed cards (after applying filters).
+0xd4	Extract all cards in the list.
+0xd5	Import cards from the CardEditorSet file into the list.
+
+0xda	Analyze code for formatting issues and fix any detected inconsistencies.
+0xdb	Check for updates to the latest application data.
+---------------------------
+0xe1	ID
+0xe2	ID
+0xe3	Alias
+0xe4	Card Name
+
+0xea	Scope
+0xeb	Card Type
+0xec	Monster Race
+0xed	Attribute
+0xee	SetCode/Archetype
+0xef	Category
+
+0xf5	Level
+0xf6	Rank
+0xf7	Link
+0xf8	Pendulum Scale
+0xf9	Maximum
+
+0x101	ATK
+0x102	DEF
+0x103	Width
+0x104	Height
+0x105	Rare
+
+0x106	Set Size
+0x107	Image
+0x108	Script
+
+0x110	Add
+0x111	Clear
+0x112	Delete
+0x113	Modify
+0x114	Undo
+0x115	Redo
+0x116	Reset
+0x117	ReLoad
+0x118	Search
+0x119	Search/Filter Card in the list using data on the interface. Right click to clear search filters.
+
+0x121	Error
+0x122	Warning
+0x123	Information
+0x124	Notification
+0x125	Question
+
+0x12a	Yes
+0x12b	No
+0x12c	OK
+0x12d	Cancel
+0x12e	ADD IT, I Don't Care
+
+0x131	Data source is missing or does not exist, Check Update and restart application.
+
+0x132	An error occurred:
+0x133	Error reading file:
+0x134	Error copying card:
+0x135	Error pasting card:
+0x136	Error exporting data:
+0x137	Error importing data:
+0x138	Error creating or opening Cdb file:
+0x139	Error creating or opening Lua file:
+0x13a	Error creating image card:
+0x13b	Error saving cards:
+0x13c	Error saving script:
+0x13d	Error downloading update:
+0x13e	Error fetching data:
+0x13f	Error reading configuration:
+0x141	Error updating data:
+0x142	Database Connection Error:
+
+0x145	Failed to create the CDB file:
+0x146	Failed to create the Script file:
+0x147	Failed to create the Ceds file:
+0x148	Failed to Add New Card.
+0x149	Failed to Modify Card.
+0x14a	Failed to Delete Card.
+0x14b	Failed to delete temporary cdb file:
+
+0x151	Invalid File Path.
+0x152	Invalid File Format.
+0x153	Invalid File Handle.
+0x154	Invalid File Operation.
+0x155	Invalid Folder Path
+
+0x15a	Invalid Data Path.
+0x15b	Invalid Data Format.
+0x15c	Invalid Data Selection.
+
+0x161	Invalid Card ID.
+0x162	Invalid Card Alias.
+0x163	Invalid Permissions.
+0x164	Invalid Encoding.
+0x165	Invalid Setting. Please select a Setting before saving.
+0x166	Invalid FontSize. Font size must be a valid number between 1 and 50.
+0x167	Invalid Image Size. Please enter in a,b format where a and b are numbers.
+0x168	Invalid Stamp Size. Please enter in a,b format where a and b are numbers.
+0x169	Invalid Stamp Margin. Please enter in a,b format where a and b are numbers.
+0x16a	Invalid Image DPI. DPI must be a valid number between 1 and 100.
+0x16b	Invalid ToggleButton.
+0x16c	out of allowed range.
+
+0x175	Invalid Background Color Code.
+0x176	Invalid Foreground Color Code.
+
+0x181	No files found.
+0x182	No selected Window.
+0x183	No selected Card Database.
+0x184	No valid Cards found.
+0x185	No valid Datas found.
+0x186	No valid Data in Clipboard.
+
+0x191	No Cards found.
+0x192	No Cards selected.
+0x193	No Cards for copy.
+0x194	No Cards for export.
+0x195	No Cards for filter.
+0x196	No Cards for save.
+
+0x1a1	Data Source Path cannot be empty.
+0x1a2	Folder does not exist.
+0x1a3	File does not exist.
+0x1a4	File already exist.
+0x1a5	Card does not exist in database.
+0x1a6	Card ID already exists.
+0x1a7	Card ID does not exist.
+0x1a8	Card ID does not exist in the List.
+0x1a9	Not an Image File.
+0x1aa	Width or Height value is not a valid number.
+
+0x1b1	Database created successfully, do you want to open it?
+0x1b2	File created successfully, do you want to open it?
+0x1b3	New card added successfully!
+0x1b4	Card updated successfully!
+0x1b5	Card deleted successfully.
+0x1b6	Cards copied successfully!
+0x1b7	Cards pasted successfully!
+0x1b8	Save cards successfully!
+0x1b9	Save Script successfully!
+0x1ba	Data exported successfully!
+0x1bb	Data imported successfully!
+0x1bc	Zip file exported successfully at:
+
+0x1c5	Extract functions data successfully!
+0x1c6	Extract constants data successfully!
+0x1c7	Repository has been cloned successfully!
+0x1c8	Data has been updated successfully!
+0x1c9	Settings have been reset to default.
+0x1ca	Restart application to apply.
+0x1cb	Filter successful. Found
+0x1cc	cards out of
+0x1cd	total cards.
+
+0x1d4	Select Folder
+0x1d5	Save Database File
+0x1d6	Save File
+0x1d7	All Files
+0x1d8	Text Documents
+0x1d9	Markdown
+0x1da	log
+0x1db	Deck
+0x1dc	YAML
+0x1dd	Configuration
+0x1de	Zip file
+
+0x1e5	Confirm Reset?
+0x1e6	Confirm Clear?
+0x1e7	Confirm Delete?
+
+0x1f0	Card ID has been changed.
+0x1f1	Delete the selected card or the card with newly entered ID?
+0x1f2	Create the Card Script of the selected card or the card with newly entered ID?
+0x1f3	Create the Image of the selected card or the card with newly entered ID?
+0x1fa	The Selected Card
+0x1fb	Newly entered ID
+
+0x201	Do you want to delete all selected data on the interface?
+0x202	Are you sure? Cards with 4 digit IDs or lower will be the game ignore.
+0x203	Are you sure you want to Clear all selected data on the interface?
+0x204	Are you sure you want to Reset the selected card? Changes will not be saved.
+0x205	Are you sure you want to reset settings to default? All changes will be lost.
+0x206	Are you sure you want to PERMANENTLY DELETE selected card?
+0x207	Do you want to overwrite it?
+
+0x211	Data source is missing or invalid, download now?
+0x212	No updates found.
+0x213	Update Complete!
+0x214	Update Available, dowload it now?
+
+0x21a	Unable to delete existing file after multiple attempts.
+0x21b	git.exe path not found, make sure Git is installed and using correct path in application configuration
+0x21c	Git Path is missing or empty in configuration. Using default Git path.
+0x21d	The syntax highlighting file does not exist.
+0x21e	Using default path.

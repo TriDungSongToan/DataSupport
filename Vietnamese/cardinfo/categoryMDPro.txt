@@ -1,0 +1,32 @@
+0x1	Phá Hủy Phép/Bẫy
+0x2	Phá Hủy Quái Vật
+0x4	Trục Xuất
+0x8	Gửi Bài vào Mộ
+0x10	Gửi Bài lên Tay
+0x20	Gửi Bài về Bộ Bài
+0x40	Phá hủy Bài trên Tay
+0x80	Phá hủy Bộ Bài
+0x100	Rút Bài
+0x200	Tìm kiếm
+0x400	Thu hồi Bài
+0x800	Tư thế chiến đấu
+0x1000	Điều khiển
+0x2000	Thay đổi Công/Thủ
+0x4000	Xuyên Thủ
+0x8000	Tấn Công nhiều lần
+0x10000	Giới hạn Tấn Công
+0x20000	Tấn Công trực tiếp
+0x40000	Triệu Hồi Đặc Biệt
+0x80000	Biểu Trưng
+0x100000	Liên quan Chủng Tộc
+0x200000	Liên quan Thuộc Tính
+0x400000	Gây Sát Thương
+0x800000	Hồi Phục
+0x1000000	Không thể Phá Hủy
+0x2000000	Miễn Nhiễm
+0x4000000	Bộ đếm
+0x8000000	Đánh cược
+0x10000000	Liên quan Dung Hợp
+0x20000000	Liên quan Đồng Bộ
+0x40000000	Liên quan Bứt Phá
+0x80000000	Phủ nhận Hiệu Ứng
