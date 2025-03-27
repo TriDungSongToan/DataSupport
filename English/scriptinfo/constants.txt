@@ -1,0 +1,6667 @@
+ACTIVITY_ATTACK
+The action of declaring attacks.
+value: 5
+---
+ACTIVITY_BATTLE_PHASE
+Refers to the act of conducting a battle phase. This activity is not available with custom counter
+value: 6
+---
+ACTIVITY_CHAIN
+An activity only available with custom counter
+value: 7
+---
+ACTIVITY_FLIPSUMMON
+Refers to the action of performing Flip Summons
+value: 4
+---
+ACTIVITY_NORMALSUMMON
+Refers to the action of performing a Normal Summon
+value: 2
+---
+ACTIVITY_SPSUMMON
+Refers to the action of performing Special Summons
+value: 3
+---
+ACTIVITY_SUMMON
+Refers to the action of attempting to perform Summons of any kind
+value: 1
+---
+ANNOUNCE_CARD
+Card declaration
+value: 0x7
+---
+ANNOUNCE_CARD_FILTER
+Card declaration with filters
+value: 0x8
+---
+SET_ABYSS
+The ["Abyss-"](https://yugipedia.com/wiki/Abyss-) archetype.
+value: 0x75
+---
+SET_ABYSS_ACTOR
+The ["Abyss Actor"](https://yugipedia.com/wiki/Abyss_Actor) archetype.
+value: 0x10ec
+---
+SET_ABYSS_SCRIPT
+The ["Abyss Script"](https://yugipedia.com/wiki/Abyss_Script) archetype.
+value: 0x20ec
+---
+SET_ADAMANCIPATOR
+The ["Adamancipator"](https://yugipedia.com/wiki/Adamancipator) archetype.
+value: 0x140
+---
+SET_ADVANCED_CRYSTAL_BEAST
+The ["Advanced Crystal Beast"](https://yugipedia.com/wiki/Advanced_Crystal_Beast) archetype. Sub-archetype of [`SET_CRYSTAL`](/api/constants/Archetype/SET_CRYSTAL).
+value: 0x5034
+---
+SET_AESIR
+The ["Aesir"](https://yugipedia.com/wiki/Aesir) archetype.
+value: 0x4b
+---
+SET_AETHER
+The ["Aether"](https://yugipedia.com/wiki/Aether) archetype.
+value: 0xcb
+---
+SET_AI
+The ["A.I."](https://yugipedia.com/wiki/A.I.) archetype.
+value: 0x136
+---
+SET_ALIEN
+The ["Alien"](https://yugipedia.com/wiki/Alien) archetype.
+value: 0xc
+---
+SET_ALLURE_QUEEN
+The ["Allure Queen"](https://yugipedia.com/wiki/Allure_Queen) archetype.
+value: 0x14
+---
+SET_ALLY_OF_JUSTICE
+The ["Ally of Justice"](https://yugipedia.com/wiki/Ally_of_Justice) archetype.
+value: 0x1
+---
+SET_ALTERGEIST
+The ["Altergeist"](https://yugipedia.com/wiki/Altergeist) archetype.
+value: 0x103
+---
+SET_AMAZEMENT
+The ["Amazement"](https://yugipedia.com/wiki/Amazement) archetype.
+value: 0x15e
+---
+SET_AMAZONESS
+The ["Amazoness"](https://yugipedia.com/wiki/Amazoness) archetype.
+value: 0x4
+---
+SET_AMORPHAGE
+The ["Amorphage"](https://yugipedia.com/wiki/Amorphage) archetype.
+value: 0xe0
+---
+SET_ANCIENT_GEAR
+The ["Ancient Gear"](https://yugipedia.com/wiki/Ancient_Gear) archetype.
+value: 0x7
+---
+SET_ANCIENT_WARRIORS
+The ["Ancient Warriors"](https://yugipedia.com/wiki/Ancient_Warriors) archetype.
+value: 0x137
+---
+SET_APOQLIPHORT
+The ["Apoqliphort"](https://yugipedia.com/wiki/Apoqliphort) archetype. Sub-archetype of [`SET_QLI`](/api/constants/Archetype/SET_QLI).
+value: 0x10aa
+---
+SET_APPLIANCER
+The ["Appliancer"](https://yugipedia.com/wiki/Appliancer) archetype.
+value: 0x14a
+---
+SET_AQUAACTRESS
+The ["Aquaactress"](https://yugipedia.com/wiki/Aquaactress) archetype.
+value: 0x10cd
+---
+SET_AQUAMIRROR
+The ["Aquamirror"](https://yugipedia.com/wiki/Aquamirror) archetype.
+value: 0x18f
+---
+SET_AQUARIUM
+The ["Aquarium"](https://yugipedia.com/wiki/Aquarium) archetype.
+value: 0x20cd
+---
+SET_AQUA_JET
+The ["Aqua Jet"](https://yugipedia.com/wiki/Aqua_Jet_(archetype)) archetype.
+value: 0x1bb
+---
+SET_ARCANA_FORCE
+The ["Arcana Force"](https://yugipedia.com/wiki/Arcana_Force) archetype.
+value: 0x5
+---
+SET_ARCHFIEND
+The ["Archfiend"](https://yugipedia.com/wiki/Archfiend) archetype.
+value: 0x45
+---
+SET_ARGOSTARS
+The ["Argostars"](https://yugipedia.com/wiki/Argostars) archetype.
+value: 0x1ba
+---
+SET_ARMED_DRAGON
+The ["Armed Dragon"](https://yugipedia.com/wiki/Armed_Dragon) archetype.
+value: 0x111
+---
+SET_ARMED_DRAGON_THUNDER
+The "Armed Dragon Thunder" series of "LV" monsters. Technically not an archetype and not currently registered to any card, since "Armed Dragon" is used instead. Sub-archetype of [`SET_ARMED_DRAGON`](/api/constants/Archetype/SET_ARMED_DRAGON).
+value: 0x1111
+---
+SET_ARMORED_XYZ
+The ["Armored Xyz"](https://yugipedia.com/wiki/Armored_Xyz_(archetype)) archetype. Sub-archetype of [`SET_XYZ`](/api/constants/Archetype/SET_XYZ).
+value: 0x4073
+---
+SET_AROMA
+The ["Aroma"](https://yugipedia.com/wiki/Aroma) archetype.
+value: 0xc9
+---
+SET_ARTIFACT
+The ["Artifact"](https://yugipedia.com/wiki/Artifact) archetype.
+value: 0x97
+---
+SET_ARTORIGUS
+The ["Artorigus"](https://yugipedia.com/wiki/Artorigus) archetype.
+value: 0xa7
+---
+SET_ASHENED
+The ["Ashened"](https://yugipedia.com/wiki/Ashened) archetype.
+value: 0x1a5
+---
+SET_ASSAULT_BLACKWING
+The ["Assault Blackwing"](https://yugipedia.com/wiki/Assault_Blackwing) archetype. Sub-archetype of [`SET_BLACKWING`](/api/constants/Archetype/SET_BLACKWING).
+value: 0x1033
+---
+SET_ASSAULT_MODE
+The ["/Assault Mode"](https://yugipedia.com/wiki//Assault_Mode) archetype. Sub-archetype of [`SET_DARK_LUCIUS`](/api/constants/Archetype/SET_DARK_LUCIUS).
+value: 0x104f
+---
+SET_ATLANTEAN
+The ["Atlantean"](https://yugipedia.com/wiki/Atlantean) archetype.
+value: 0x77
+---
+SET_ATTRACTION
+The ["Attraction"](https://yugipedia.com/wiki/Attraction) archetype.
+value: 0x15f
+---
+SET_AZAMINA
+The ["Azamina"](https://yugipedia.com/wiki/Azamina) archetype.
+value: 0x1b4
+---
+SET_BAMBOO_SWORD
+The ["Bamboo Sword"](https://yugipedia.com/wiki/Bamboo_Sword) archetype.
+value: 0x60
+---
+SET_BARBAROS
+The ["Barbaros"](https://yugipedia.com/wiki/Barbaros) archetype.
+value: 0x13e
+---
+SET_BARIANS
+The ["Barian's"](https://yugipedia.com/wiki/Barian%27s) archetype.
+value: 0x1178
+---
+SET_BATTERYMAN
+The ["Batteryman"](https://yugipedia.com/wiki/Batteryman) archetype.
+value: 0x28
+---
+SET_BATTLEGUARD
+The ["Battleguard"](https://yugipedia.com/wiki/Battleguard) archetype.
+value: 0x2178
+---
+SET_BATTLEWASP
+The ["Battlewasp"](https://yugipedia.com/wiki/Battlewasp) archetype.
+value: 0x12f
+---
+SET_BATTLIN_BOXER
+The ["Battlin' Boxer"](https://yugipedia.com/wiki/Battlin%27_Boxer) archetype.
+value: 0x84
+---
+SET_BATTLIN_BOXING
+The ["Battlin' Boxing"](https://yugipedia.com/wiki/Battlin%27_Boxing) archetype.
+value: 0x201
+---
+SET_BEASTS_BATTLE
+The ["Beast's Battle"](https://yugipedia.com/wiki/Beast%27s_Battle) archetype.
+value: 0x4d
+---
+SET_BEETROOPER
+The ["Beetrooper"](https://yugipedia.com/wiki/Beetrooper) archetype.
+value: 0x172
+---
+SET_BES
+The ["B.E.S."](https://yugipedia.com/wiki/B.E.S.) archetype.
+value: 0x15
+---
+SET_BLACKWING
+The ["Blackwing"](https://yugipedia.com/wiki/Blackwing) archetype.
+value: 0x33
+---
+SET_BLACK_LUSTER_SOLDIER
+The ["Black Luster Soldier"](https://yugipedia.com/wiki/Black_Luster_Soldier_(archetype)) archetype. Sub-archetype of [`SET_CHAOS`](/api/constants/Archetype/SET_CHAOS).
+value: 0x10cf
+---
+SET_BLAZE_ACCELERATOR
+The ["Blaze Accelerator"](https://yugipedia.com/wiki/Blaze_Accelerator_(archetype)) archetype.
+value: 0xb9
+---
+SET_BLUE_EYES
+The ["Blue-Eyes"](https://yugipedia.com/wiki/Blue-Eyes) archetype.
+value: 0xdd
+---
+SET_BLUE_TEARS
+The ["Blue Tears"](https://yugipedia.com/wiki/Blue_Tears) archetype.
+value: 0x1a9
+---
+SET_BONDING
+The ["Bonding -"](https://yugipedia.com/wiki/Bonding) archetype.
+value: 0x100
+---
+SET_BORREL
+The ["Borrel"](https://yugipedia.com/wiki/Borrel) archetype.
+value: 0x10f
+---
+SET_BOUNZER
+The ["Bounzer"](https://yugipedia.com/wiki/Bounzer) archetype.
+value: 0x6b
+---
+SET_BRANDED
+The ["Branded"](https://yugipedia.com/wiki/Branded) archetype.
+value: 0x160
+---
+SET_BUJIN
+The ["Bujin"](https://yugipedia.com/wiki/Bujin) archetype.
+value: 0x88
+---
+SET_BURNING_ABYSS
+The ["Burning Abyss"](https://yugipedia.com/wiki/Burning_Abyss) archetype.
+value: 0xb1
+---
+SET_BUSTER_BLADER
+The ["Buster Blader"](https://yugipedia.com/wiki/Buster_Blader_(archetype)) archetype.
+value: 0xd7
+---
+SET_BUTTERSPY
+The ["Butterspy"](https://yugipedia.com/wiki/Butterspy) archetype.
+value: 0x6a
+---
+SET_BYSTIAL
+The ["Bystial"](https://yugipedia.com/wiki/Bystial) archetype.
+value: 0x189
+---
+SET_CELTIC_GUARD
+The ["Celtic Guard"](https://yugipedia.com/wiki/Celtic_Guard) archetype.
+value: 0xe4
+---
+SET_CENTURION
+The ["Centur-Ion"](https://yugipedia.com/wiki/Centur-Ion) archetype.
+value: 0x19b
+---
+SET_CHANGE
+The ["Change"](https://yugipedia.com/wiki/Change) archetype.
+value: 0xa5
+---
+SET_CHAOS
+The ["Chaos"](https://yugipedia.com/wiki/Chaos) archetype.
+value: 0xcf
+---
+SET_CHARMER
+The ["Charmer"](https://yugipedia.com/wiki/Charmer) archetype.
+value: 0xbf
+---
+SET_CHEMICRITTER
+The ["Chemicritter"](https://yugipedia.com/wiki/Chemicritter) archetype.
+value: 0xeb
+---
+SET_CHRONOMALY
+The ["Chronomaly"](https://yugipedia.com/wiki/Chronomaly) archetype.
+value: 0x70
+---
+SET_CHRYSALIS
+The ["Chrysalis"](https://yugipedia.com/wiki/Chrysalis) archetype.
+value: 0x1e
+---
+SET_CIPHER
+The ["Cipher"](https://yugipedia.com/wiki/Cipher) archetype.
+value: 0xe5
+---
+SET_CIPHER_DRAGON
+The ["Cipher Dragon"](https://yugipedia.com/wiki/Cipher_Dragon) archetype. Sub-archetype of [`SET_CIPHER`](/api/constants/Archetype/SET_CIPHER).
+value: 0x10e5
+---
+SET_CLEAR_WING
+The ["Clear Wing"](https://yugipedia.com/wiki/Clear_Wing) archetype.
+value: 0xff
+---
+SET_CLOUDIAN
+The ["Cloudian"](https://yugipedia.com/wiki/Cloudian) archetype.
+value: 0x18
+---
+SET_CODEBREAKER
+The ["Codebreaker"](https://yugipedia.com/wiki/Codebreaker) archetype.
+value: 0x13c
+---
+SET_CODE_TALKER
+The ["Code Talker"](https://yugipedia.com/wiki/Code_Talker_(archetype)) archetype.
+value: 0x101
+---
+SET_CONSTELLAR
+The ["Constellar"](https://yugipedia.com/wiki/Constellar) archetype.
+value: 0x53
+---
+SET_COUNTER
+The ["Counter"](https://yugipedia.com/wiki/Counter_(archetype)) archetype.
+value: 0x200
+---
+SET_CRUSADIA
+The ["Crusadia"](https://yugipedia.com/wiki/Crusadia) archetype.
+value: 0x116
+---
+SET_CRYSTAL
+The ["Crystal"](https://yugipedia.com/wiki/Crystal) archetype.
+value: 0x34
+---
+SET_CRYSTAL_BEAST
+The ["Crystal Beast"](https://yugipedia.com/wiki/Crystal_Beast) archetype. Sub-archetype of [`SET_CRYSTAL`](/api/constants/Archetype/SET_CRYSTAL).
+value: 0x1034
+---
+SET_CRYSTRON
+The ["Crystron"](https://yugipedia.com/wiki/Crystron) archetype.
+value: 0xea
+---
+SET_CUBIC
+The ["Cubic"](https://yugipedia.com/wiki/Cubic) archetype.
+value: 0xe3
+---
+SET_CXYZ
+The ["CXyz"](https://yugipedia.com/wiki/CXyz) archetype. Sub-archetype of [`SET_XYZ`](/api/constants/Archetype/SET_XYZ).
+value: 0x1073
+---
+SET_CYBER
+The ["Cyber"](https://yugipedia.com/wiki/Cyber) archetype.
+value: 0x93
+---
+SET_CYBERDARK
+The ["Cyberdark"](https://yugipedia.com/wiki/Cyberdark) archetype. Sub-archetype of [`SET_CYBER`](/api/constants/Archetype/SET_CYBER).
+value: 0x4093
+---
+SET_CYBERNETIC
+The ["Cybernetic"](https://yugipedia.com/wiki/Cybernetic) archetype.
+value: 0x94
+---
+SET_CYBER_ANGEL
+The ["Cyber Angel"](https://yugipedia.com/wiki/Cyber_Angel) archetype. Sub-archetype of [`SET_CYBER`](/api/constants/Archetype/SET_CYBER).
+value: 0x2093
+---
+SET_CYBER_DRAGON
+The ["Cyber Dragon"](https://yugipedia.com/wiki/Cyber_Dragon_(archetype)) archetype. Sub-archetype of [`SET_CYBER`](/api/constants/Archetype/SET_CYBER).
+value: 0x1093
+---
+SET_CYNET
+The ["Cynet"](https://yugipedia.com/wiki/Cynet) archetype.
+value: 0x118
+---
+SET_DANGER
+The ["Danger!"](https://yugipedia.com/wiki/Danger!) archetype.
+value: 0x11e
+---
+SET_DANTE
+The ["Dante"](https://yugipedia.com/wiki/Dante) archetype.
+value: 0xd5
+---
+SET_DARKLORD
+The ["Darklord"](https://yugipedia.com/wiki/Darklord) archetype.
+value: 0xef
+---
+SET_DARK_CONTRACT
+The ["Dark Contract"](https://yugipedia.com/wiki/Dark_Contract) archetype.
+value: 0xae
+---
+SET_DARK_LUCIUS
+The ["Dark Lucius"](https://yugipedia.com/wiki/Dark_Lucius) series of "LV" monsters. Technically not an archetype but is registered as such on some cards for the LV set handling.
+value: 0x4f
+---
+SET_DARK_MAGICIAN
+The ["Dark Magician"](https://yugipedia.com/wiki/Dark_Magician_(archetype)) archetype.
+value: 0x10a2
+---
+SET_DARK_MAGICIAN_GIRL
+The ["Dark Magician Girl"](https://yugipedia.com/wiki/Dark_Magician_Girl_(archetype)) archetype.
+value: 0x30a2
+---
+SET_DARK_MIMIC
+The ["Dark Mimic"](https://yugipedia.com/wiki/Dark_Mimic) series of "LV" monsters. Technically not an archetype but is registered as such on some cards for the LV set handling.
+value: 0x5e
+---
+SET_DARK_SCORPION
+The ["Dark Scorpion"](https://yugipedia.com/wiki/Dark_Scorpion) archetype.
+value: 0x1a
+---
+SET_DARK_WORLD
+The ["Dark World"](https://yugipedia.com/wiki/Dark_World) archetype.
+value: 0x6
+---
+SET_DD
+The ["D/D"](https://yugipedia.com/wiki/D/D) archetype.
+value: 0xaf
+---
+SET_DDD
+The ["D/D/D"](https://yugipedia.com/wiki/D/D/D) archetype. Sub-archetype of [`SET_DD`](/api/constants/Archetype/SET_DD).
+value: 0x10af
+---
+SET_DESKBOT
+The ["Deskbot"](https://yugipedia.com/wiki/Deskbot) archetype.
+value: 0xab
+---
+SET_DESPIA
+The ["Despia"](https://yugipedia.com/wiki/Despia) archetype.
+value: 0x166
+---
+SET_DESTINY_HERO
+The ["Destiny HERO"](https://yugipedia.com/wiki/Destiny_HERO) archetype. Sub-archetype of [`SET_HERO`](/api/constants/Archetype/SET_HERO).
+value: 0xc008
+---
+SET_DESTRUCTION_SWORD
+The ["Destruction Sword"](https://yugipedia.com/wiki/Destruction_Sword) archetype.
+value: 0xd6
+---
+SET_DIABELL
+The ["Diabell"](https://yugipedia.com/wiki/Diabell) archetype. Sub-archetype of [`SET_DIABELL`](/api/constants/Archetype/SET_DIABELL).
+value: 0x203
+---
+SET_DIABELLESTARR
+The ["Diabellstar"](https://yugipedia.com/wiki/Diabellstar) archetype. Sub-archetype of [`SET_DIABELL`](/api/constants/Archetype/SET_DIABELL).
+value: 0x1203
+---
+SET_DINOMIST
+The ["Dinomist"](https://yugipedia.com/wiki/Dinomist) archetype.
+value: 0xd8
+---
+SET_DINOMORPHIA
+The ["Dinomorphia"](https://yugipedia.com/wiki/Dinomorphia) archetype.
+value: 0x175
+---
+SET_DINOWRESTLER
+The ["Dinowrestler"](https://yugipedia.com/wiki/Dinowrestler) archetype.
+value: 0x11a
+---
+SET_DJINN
+The ["Djinn"](https://yugipedia.com/wiki/Djinn) archetype.
+value: 0x6d
+---
+SET_DODODO
+The ["Dododo"](https://yugipedia.com/wiki/Dododo) archetype.
+value: 0x82
+---
+SET_DOGMATIKA
+The ["Dogmatika"](https://yugipedia.com/wiki/Dogmatika) archetype.
+value: 0x146
+---
+SET_DOLL_MONSTER
+The ["Doll Monster"](https://yugipedia.com/wiki/Doll_Monster) archetype.
+value: 0x15c
+---
+SET_DOMINUS
+The ["Dominus"](https://yugipedia.com/wiki/Dominus) archetype.
+value: 0x1bf
+---
+SET_DOODLEBOOK
+The ["Doodlebook"](https://yugipedia.com/wiki/Doodlebook) archetype.
+value: 0x2186
+---
+SET_DOODLE_BEAST
+The ["Doodle Beast"](https://yugipedia.com/wiki/Doodle_Beast) archetype.
+value: 0x1186
+---
+SET_DRACOSLAYER
+The ["Dracoslayer"](https://yugipedia.com/wiki/Dracoslayer) archetype.
+value: 0xc7
+---
+SET_DRACOVERLORD
+The ["Dracoverlord"](https://yugipedia.com/wiki/Dracoverlord) archetype.
+value: 0xda
+---
+SET_DRAGONMAID
+The ["Dragonmaid"](https://yugipedia.com/wiki/Dragonmaid) archetype.
+value: 0x133
+---
+SET_DRAGON_RULER
+The ["Dragon Ruler"](https://yugipedia.com/wiki/Dragon_Ruler) archetype.
+value: 0x1bc
+---
+SET_DRAGUNITY
+The ["Dragunity"](https://yugipedia.com/wiki/Dragunity) archetype.
+value: 0x29
+---
+SET_DREAM_MIRROR
+The ["Dream Mirror"](https://yugipedia.com/wiki/Dream_Mirror) archetype.
+value: 0x131
+---
+SET_DRYTRON
+The ["Drytron"](https://yugipedia.com/wiki/Drytron) archetype.
+value: 0x151
+---
+SET_DUAL_AVATAR
+The ["Dual Avatar"](https://yugipedia.com/wiki/Dual_Avatar) archetype.
+value: 0x14e
+---
+SET_DUSTON
+The ["Duston"](https://yugipedia.com/wiki/Duston) archetype.
+value: 0x80
+---
+SET_EARTHBOUND
+The ["Earthbound"](https://yugipedia.com/wiki/Earthbound) archetype.
+value: 0x21
+---
+SET_EARTHBOUND_IMMORTAL
+The ["Earthbound Immortal"](https://yugipedia.com/wiki/Earthbound_Immortal) archetype. Sub-archetype of [`SET_EARTHBOUND`](/api/constants/Archetype/SET_EARTHBOUND).
+value: 0x1021
+---
+SET_EDGE_IMP
+The ["Edge Imp"](https://yugipedia.com/wiki/Edge_Imp) archetype.
+value: 0xc3
+---
+SET_ELDER_ENTITY
+The ["Elder Entity"](https://yugipedia.com/wiki/Elder_Entity) archetype.
+value: 0x20b7
+---
+SET_ELDLICH
+The ["Eldlich"](https://yugipedia.com/wiki/Eldlich) archetype.
+value: 0x142
+---
+SET_ELDLIXIR
+The ["Eldlixir"](https://yugipedia.com/wiki/Eldlixir) archetype.
+value: 0x143
+---
+SET_ELEMENTAL_HERO
+The ["Elemental HERO"](https://yugipedia.com/wiki/Elemental_HERO) archetype. Sub-archetype of [`SET_HERO`](/api/constants/Archetype/SET_HERO).
+value: 0x3008
+---
+SET_ELEMENTAL_LORD
+The ["Elemental Lord"](https://yugipedia.com/wiki/Elemental_Lord) archetype.
+value: 0x113
+---
+SET_ELEMENTSABER
+The ["Elementsaber"](https://yugipedia.com/wiki/Elementsaber) archetype. Sub-archetype of [`SET_SABER`](/api/constants/Archetype/SET_SABER).
+value: 0x400d
+---
+SET_EMBLEMA
+The ["Emblema"](https://yugipedia.com/wiki/Emblema) archetype.
+value: 0x1ad
+---
+SET_EMPOWERED_WARRIOR
+The ["Empowered Warrior"](https://yugipedia.com/wiki/Empowered_Warrior) archetype.
+value: 0xca
+---
+SET_ENDYMION
+The ["Endymion"](https://yugipedia.com/wiki/Endymion) archetype.
+value: 0x12a
+---
+SET_EVIL_EYE
+The ["Evil Eye"](https://yugipedia.com/wiki/Evil_Eye) archetype.
+value: 0x129
+---
+SET_EVIL_HERO
+The ["Evil HERO"](https://yugipedia.com/wiki/Evil_HERO) archetype. Sub-archetype of [`SET_HERO`](/api/constants/Archetype/SET_HERO).
+value: 0x6008
+---
+SET_EVIL_TWIN
+The ["Evil★Twin"](https://yugipedia.com/wiki/Evil%E2%98%85Twin) archetype.
+value: 0x155
+---
+SET_EVOLSAUR
+The ["Evolsaur"](https://yugipedia.com/wiki/Evolsaur) archetype.
+value: 0x604e
+---
+SET_EVOLTILE
+The ["Evoltile"](https://yugipedia.com/wiki/Evoltile) archetype.
+value: 0x304e
+---
+SET_EVOLUTION_PILL
+The ["Evolution Pill"](https://yugipedia.com/wiki/Evolution_Pill) archetype.
+value: 0x10e
+---
+SET_EVOLZAR
+The ["Evolzar"](https://yugipedia.com/wiki/Evolzar) archetype.
+value: 0x504e
+---
+SET_EXODD
+The ["Exodd" or "Obliterate!!!"](https://yugipedia.com/wiki/Exodd) archetype.
+value: 0x1a7
+---
+SET_EXODIA
+The ["Exodia"](https://yugipedia.com/wiki/Exodia) archetype.
+value: 0xde
+---
+SET_EXOSISTER
+The ["Exosister"](https://yugipedia.com/wiki/Exosister) archetype.
+value: 0x174
+---
+SET_EYES_RESTRICT
+The ["Eyes Restrict"](https://yugipedia.com/wiki/Eyes_Restrict) archetype. Sub-archetype of [`SET_RELINQUISHED`](/api/constants/Archetype/SET_RELINQUISHED).
+value: 0x1110
+---
+SET_FA
+The ["F.A."](https://yugipedia.com/wiki/F.A.) archetype.
+value: 0x107
+---
+SET_FABLED
+The ["Fabled"](https://yugipedia.com/wiki/Fabled) archetype.
+value: 0x35
+---
+SET_FAMILIAR_POSSESSED
+The ["Familiar-Possessed"](https://yugipedia.com/wiki/Familiar-Possessed) archetype. Sub-archetype of [`SET_POSSESSED`](/api/constants/Archetype/SET_POSSESSED).
+value: 0x10c0
+---
+SET_FAVORITE
+The ["Favorite"](https://yugipedia.com/wiki/Favorite) archetype.
+value: 0x195
+---
+SET_FIENDSMITH
+The ["Fiendsmith"](https://yugipedia.com/wiki/Fiendsmith) archetype.
+value: 0x1a8
+---
+SET_FIREWALL
+The ["Firewall"](https://yugipedia.com/wiki/Firewall_(archetype)) archetype.
+value: 0x190
+---
+SET_FIRE_FIST
+The ["Fire Fist"](https://yugipedia.com/wiki/Fire_Fist) archetype.
+value: 0x79
+---
+SET_FIRE_FORMATION
+The ["Fire Formation"](https://yugipedia.com/wiki/Fire_Formation) archetype.
+value: 0x7c
+---
+SET_FIRE_KING
+The ["Fire King"](https://yugipedia.com/wiki/Fire_King) archetype.
+value: 0x81
+---
+SET_FIRE_KING_AVATAR
+The ["Fire King Avatar"](https://yugipedia.com/wiki/Fire_King_Avatar) archetype. Sub-archetype of [`SET_FIRE_KING`](/api/constants/Archetype/SET_FIRE_KING).
+value: 0x1081
+---
+SET_FISHBORG
+The ["Fishborg"](https://yugipedia.com/wiki/Fishborg) archetype.
+value: 0x96
+---
+SET_FLAMVELL
+The ["Flamvell"](https://yugipedia.com/wiki/Flamvell) archetype.
+value: 0x2c
+---
+SET_FLOOWANDEREEZE
+The ["Floowandereeze"](https://yugipedia.com/wiki/Floowandereeze) archetype.
+value: 0x16f
+---
+SET_FLOWER_CARDIAN
+The ["Flower Cardian"](https://yugipedia.com/wiki/Flower_Cardian) archetype.
+value: 0xe6
+---
+SET_FLUFFAL
+The ["Fluffal"](https://yugipedia.com/wiki/Fluffal) archetype.
+value: 0xa9
+---
+SET_FORBIDDEN
+The ["Forbidden"](https://yugipedia.com/wiki/Forbidden_(archetype)) archetype.
+value: 0x11d
+---
+SET_FORBIDDEN_ONE
+The ["Forbidden One"](https://yugipedia.com/wiki/Forbidden_One) archetype.
+value: 0x40
+---
+SET_FORTUNE_FAIRY
+The ["Fortune Fairy"](https://yugipedia.com/wiki/Fortune_Fairy) archetype.
+value: 0x12e
+---
+SET_FORTUNE_LADY
+The ["Fortune Lady"](https://yugipedia.com/wiki/Fortune_Lady) archetype.
+value: 0x31
+---
+SET_FOSSIL
+The ["Fossil"](https://yugipedia.com/wiki/Fossil) archetype.
+value: 0x14c
+---
+SET_FRIGHTFUR
+The ["Frightfur"](https://yugipedia.com/wiki/Frightfur) archetype.
+value: 0xad
+---
+SET_FROG
+The ["Frog"](https://yugipedia.com/wiki/Frog) archetype.
+value: 0x12
+---
+SET_FUR_HIRE
+The ["Fur Hire"](https://yugipedia.com/wiki/Fur_Hire) archetype.
+value: 0x114
+---
+SET_FUSION
+The ["Polymerization" or "Fusion"](https://yugipedia.com/wiki/Fusion_(archetype)) archetype.
+value: 0x46
+---
+SET_FUSION_DRAGON
+The ["Fusion Dragon"](https://yugipedia.com/wiki/Fusion_Dragon) archetype. Sub-archetype of [`SET_FUSION`](/api/constants/Archetype/SET_FUSION).
+value: 0x1046
+---
+SET_GADGET
+The ["Gadget"](https://yugipedia.com/wiki/Gadget) archetype.
+value: 0x51
+---
+SET_GAGAGA
+The ["Gagaga"](https://yugipedia.com/wiki/Gagaga) archetype.
+value: 0x54
+---
+SET_GAIA_THE_FIERCE_KNIGHT
+The ["Gaia The Fierce Knight"](https://yugipedia.com/wiki/Gaia_The_Fierce_Knight_(archetype)) archetype.
+value: 0xbd
+---
+SET_GALAXY
+The ["Galaxy"](https://yugipedia.com/wiki/Galaxy) archetype.
+value: 0x7b
+---
+SET_GALAXY_EYES
+The ["Galaxy-Eyes"](https://yugipedia.com/wiki/Galaxy-Eyes) archetype. Sub-archetype of [`SET_GALAXY`](/api/constants/Archetype/SET_GALAXY).
+value: 0x107b
+---
+SET_GALAXY_EYES_TACHYON_DRAGON
+The ["Galaxy-Eyes Tachyon Dragon"](https://yugipedia.com/wiki/Galaxy-Eyes_Tachyon_Dragon) archetype. Sub-archetype of [`SET_GALAXY`](/api/constants/Archetype/SET_GALAXY).
+value: 0x307b
+---
+SET_GANDORA
+The ["Gandora"](https://yugipedia.com/wiki/Gandora_(archetype)) archetype.
+value: 0xf5
+---
+SET_GATE_GUARDIAN
+The ["Gate Guardian"](https://yugipedia.com/wiki/Gate_Guardian_(archetype)) archetype. Sub-archetype of [`SET_GUARDIAN`](/api/constants/Archetype/SET_GUARDIAN).
+value: 0x1052
+---
+SET_GEARGIA
+The ["Geargia"](https://yugipedia.com/wiki/Geargia) archetype.
+value: 0x72
+---
+SET_GEARGIANO
+The ["Geargiano"](https://yugipedia.com/wiki/Geargiano_(archetype)) archetype. Sub-archetype of [`SET_GEARGIA`](/api/constants/Archetype/SET_GEARGIA).
+value: 0x1072
+---
+SET_GEM
+The ["Gem-"](https://yugipedia.com/wiki/Gem-) archetype.
+value: 0x47
+---
+SET_GEM_KNIGHT
+The ["Gem-Knight"](https://yugipedia.com/wiki/Gem-Knight) archetype. Sub-archetype of [`SET_GEM`](/api/constants/Archetype/SET_GEM).
+value: 0x1047
+---
+SET_GENERAIDER
+The ["Generaider"](https://yugipedia.com/wiki/Generaider) archetype.
+value: 0x134
+---
+SET_GENEX
+The ["Genex"](https://yugipedia.com/wiki/Genex) archetype.
+value: 0x2
+---
+SET_GENEX_ALLY
+The ["Genex Ally"](https://yugipedia.com/wiki/Genex_Ally) series. Technically not an archetype but is registered as such on some cards. Sub-archetype of [`SET_GENEX`](/api/constants/Archetype/SET_GENEX).
+value: 0x2002
+---
+SET_GHOSTRICK
+The ["Ghostrick"](https://yugipedia.com/wiki/Ghostrick) archetype.
+value: 0x8d
+---
+SET_GHOTI
+The ["Ghoti"](https://yugipedia.com/wiki/Ghoti) archetype.
+value: 0x18b
+---
+SET_GIMMICK_PUPPET
+The ["Gimmick Puppet"](https://yugipedia.com/wiki/Gimmick_Puppet) archetype. Sub-archetype of [`SET_PUPPET`](/api/constants/Archetype/SET_PUPPET).
+value: 0x1083
+---
+SET_GISHKI
+The ["Gishki"](https://yugipedia.com/wiki/Gishki) archetype.
+value: 0x3a
+---
+SET_GLADIATOR
+The ["Gladiator"](https://yugipedia.com/wiki/Gladiator) archetype.
+value: 0x19
+---
+SET_GLADIATOR_BEAST
+The ["Gladiator Beast"](https://yugipedia.com/wiki/Gladiator_Beast) archetype. Sub-archetype of [`SET_GLADIATOR`](/api/constants/Archetype/SET_GLADIATOR).
+value: 0x1019
+---
+SET_GOBLIN
+The ["Goblin"](https://yugipedia.com/wiki/Goblin) archetype.
+value: 0xac
+---
+SET_GOBLIN_RIDER
+The ["Goblin Biker"](https://yugipedia.com/wiki/Goblin_Biker) archetype. Sub-archetype of [`SET_GOBLIN`](/api/constants/Archetype/SET_GOBLIN).
+value: 0x10ac
+---
+SET_GOGOGO
+The ["Gogogo"](https://yugipedia.com/wiki/Gogogo) archetype.
+value: 0x59
+---
+SET_GOLDEN_LAND
+The ["Golden Land"](https://yugipedia.com/wiki/Golden_Land) archetype.
+value: 0x144
+---
+SET_GOLD_PRIDE
+The ["Gold Pride"](https://yugipedia.com/wiki/Gold_Pride) archetype.
+value: 0x193
+---
+SET_GOTTOMS
+The ["Gottoms"](https://yugipedia.com/wiki/Gottoms) archetype.
+value: 0xb0
+---
+SET_GOUKI
+The ["Gouki"](https://yugipedia.com/wiki/Gouki) archetype.
+value: 0xfc
+---
+SET_GRANSOLFACHORD
+The ["GranSolfachord"](https://yugipedia.com/wiki/GranSolfachord) archetype. Sub-archetype of [`SET_SOLFACHORD`](/api/constants/Archetype/SET_SOLFACHORD).
+value: 0x1164
+---
+SET_GRAVEKEEPERS
+The ["Gravekeeper's"](https://yugipedia.com/wiki/Gravekeeper%27s) archetype.
+value: 0x2e
+---
+SET_GRAYDLE
+The ["Graydle"](https://yugipedia.com/wiki/Graydle) archetype.
+value: 0xd1
+---
+SET_GUARDIAN
+The ["Guardian"](https://yugipedia.com/wiki/Guardian) archetype.
+value: 0x52
+---
+SET_GUNKAN
+The ["Gunkan"](https://yugipedia.com/wiki/Gunkan) archetype.
+value: 0x168
+---
+SET_GUSTO
+The ["Gusto"](https://yugipedia.com/wiki/Gusto) archetype.
+value: 0x10
+---
+SET_G_GOLEM
+The ["G Golem"](https://yugipedia.com/wiki/G_Golem) archetype.
+value: 0x187
+---
+SET_HARPIE
+The ["Harpie"](https://yugipedia.com/wiki/Harpie) archetype.
+value: 0x64
+---
+SET_HAZY
+The ["Hazy"](https://yugipedia.com/wiki/Hazy) archetype.
+value: 0x7d
+---
+SET_HAZY_FLAME
+The ["Hazy Flame"](https://yugipedia.com/wiki/Hazy_Flame) archetype. Sub-archetype of [`SET_HAZY`](/api/constants/Archetype/SET_HAZY).
+value: 0x107d
+---
+SET_HEART
+The ["Heart"](https://yugipedia.com/wiki/Heart) archetype.
+value: 0x207
+---
+SET_HELIOS
+The ["Helios"](https://yugipedia.com/wiki/Helios) archetype.
+value: 0x6c
+---
+SET_HERALDIC_BEAST
+The ["Heraldic Beast"](https://yugipedia.com/wiki/Heraldic_Beast) archetype.
+value: 0x76
+---
+SET_HERALDRY
+The ["Heraldry"](https://yugipedia.com/wiki/Heraldry) archetype.
+value: 0x92
+---
+SET_HERO
+The ["HERO"](https://yugipedia.com/wiki/HERO) archetype.
+value: 0x8
+---
+SET_HEROIC
+The ["Heroic"](https://yugipedia.com/wiki/Heroic) archetype.
+value: 0x6f
+---
+SET_HEROIC_CHALLENGER
+The ["Heroic Challenger"](https://yugipedia.com/wiki/Heroic_Challenger) archetype. Sub-archetype of [`SET_HEROIC`](/api/constants/Archetype/SET_HEROIC).
+value: 0x106f
+---
+SET_HEROIC_CHAMPION
+The ["Heroic Champion"](https://yugipedia.com/wiki/Heroic_Champion) archetype. Sub-archetype of [`SET_HEROIC`](/api/constants/Archetype/SET_HEROIC).
+value: 0x206f
+---
+SET_HIERATIC
+The ["Hieratic"](https://yugipedia.com/wiki/Hieratic) archetype.
+value: 0x69
+---
+SET_HOLE
+The ["Hole"](https://yugipedia.com/wiki/Hole) archetype.
+value: 0x89
+---
+SET_HORUS
+The ["Horus"](https://yugipedia.com/wiki/Horus) archetype.
+value: 0x3
+---
+SET_HORUS_BLACK_FLAME_DRAGON
+The ["Horus the Black Flame Dragon"](https://yugipedia.com/wiki/Horus_the_Black_Flame_Dragon) archetype. Sub-archetype of [`SET_HORUS`](/api/constants/Archetype/SET_HORUS).
+value: 0x1003
+---
+SET_HYPERION
+The ["Hyperion"](https://yugipedia.com/wiki/Hyperion) archetype.
+value: 0x171
+---
+SET_ICEJADE
+The ["Icejade"](https://yugipedia.com/wiki/Icejade) archetype.
+value: 0x16e
+---
+SET_ICE_BARRIER
+The ["Ice Barrier"](https://yugipedia.com/wiki/Ice_Barrier) archetype.
+value: 0x2f
+---
+SET_IGKNIGHT
+The ["Igknight"](https://yugipedia.com/wiki/Igknight) archetype.
+value: 0xc8
+---
+SET_IGNISTER
+The ["@Ignister"](https://yugipedia.com/wiki/@Ignister) archetype.
+value: 0x135
+---
+SET_IMPCANTATION
+The ["Impcantation"](https://yugipedia.com/wiki/Impcantation) archetype.
+value: 0x117
+---
+SET_INFERNITY
+The ["Infernity"](https://yugipedia.com/wiki/Infernity) archetype.
+value: 0xb
+---
+SET_INFERNOBLE_ARMS
+The ["Infernoble Arms"](https://yugipedia.com/wiki/Infernoble_Arms) archetype.
+value: 0x607a
+---
+SET_INFERNOBLE_KNIGHT
+The ["Infernoble Knight"](https://yugipedia.com/wiki/Infernoble_Knight) archetype.
+value: 0x507a
+---
+SET_INFERNOID
+The ["Infernoid"](https://yugipedia.com/wiki/Infernoid) archetype.
+value: 0xbb
+---
+SET_INFESTATION
+The ["Infestation"](https://yugipedia.com/wiki/Infestation) archetype.
+value: 0x65
+---
+SET_INFINITRACK
+The ["Infinitrack"](https://yugipedia.com/wiki/Infinitrack) archetype.
+value: 0x127
+---
+SET_INMATO
+The ["Inmato"](https://yugipedia.com/wiki/Inmato_(archetype)) archetype.
+value: 0x5b
+---
+SET_INVOKED
+The ["Invoked"](https://yugipedia.com/wiki/Invoked) archetype.
+value: 0xf4
+---
+SET_INZEKTOR
+The ["Inzektor"](https://yugipedia.com/wiki/Inzektor) archetype.
+value: 0x56
+---
+SET_IRON_CHAIN
+The ["Iron Chain"](https://yugipedia.com/wiki/Iron_Chain) archetype.
+value: 0x25
+---
+SET_JINZO
+The ["Jinzo"](https://yugipedia.com/wiki/Jinzo_(archetype)) archetype.
+value: 0xbc
+---
+SET_JUNK
+The ["Junk"](https://yugipedia.com/wiki/Junk) archetype.
+value: 0x43
+---
+SET_JURRAC
+The ["Jurrac"](https://yugipedia.com/wiki/Jurrac) archetype.
+value: 0x22
+---
+SET_KAIJU
+The ["Kaiju"](https://yugipedia.com/wiki/Kaiju) archetype.
+value: 0xd3
+---
+SET_KAIRYU_SHIN
+The ["Kairyu-Shin"](https://yugipedia.com/wiki/Kairyu-Shin_(archetype)) archetype.
+value: 0x179
+---
+SET_KANGAROO
+The ["Kangaroo"](https://yugipedia.com/wiki/Kangaroo) archetype.
+value: 0x68
+---
+SET_KARAKURI
+The ["Karakuri"](https://yugipedia.com/wiki/Karakuri) archetype.
+value: 0x11
+---
+SET_KASHTIRA
+The ["Kashtira"](https://yugipedia.com/wiki/Kashtira) archetype.
+value: 0x18a
+---
+SET_KI_SIKIL
+The ["Ki-sikil"](https://yugipedia.com/wiki/Ki-sikil) archetype.
+value: 0x153
+---
+SET_KNIGHTMARE
+The ["Knightmare"](https://yugipedia.com/wiki/Knightmare) archetype.
+value: 0x112
+---
+SET_KOAKI_MEIRU
+The ["Koa'ki Meiru"](https://yugipedia.com/wiki/Koa%27ki_Meiru) archetype.
+value: 0x1d
+---
+SET_KOALA
+The ["Koala"](https://yugipedia.com/wiki/Koala) archetype.
+value: 0x67
+---
+SET_KOZMO
+The ["Kozmo"](https://yugipedia.com/wiki/Kozmo) archetype.
+value: 0xd2
+---
+SET_KRAWLER
+The ["Krawler"](https://yugipedia.com/wiki/Krawler) archetype.
+value: 0x104
+---
+SET_KURIBOH
+The ["Kuriboh"](https://yugipedia.com/wiki/Kuriboh_(archetype)) archetype.
+value: 0xa4
+---
+SET_LABRYNTH
+The ["Labrynth"](https://yugipedia.com/wiki/Labrynth) archetype.
+value: 0x17f
+---
+SET_LABYRINTH_WALL
+The ["Labyrinth Wall"](https://yugipedia.com/wiki/Labyrinth_Wall_(archetype)) archetype.
+value: 0x194
+---
+SET_LADY_OF_LAMENT
+The ["Lady of Lament"](https://yugipedia.com/wiki/Lady_of_Lament) archetype.
+value: 0x176
+---
+SET_LAUNDSALLYN
+The ["Laundsallyn"](https://yugipedia.com/wiki/Laundsallyn) archetype.
+value: 0xa8
+---
+SET_LAVAL
+The ["Laval"](https://yugipedia.com/wiki/Laval) archetype.
+value: 0x39
+---
+SET_LEGENDARY_DRAGON
+The ["Legendary Dragon"](https://yugipedia.com/wiki/Legendary_Dragon) archetype.
+value: 0xa1
+---
+SET_LEGENDARY_KNIGHT
+The ["Legendary Knight"](https://yugipedia.com/wiki/Legendary_Knight) archetype.
+value: 0xa0
+---
+SET_LIBROMANCER
+The ["Libromancer"](https://yugipedia.com/wiki/Libromancer) archetype.
+value: 0x17d
+---
+SET_LIGHTSWORN
+The ["Lightsworn"](https://yugipedia.com/wiki/Lightsworn) archetype.
+value: 0x38
+---
+SET_LIL_LA
+The ["Lil-la"](https://yugipedia.com/wiki/Lil-la) archetype.
+value: 0x154
+---
+SET_LIVE_TWIN
+The ["Live☆Twin"](https://yugipedia.com/wiki/Live%E2%98%86Twin) archetype.
+value: 0x156
+---
+SET_LSWARM
+The ["lswarm"](https://yugipedia.com/wiki/Lswarm) archetype.
+value: 0xa
+---
+SET_LUNALIGHT
+The ["Lunalight"](https://yugipedia.com/wiki/Lunalight) archetype.
+value: 0xdf
+---
+SET_LV
+The ["LV"](https://yugipedia.com/wiki/LV) archetype.
+value: 0x41
+---
+SET_LYRILUSC
+The ["Lyrilusc"](https://yugipedia.com/wiki/Lyrilusc) archetype.
+value: 0xf7
+---
+SET_MACHINA
+The ["Machina"](https://yugipedia.com/wiki/Machina) archetype.
+value: 0x36
+---
+SET_MACHINE_ANGEL
+The ["Machine Angel"](https://yugipedia.com/wiki/Machine_Angel) archetype.
+value: 0x124
+---
+SET_MADOLCHE
+The ["Madolche"](https://yugipedia.com/wiki/Madolche) archetype.
+value: 0x71
+---
+SET_MAGICAL_MUSKET
+The ["Magical Musket"](https://yugipedia.com/wiki/Magical_Musket) archetype.
+value: 0x108
+---
+SET_MAGICIAN
+The ["Magician"](https://yugipedia.com/wiki/Magician) archetype.
+value: 0x98
+---
+SET_MAGICIAN_GIRL
+The ["Magician Girl"](https://yugipedia.com/wiki/Magician_Girl) archetype.
+value: 0x20a2
+---
+SET_MAGIKEY
+The ["Magikey"](https://yugipedia.com/wiki/Magikey) archetype.
+value: 0x167
+---
+SET_MAGISTUS
+The ["Magistus"](https://yugipedia.com/wiki/Magistus) archetype.
+value: 0x152
+---
+SET_MAGNA_WARRIOR
+The ["Magna Warrior"](https://yugipedia.com/wiki/Magna_Warrior) archetype.
+value: 0xe9
+---
+SET_MAGNET_WARRIOR
+The ["Magnet Warrior"](https://yugipedia.com/wiki/Magnet_Warrior) archetype. Sub-archetype of [`SET_WARRIOR`](/api/constants/Archetype/SET_WARRIOR).
+value: 0x2066
+---
+SET_MAJESPECTER
+The ["Majespecter"](https://yugipedia.com/wiki/Majespecter) archetype.
+value: 0xd0
+---
+SET_MAJESTIC
+The ["Majestic"](https://yugipedia.com/wiki/Majestic) archetype.
+value: 0x3f
+---
+SET_MALEFIC
+The ["Malefic"](https://yugipedia.com/wiki/Malefic) archetype.
+value: 0x23
+---
+SET_MALICEVOROUS
+The ["Malicevorous"](https://yugipedia.com/wiki/Malicevorous) archetype.
+value: 0x8b
+---
+SET_MALISS
+The ["Maliss"](https://yugipedia.com/wiki/Maliss) archetype.
+value: 0x1b9
+---
+SET_MANNADIUM
+The ["Mannadium"](https://yugipedia.com/wiki/Mannadium) archetype.
+value: 0x191
+---
+SET_MARINCESS
+The ["Marincess"](https://yugipedia.com/wiki/Marincess) archetype.
+value: 0x12b
+---
+SET_MASKED_HERO
+The ["Masked HERO"](https://yugipedia.com/wiki/Masked_HERO) archetype. Sub-archetype of [`SET_HERO`](/api/constants/Archetype/SET_HERO).
+value: 0xa008
+---
+SET_MATERIACTOR
+The ["Materiactor"](https://yugipedia.com/wiki/Materiactor) archetype.
+value: 0x162
+---
+SET_MATHMECH
+The ["Mathmech"](https://yugipedia.com/wiki/Mathmech) archetype.
+value: 0x132
+---
+SET_MAYAKASHI
+The ["Mayakashi"](https://yugipedia.com/wiki/Mayakashi) archetype.
+value: 0x121
+---
+SET_MECHA_PHANTOM_BEAST
+The ["Mecha Phantom Beast"](https://yugipedia.com/wiki/Mecha_Phantom_Beast) archetype. Sub-archetype of [`SET_PHANTOM_BEAST`](/api/constants/Archetype/SET_PHANTOM_BEAST).
+value: 0x101b
+---
+SET_MEGALITH
+The ["Megalith"](https://yugipedia.com/wiki/Megalith) archetype.
+value: 0x138
+---
+SET_MEKK_KNIGHT
+The ["Mekk-Knight"](https://yugipedia.com/wiki/Mekk-Knight) archetype.
+value: 0x10c
+---
+SET_MEKLORD
+The ["Meklord"](https://yugipedia.com/wiki/Meklord) archetype.
+value: 0x13
+---
+SET_MEKLORD_ARMY
+The ["Meklord Army"](https://yugipedia.com/wiki/Meklord_Army) archetype. Sub-archetype of [`SET_MEKLORD`](/api/constants/Archetype/SET_MEKLORD).
+value: 0x6013
+---
+SET_MEKLORD_ASTRO
+The ["Meklord Astro"](https://yugipedia.com/wiki/Meklord_Astro) archetype. Sub-archetype of [`SET_MEKLORD`](/api/constants/Archetype/SET_MEKLORD).
+value: 0x9013
+---
+SET_MEKLORD_EMPEROR
+The ["Meklord Emperor"](https://yugipedia.com/wiki/Meklord_Emperor) archetype. Sub-archetype of [`SET_MEKLORD`](/api/constants/Archetype/SET_MEKLORD).
+value: 0x3013
+---
+SET_MELFFY
+The ["Melffy"](https://yugipedia.com/wiki/Melffy) archetype.
+value: 0x147
+---
+SET_MELODIOUS
+The ["Melodious"](https://yugipedia.com/wiki/Melodious) archetype.
+value: 0x9b
+---
+SET_MELODIOUS_MAESTRA
+The ["Melodious Maestra"](https://yugipedia.com/wiki/Melodious_Maestra) archetype. Sub-archetype of [`SET_MELODIOUS`](/api/constants/Archetype/SET_MELODIOUS).
+value: 0x109b
+---
+SET_MEMENTO
+The ["Memento"](https://yugipedia.com/wiki/Memento) archetype.
+value: 0x19a
+---
+SET_MERMAIL
+The ["Mermail"](https://yugipedia.com/wiki/Mermail) archetype.
+value: 0x74
+---
+SET_METALFOES
+The ["Metalfoes"](https://yugipedia.com/wiki/Metalfoes) archetype.
+value: 0xe1
+---
+SET_METALMORPH
+The ["Metalmorph"](https://yugipedia.com/wiki/Metalmorph_(archetype)) archetype.
+value: 0x1b2
+---
+SET_METAPHYS
+The ["Metaphys"](https://yugipedia.com/wiki/Metaphys) archetype.
+value: 0x105
+---
+SET_MIKANKO
+The ["Mikanko"](https://yugipedia.com/wiki/Mikanko) archetype.
+value: 0x18e
+---
+SET_MILLENNIUM
+The ["Millennium"](https://yugipedia.com/wiki/Millennium) archetype.
+value: 0x1a6
+---
+SET_MIMIGHOUL
+The ["Mimighoul"](https://yugipedia.com/wiki/Mimighoul) archetype.
+value: 0x1b5
+---
+SET_MIST_VALLEY
+The ["Mist Valley"](https://yugipedia.com/wiki/Mist_Valley) archetype.
+value: 0x37
+---
+SET_MITSURUGI
+The ["Mitsurugi"](https://yugipedia.com/wiki/Mitsurugi) archetype.
+value: 0x1bd
+---
+SET_MOKEY_MOKEY
+The ["Mokey Mokey"](https://yugipedia.com/wiki/Mokey_Mokey_(archetype)) archetype.
+value: 0x184
+---
+SET_MONARCH
+The ["Monarch"](https://yugipedia.com/wiki/Monarch) archetype.
+value: 0xbe
+---
+SET_MORGANITE
+The ["Morganite"](https://yugipedia.com/wiki/Morganite) archetype.
+value: 0x1b3
+---
+SET_MORPHTRONIC
+The ["Morphtronic"](https://yugipedia.com/wiki/Morphtronic) archetype.
+value: 0x26
+---
+SET_MULCHARMY
+The ["Mulcharmy"](https://yugipedia.com/wiki/Mulcharmy) archetype.
+value: 0x1ac
+---
+SET_MYSTICAL_BEAST_OF_THE_FOREST
+The ["Mystical Beast of the Forest"](https://yugipedia.com/wiki/Mystical_Beast_of_the_Forest) archetype.
+value: 0x1169
+---
+SET_MYSTICAL_SPIRIT_OF_THE_FOREST
+The ["Mystical Spirit of the Forest"](https://yugipedia.com/wiki/Mystical_Spirit_of_the_Forest) archetype.
+value: 0x2169
+---
+SET_MYSTIC_SWORDSMAN
+The ["Mystic Swordsman"](https://yugipedia.com/wiki/Mystic_Swordsman) series of "LV" monsters. Technically not an archetype but is registered as such on some cards for the LV set handling.
+value: 0x5f
+---
+SET_MYTHICAL_BEAST
+The ["Mythical Beast"](https://yugipedia.com/wiki/Mythical_Beast) archetype.
+value: 0x10d
+---
+SET_MYUTANT
+The ["Myutant"](https://yugipedia.com/wiki/Myutant) archetype.
+value: 0x159
+---
+SET_NATURIA
+The ["Naturia"](https://yugipedia.com/wiki/Naturia) archetype.
+value: 0x2a
+---
+SET_NECROVALLEY
+The ["Necrovalley"](https://yugipedia.com/wiki/Necrovalley_(archetype)) archetype.
+value: 0x91
+---
+SET_NEKROZ
+The ["Nekroz"](https://yugipedia.com/wiki/Nekroz) archetype.
+value: 0xb4
+---
+SET_NEMESES
+The ["Nemeses"](https://yugipedia.com/wiki/Nemeses) archetype.
+value: 0x13d
+---
+SET_NEMLERIA
+The ["Nemleria"](https://yugipedia.com/wiki/Nemleria) archetype.
+value: 0x192
+---
+SET_NEOS
+The ["Neos"](https://yugipedia.com/wiki/Neos) archetype.
+value: 0x9
+---
+SET_NEO_SPACIAN
+The ["Neo-Spacian"](https://yugipedia.com/wiki/Neo-Spacian) archetype.
+value: 0x1f
+---
+SET_NEPHTHYS
+The ["Nephthys"](https://yugipedia.com/wiki/Nephthys) archetype.
+value: 0x11f
+---
+SET_NIMBLE
+The ["Nimble"](https://yugipedia.com/wiki/Nimble) archetype.
+value: 0x78
+---
+SET_NINJA
+The ["Ninja"](https://yugipedia.com/wiki/Ninja) archetype.
+value: 0x2b
+---
+SET_NINJITSU_ART
+The ["Ninjitsu Art"](https://yugipedia.com/wiki/Ninjitsu_Art) archetype.
+value: 0x61
+---
+SET_NITRO
+The ["Nitro"](https://yugipedia.com/wiki/Nitro) archetype.
+value: 0x2d
+---
+SET_NOBLE_ARMS
+The ["Noble Arms"](https://yugipedia.com/wiki/Noble_Arms) archetype.
+value: 0x207a
+---
+SET_NOBLE_KNIGHT
+The ["Noble Knight"](https://yugipedia.com/wiki/Noble_Knight) archetype.
+value: 0x107a
+---
+SET_NORDIC
+The ["Nordic"](https://yugipedia.com/wiki/Nordic) archetype.
+value: 0x42
+---
+SET_NORDIC_ALFAR
+The ["Nordic Alfar"](https://yugipedia.com/wiki/Nordic_Alfar) archetype. Sub-archetype of [`SET_NORDIC`](/api/constants/Archetype/SET_NORDIC).
+value: 0xa042
+---
+SET_NORDIC_ASCENDANT
+The ["Nordic Ascendant"](https://yugipedia.com/wiki/Nordic_Ascendant) archetype. Sub-archetype of [`SET_NORDIC`](/api/constants/Archetype/SET_NORDIC).
+value: 0x3042
+---
+SET_NORDIC_BEAST
+The ["Nordic Beast"](https://yugipedia.com/wiki/Nordic_Beast) archetype. Sub-archetype of [`SET_NORDIC`](/api/constants/Archetype/SET_NORDIC).
+value: 0x6042
+---
+SET_NORDIC_RELIC
+The ["Nordic Relic"](https://yugipedia.com/wiki/Nordic_Relic) archetype. Sub-archetype of [`SET_NORDIC`](/api/constants/Archetype/SET_NORDIC).
+value: 0x5042
+---
+SET_NOUVELLES
+The ["Nouvelles"](https://yugipedia.com/wiki/Nouvelles) archetype.
+value: 0x197
+---
+SET_NUMBER
+The ["Number"](https://yugipedia.com/wiki/Number) archetype.
+value: 0x48
+---
+SET_NUMBER_C
+The ["Number C"](https://yugipedia.com/wiki/Number_C) archetype. Sub-archetype of [`SET_NUMBER`](/api/constants/Archetype/SET_NUMBER).
+value: 0x1048
+---
+SET_NUMBER_C39
+The ["Number C39"](https://yugipedia.com/wiki/Number_C39) archetype. Sub-archetype of [`SET_NUMBER`](/api/constants/Archetype/SET_NUMBER).
+value: 0x5048
+---
+SET_NUMBER_SPELL_TRAP
+The ["Number"](https://yugipedia.com/wiki/Number) archetype.
+value: 0x16c
+---
+SET_NUMERON
+The ["Numeron"](https://yugipedia.com/wiki/Numeron) archetype.
+value: 0x14b
+---
+SET_NUMERON_GATE
+The ["Numeron Gate"](https://yugipedia.com/wiki/Numeron_Gate) archetype. Sub-archetype of [`SET_NUMERON`](/api/constants/Archetype/SET_NUMERON).
+value: 0x114b
+---
+SET_NUMEROUNIOUS
+The ["Numerounius"](https://yugipedia.com/wiki/Numerounius) archetype.
+value: 0x16b
+---
+SET_ODD_EYES
+The ["Odd-Eyes"](https://yugipedia.com/wiki/Odd-Eyes) archetype.
+value: 0x99
+---
+SET_OGDOADIC
+The ["Ogdoadic"](https://yugipedia.com/wiki/Ogdoadic) archetype.
+value: 0x163
+---
+SET_OJAMA
+The ["Ojama"](https://yugipedia.com/wiki/Ojama) archetype.
+value: 0xf
+---
+SET_OLD_ENTITY
+The ["Old Entity"](https://yugipedia.com/wiki/Old_Entity) archetype.
+value: 0x40b7
+---
+SET_ONOMAT
+The ["Onomat"](https://yugipedia.com/wiki/Onomat) archetype.
+value: 0x139
+---
+SET_ORCUST
+The ["Orcust"](https://yugipedia.com/wiki/Orcust) archetype.
+value: 0x11b
+---
+SET_OUTER_ENTITY
+The ["Outer Entity"](https://yugipedia.com/wiki/Outer_Entity) archetype.
+value: 0x10b7
+---
+SET_PALEOZOIC
+The ["Paleozoic"](https://yugipedia.com/wiki/Paleozoic) archetype.
+value: 0xd4
+---
+SET_PALLADIUM
+The ["Palladium"](https://yugipedia.com/wiki/Palladium) archetype.
+value: 0x13a
+---
+SET_PARSHATH
+The ["Parshath"](https://yugipedia.com/wiki/Parshath) archetype.
+value: 0x10a
+---
+SET_PATISSCIEL
+The ["Patissciel"](https://yugipedia.com/wiki/Patissciel) archetype.
+value: 0x206
+---
+SET_PENDULUM
+The ["Pendulum"](https://yugipedia.com/wiki/Pendulum_(archetype)) archetype.
+value: 0xf2
+---
+SET_PENDULUMGRAPH
+The ["Pendulumgraph"](https://yugipedia.com/wiki/Pendulumgraph) archetype. Sub-archetype of [`SET_PENDULUM`](/api/constants/Archetype/SET_PENDULUM).
+value: 0x20f2
+---
+SET_PENDULUM_DRAGON
+The ["Pendulum Dragon"](https://yugipedia.com/wiki/Pendulum_Dragon) archetype. Sub-archetype of [`SET_PENDULUM`](/api/constants/Archetype/SET_PENDULUM).
+value: 0x10f2
+---
+SET_PENGUIN
+The ["Penguin"](https://yugipedia.com/wiki/Penguin) archetype.
+value: 0x5a
+---
+SET_PERFORMAGE
+The ["Performage"](https://yugipedia.com/wiki/Performage) archetype.
+value: 0xc6
+---
+SET_PERFORMAPAL
+The ["Performapal"](https://yugipedia.com/wiki/Performapal) archetype.
+value: 0x9f
+---
+SET_PHANTASM
+The ["Phantasm"](https://yugipedia.com/wiki/Phantasm) archetype.
+value: 0x145
+---
+SET_PHANTASM_SPIRAL
+The ["Phantasm Spiral"](https://yugipedia.com/wiki/Phantasm_Spiral) archetype.
+value: 0xfa
+---
+SET_PHANTOM_BEAST
+The ["Phantom Beast"](https://yugipedia.com/wiki/Phantom_Beast) archetype.
+value: 0x1b
+---
+SET_PHANTOM_KNIGHTS
+The ["Phantom Knights"](https://yugipedia.com/wiki/Phantom_Knights) archetype.
+value: 0xdb
+---
+SET_PHOTON
+The ["Photon"](https://yugipedia.com/wiki/Photon) archetype.
+value: 0x55
+---
+SET_PLUNDER_PATROLL
+The ["Plunder Patroll"](https://yugipedia.com/wiki/Plunder_Patroll) archetype.
+value: 0x13f
+---
+SET_POSSESSED
+The ["Possessed"](https://yugipedia.com/wiki/Possessed) archetype.
+value: 0xc0
+---
+SET_POTAN
+The ["Potan"](https://yugipedia.com/wiki/Potan) archetype.
+value: 0x148
+---
+SET_POWER_TOOL
+The ["Power Tool"](https://yugipedia.com/wiki/Power_Tool) archetype.
+value: 0xc2
+---
+SET_PRANK_KIDS
+The ["Prank-Kids"](https://yugipedia.com/wiki/Prank-Kids) archetype.
+value: 0x120
+---
+SET_PREDAP
+The ["Predap"](https://yugipedia.com/wiki/Predap) archetype.
+value: 0xf3
+---
+SET_PREDAPLANT
+The ["Predaplant"](https://yugipedia.com/wiki/Predaplant) archetype. Sub-archetype of [`SET_PREDAP`](/api/constants/Archetype/SET_PREDAP).
+value: 0x10f3
+---
+SET_PREDICTION_PRINCESS
+The ["Prediction Princess"](https://yugipedia.com/wiki/Prediction_Princess) archetype.
+value: 0xcc
+---
+SET_PRIMITE
+The ["Primite"](https://yugipedia.com/wiki/Primite) archetype.
+value: 0x1b0
+---
+SET_PROPHECY
+The ["Prophecy"](https://yugipedia.com/wiki/Prophecy) archetype.
+value: 0x6e
+---
+SET_PSY_FRAME
+The ["PSY-Frame"](https://yugipedia.com/wiki/PSY-Frame) archetype.
+value: 0xc1
+---
+SET_PSY_FRAMEGEAR
+The ["PSY-Framegear"](https://yugipedia.com/wiki/PSY-Framegear) archetype. Sub-archetype of [`SET_PSY_FRAME`](/api/constants/Archetype/SET_PSY_FRAME).
+value: 0x10c1
+---
+SET_PUNK
+The ["P.U.N.K."](https://yugipedia.com/wiki/P.U.N.K.) archetype.
+value: 0x173
+---
+SET_PUPPET
+The ["Puppet"](https://yugipedia.com/wiki/Puppet) archetype.
+value: 0x83
+---
+SET_PURRELY
+The ["Purrely"](https://yugipedia.com/wiki/Purrely) archetype.
+value: 0x18d
+---
+SET_QLI
+The ["Qli"](https://yugipedia.com/wiki/Qli) archetype.
+value: 0xaa
+---
+SET_RAGNARAIKA
+The ["Ragnaraika"](https://yugipedia.com/wiki/Ragnaraika) archetype.
+value: 0x1a3
+---
+SET_RAIDRAPTOR
+The ["Raidraptor"](https://yugipedia.com/wiki/Raidraptor) archetype.
+value: 0xba
+---
+SET_RAINBOW_BRIDGE
+The ["Rainbow Bridge"](https://yugipedia.com/wiki/Rainbow_Bridge_(archetype)) archetype.
+value: 0x188
+---
+SET_RANK_DOWN_MAGIC
+The ["Rank-Down-Magic"](https://yugipedia.com/wiki/Rank-Down-Magic) archetype.
+value: 0x15d
+---
+SET_RANK_UP_MAGIC
+The ["Rank-Up-Magic"](https://yugipedia.com/wiki/Rank-Up-Magic) archetype.
+value: 0x95
+---
+SET_REACTOR
+The ["Reactor"](https://yugipedia.com/wiki/Reactor) archetype.
+value: 0x63
+---
+SET_REBELLION
+The ["Rebellion"](https://yugipedia.com/wiki/Rebellion_(archetype)) archetype.
+value: 0x13b
+---
+SET_RECIPE
+The ["Recipe"](https://yugipedia.com/wiki/Recipe) archetype.
+value: 0x198
+---
+SET_RED_DRAGON_ARCHFIEND
+The ["Red Dragon Archfiend"](https://yugipedia.com/wiki/Red_Dragon_Archfiend_(archetype)) archetype. Sub-archetype of [`SET_ARCHFIEND`](/api/constants/Archetype/SET_ARCHFIEND).
+value: 0x1045
+---
+SET_RED_EYES
+The ["Red-Eyes"](https://yugipedia.com/wiki/Red-Eyes) archetype.
+value: 0x3b
+---
+SET_REGENESIS
+The ["Regenesis"](https://yugipedia.com/wiki/Regenesis) archetype.
+value: 0x1be
+---
+SET_RELINQUISHED
+The ["Relinquished"](https://yugipedia.com/wiki/Relinquished_(archetype)) archetype.
+value: 0x110
+---
+SET_REPTILIANNE
+The ["Reptilianne"](https://yugipedia.com/wiki/Reptilianne) archetype.
+value: 0x3c
+---
+SET_RESCUE_ACE
+The ["Rescue-ACE"](https://yugipedia.com/wiki/Rescue-ACE) archetype.
+value: 0x18c
+---
+SET_RESONATOR
+The ["Resonator"](https://yugipedia.com/wiki/Resonator) archetype.
+value: 0x57
+---
+SET_RIKKA
+The ["Rikka"](https://yugipedia.com/wiki/Rikka) archetype.
+value: 0x141
+---
+SET_RITUAL_BEAST
+The ["Ritual Beast"](https://yugipedia.com/wiki/Ritual_Beast) archetype.
+value: 0xb5
+---
+SET_RITUAL_BEAST_TAMER
+The ["Ritual Beast Tamer"](https://yugipedia.com/wiki/Ritual_Beast_Tamer) archetype. Sub-archetype of [`SET_RITUAL_BEAST`](/api/constants/Archetype/SET_RITUAL_BEAST).
+value: 0x10b5
+---
+SET_RITUAL_BEAST_ULTI
+The ["Ritual Beast Ulti-"](https://yugipedia.com/wiki/Ritual_Beast_Ulti) archetype. Sub-archetype of [`SET_RITUAL_BEAST`](/api/constants/Archetype/SET_RITUAL_BEAST).
+value: 0x40b5
+---
+SET_ROID
+The ["roid"](https://yugipedia.com/wiki/Roid) archetype.
+value: 0x16
+---
+SET_ROKKET
+The ["Rokket"](https://yugipedia.com/wiki/Rokket) archetype.
+value: 0x102
+---
+SET_ROLAND
+The ["Roland"](https://yugipedia.com/wiki/Roland_(archetype)) archetype.
+value: 0x149
+---
+SET_ROSE
+The ["Rose"](https://yugipedia.com/wiki/Rose) archetype.
+value: 0x123
+---
+SET_ROSE_DRAGON
+The ["Rose Dragon"](https://yugipedia.com/wiki/Rose_Dragon) archetype. Sub-archetype of [`SET_ROSE`](/api/constants/Archetype/SET_ROSE).
+value: 0x1123
+---
+SET_RUNICK
+The ["Runick"](https://yugipedia.com/wiki/Runick) archetype.
+value: 0x180
+---
+SET_RYU_GE
+The ["Ryu-Ge"](https://yugipedia.com/wiki/Ryu-Ge) archetype.
+value: 0x1b8
+---
+SET_RYZEAL
+The ["Ryzeal"](https://yugipedia.com/wiki/Ryzeal) archetype.
+value: 0x1b6
+---
+SET_R_GENEX
+The ["R-Genex"](https://yugipedia.com/wiki/R-Genex) archetype. Sub-archetype of [`SET_GENEX`](/api/constants/Archetype/SET_GENEX).
+value: 0x1002
+---
+SET_SABER
+The ["Saber"](https://yugipedia.com/wiki/Saber) archetype.
+value: 0xd
+---
+SET_SALAMANDRA
+The ["Salamandra"](https://yugipedia.com/wiki/Salamandra_(archetype)) archetype.
+value: 0x1a4
+---
+SET_SALAMANGREAT
+The ["Salamangreat"](https://yugipedia.com/wiki/Salamangreat) archetype.
+value: 0x119
+---
+SET_SANGEN
+The ["Sangen"](https://yugipedia.com/wiki/Sangen) archetype.
+value: 0x1a2
+---
+SET_SCARECLAW
+The ["Scareclaw"](https://yugipedia.com/wiki/Scareclaw) archetype.
+value: 0x17c
+---
+SET_SCHOOLWORK_SUCCESS
+The "Schoolwork Success" archetype.
+value: 0x1b7
+---
+SET_SCRAP
+The ["Scrap"](https://yugipedia.com/wiki/Scrap) archetype.
+value: 0x24
+---
+SET_SEA_STEALTH
+The ["Sea Stealth"](https://yugipedia.com/wiki/Sea_Stealth) archetype.
+value: 0x17a
+---
+SET_SECRET_SIX_SAMURAI
+The ["Secret Six Samurai"](https://yugipedia.com/wiki/Secret_Six_Samurai) archetype. Sub-archetype of [`SET_SIX_SAMURAI`](/api/constants/Archetype/SET_SIX_SAMURAI).
+value: 0x103d
+---
+SET_SEVENTH
+The ["Seventh"](https://yugipedia.com/wiki/Seventh) archetype.
+value: 0x177
+---
+SET_SHADDOLL
+The ["Shaddoll"](https://yugipedia.com/wiki/Shaddoll) archetype.
+value: 0x9d
+---
+SET_SHARK
+The ["Shark"](https://yugipedia.com/wiki/Shark_(archetype)) archetype.
+value: 0x1ae
+---
+SET_SHARK_DRAKE
+The ["Shark Drake"](https://yugipedia.com/wiki/Shark_Drake) archetype. Sub-archetype of [`SET_SHARK`](/api/constants/Archetype/SET_SHARK).
+value: 0x11ae
+---
+SET_SHIEN
+The ["Shien"](https://yugipedia.com/wiki/Shien) archetype.
+value: 0x20
+---
+SET_SHIRANUI
+The ["Shiranui"](https://yugipedia.com/wiki/Shiranui) archetype.
+value: 0xd9
+---
+SET_SHIRANUI_SPECTRALSWORD
+The ["Shiranui Spectralsword"](https://yugipedia.com/wiki/Shiranui_Spectralsword_(archetype)) archetype. Sub-archetype of [`SET_SHIRANUI`](/api/constants/Archetype/SET_SHIRANUI).
+value: 0x10d9
+---
+SET_SILENT_MAGICIAN
+The ["Silent Magician"](https://yugipedia.com/wiki/Silent_Magician_(archetype)) archetype.
+value: 0xe8
+---
+SET_SILENT_SWORDSMAN
+The ["Silent Swordsman"](https://yugipedia.com/wiki/Silent_Swordsman_(archetype)) archetype.
+value: 0xe7
+---
+SET_SIMORGH
+The ["Simorgh"](https://yugipedia.com/wiki/Simorgh) archetype.
+value: 0x12d
+---
+SET_SINFUL_SPOILS
+The ["Sinful Spoils"](https://yugipedia.com/wiki/Sinful_Spoils) archetype.
+value: 0x204
+---
+SET_SIX_SAMURAI
+The ["Six Samurai"](https://yugipedia.com/wiki/Six_Samurai) archetype.
+value: 0x3d
+---
+SET_SIX_STRIKE
+The ["Six Strike"](https://yugipedia.com/wiki/Six_Strike) archetype.
+value: 0x1b1
+---
+SET_SKULL_GUARDIAN
+The ["Skull Guardian"](https://yugipedia.com/wiki/Skull_Guardian_(archetype)) archetype. Sub-archetype of [`SET_GUARDIAN`](/api/constants/Archetype/SET_GUARDIAN).
+value: 0x2052
+---
+SET_SKYBLASTER
+The ["Skyblaster"](https://yugipedia.com/wiki/Skyblaster) archetype.
+value: 0x49
+---
+SET_SKYSCRAPER
+The ["Skyscraper"](https://yugipedia.com/wiki/Skyscraper_(archetype)) archetype.
+value: 0xf6
+---
+SET_SKY_STRIKER
+The ["Sky Striker"](https://yugipedia.com/wiki/Sky_Striker) archetype.
+value: 0x115
+---
+SET_SKY_STRIKER_ACE
+The ["Sky Striker Ace"](https://yugipedia.com/wiki/Sky_Striker_Ace) archetype. Sub-archetype of [`SET_SKY_STRIKER`](/api/constants/Archetype/SET_SKY_STRIKER).
+value: 0x1115
+---
+SET_SMILE
+The ["Smile"](https://yugipedia.com/wiki/Smile) archetype.
+value: 0x125
+---
+SET_SNAKE_EYE
+The ["Snake-Eye"](https://yugipedia.com/wiki/Snake-Eye) archetype.
+value: 0x205
+---
+SET_SOLFACHORD
+The ["Solfachord"](https://yugipedia.com/wiki/Solfachord) archetype.
+value: 0x164
+---
+SET_SPEEDROID
+The ["Speedroid"](https://yugipedia.com/wiki/Speedroid) archetype. Sub-archetype of [`SET_ROID`](/api/constants/Archetype/SET_ROID).
+value: 0x2016
+---
+SET_SPELLBOOK
+The ["Spellbook"](https://yugipedia.com/wiki/Spellbook) archetype. Sub-archetype of [`SET_PROPHECY`](/api/constants/Archetype/SET_PROPHECY).
+value: 0x106e
+---
+SET_SPHINX
+The ["Sphinx"](https://yugipedia.com/wiki/Sphinx) archetype.
+value: 0x5c
+---
+SET_SPIRITUAL_BEAST
+The ["Spiritual Beast"](https://yugipedia.com/wiki/Spiritual_Beast) archetype. Sub-archetype of [`SET_RITUAL_BEAST`](/api/constants/Archetype/SET_RITUAL_BEAST).
+value: 0x20b5
+---
+SET_SPIRITUAL_BEAST_TAMER
+The "Spiritual Beast Tamer" series. Technically not an archetype but is registered as such on some cards. Sub-archetype of [`SET_RITUAL_BEAST`](/api/constants/Archetype/SET_RITUAL_BEAST).
+value: 0x30b5
+---
+SET_SPIRITUAL_EARTH_ART
+The ["Spiritual Earth Art"](https://yugipedia.com/wiki/Spiritual_Earth_Art) archetype.
+value: 0x314d
+---
+SET_SPIRITUAL_FIRE_ART
+The ["Spiritual Fire Art"](https://yugipedia.com/wiki/Spiritual_Fire_Art) archetype.
+value: 0x514d
+---
+SET_SPIRITUAL_WATER_ART
+The ["Spiritual Water Art"](https://yugipedia.com/wiki/Spiritual_Water_Art) archetype.
+value: 0x614d
+---
+SET_SPIRITUAL_WIND_ART
+The ["Spiritual Wind Art"](https://yugipedia.com/wiki/Spiritual_Wind_Art) archetype.
+value: 0xa14d
+---
+SET_SPIRIT_MESSAGE
+The ["Spirit Message"](https://yugipedia.com/wiki/Spirit_Message) archetype.
+value: 0x1c
+---
+SET_SPRIGHT
+The ["Spright"](https://yugipedia.com/wiki/Spright) archetype.
+value: 0x181
+---
+SET_SPRINGANS
+The ["Springans"](https://yugipedia.com/wiki/Springans) archetype.
+value: 0x158
+---
+SET_SPROUT
+The ["sprout"](https://yugipedia.com/wiki/Sprout) archetype.
+value: 0xa6
+---
+SET_SPYRAL
+The ["SPYRAL"](https://yugipedia.com/wiki/SPYRAL) archetype.
+value: 0xee
+---
+SET_SPYRAL_GEAR
+The ["SPYRAL GEAR"](https://yugipedia.com/wiki/SPYRAL_GEAR) archetype. Sub-archetype of [`SET_SPYRAL`](/api/constants/Archetype/SET_SPYRAL).
+value: 0x10ee
+---
+SET_SPYRAL_MISSION
+The ["SPYRAL MISSION"](https://yugipedia.com/wiki/SPYRAL_MISSION) archetype. Sub-archetype of [`SET_SPYRAL`](/api/constants/Archetype/SET_SPYRAL).
+value: 0x20ee
+---
+SET_STARDUST
+The ["Stardust"](https://yugipedia.com/wiki/Stardust_(archetype)) archetype.
+value: 0xa3
+---
+SET_STARRY_KNIGHT
+The ["Starry Knight"](https://yugipedia.com/wiki/Starry_Knight) archetype.
+value: 0x15b
+---
+SET_STARVING_VENOM
+The ["Starving Venom"](https://yugipedia.com/wiki/Starving_Venom) archetype. Sub-archetype of [`SET_VENOM`](/api/constants/Archetype/SET_VENOM).
+value: 0x1050
+---
+SET_STAR_SERAPH
+The ["Star Seraph"](https://yugipedia.com/wiki/Star_Seraph) archetype.
+value: 0x86
+---
+SET_STEALTH_KRAGEN
+The ["Stealth Kragen"](https://yugipedia.com/wiki/Stealth_Kragen) archetype.
+value: 0x16a
+---
+SET_STEELSWARM
+The ["Steelswarm"](https://yugipedia.com/wiki/Steelswarm) archetype. Sub-archetype of [`SET_LSWARM`](/api/constants/Archetype/SET_LSWARM).
+value: 0x100a
+---
+SET_STELLARKNIGHT
+The ["Stellarknight"](https://yugipedia.com/wiki/Stellarknight) archetype. Sub-archetype of [`SET_TELLARKNIGHT`](/api/constants/Archetype/SET_TELLARKNIGHT).
+value: 0x109c
+---
+SET_SUBTERROR
+The ["Subterror"](https://yugipedia.com/wiki/Subterror) archetype.
+value: 0xed
+---
+SET_SUBTERROR_BEHEMOTH
+The ["Subterror Behemoth"](https://yugipedia.com/wiki/Subterror_Behemoth) archetype. Sub-archetype of [`SET_SUBTERROR`](/api/constants/Archetype/SET_SUBTERROR).
+value: 0x10ed
+---
+SET_SUNAVALON
+The ["Sunavalon"](https://yugipedia.com/wiki/Sunavalon) archetype.
+value: 0x1157
+---
+SET_SUNSEED
+The ["Sunseed"](https://yugipedia.com/wiki/Sunseed) archetype.
+value: 0x4157
+---
+SET_SUNVINE
+The ["Sunvine"](https://yugipedia.com/wiki/Sunvine) archetype.
+value: 0x2157
+---
+SET_SUPERHEAVY_SAMURAI
+The ["Superheavy Samurai"](https://yugipedia.com/wiki/Superheavy_Samurai) archetype.
+value: 0x9a
+---
+SET_SUPERHEAVY_SAMURAI_SOUL
+The ["Superheavy Samurai Soul"](https://yugipedia.com/wiki/Superheavy_Samurai_Soul) archetype. Sub-archetype of [`SET_SUPERHEAVY_SAMURAI`](/api/constants/Archetype/SET_SUPERHEAVY_SAMURAI).
+value: 0x109a
+---
+SET_SUPER_DEFENSE_ROBOT
+The ["Super Defense Robot"](https://yugipedia.com/wiki/Super_Defense_Robot) archetype.
+value: 0x85
+---
+SET_SUPER_QUANT
+The ["Super Quant"](https://yugipedia.com/wiki/Super_Quant) archetype.
+value: 0xdc
+---
+SET_SUPER_QUANTAL_MECH_BEAST
+The ["Super Quantal Mech Beast"](https://yugipedia.com/wiki/Super_Quantal_Mech_Beast) archetype. Sub-archetype of [`SET_SUPER_QUANT`](/api/constants/Archetype/SET_SUPER_QUANT).
+value: 0x20dc
+---
+SET_SUPER_QUANTUM
+The ["Super Quantum"](https://yugipedia.com/wiki/Super_Quantum) archetype. Sub-archetype of [`SET_SUPER_QUANT`](/api/constants/Archetype/SET_SUPER_QUANT).
+value: 0x10dc
+---
+SET_SUPREME_KING_DRAGON
+The ["Supreme King Dragon"](https://yugipedia.com/wiki/Supreme_King_Dragon) archetype.
+value: 0x20f8
+---
+SET_SUPREME_KING_GATE
+The ["Supreme King Gate"](https://yugipedia.com/wiki/Supreme_King_Gate) archetype.
+value: 0x10f8
+---
+SET_SWORDSOUL
+The ["Swordsoul"](https://yugipedia.com/wiki/Swordsoul) archetype.
+value: 0x16d
+---
+SET_SYLVAN
+The ["Sylvan"](https://yugipedia.com/wiki/Sylvan) archetype.
+value: 0x90
+---
+SET_SYMPHONIC_WARRIOR
+The ["Symphonic Warrior"](https://yugipedia.com/wiki/Symphonic_Warrior) archetype. Sub-archetype of [`SET_WARRIOR`](/api/constants/Archetype/SET_WARRIOR).
+value: 0x1066
+---
+SET_SYNCHRO
+The ["Synchro"](https://yugipedia.com/wiki/Synchro_(archetype)) archetype.
+value: 0x17
+---
+SET_SYNCHRON
+The ["Synchron"](https://yugipedia.com/wiki/Synchron) archetype. Sub-archetype of [`SET_SYNCHRO`](/api/constants/Archetype/SET_SYNCHRO).
+value: 0x1017
+---
+SET_SYNCHRO_DRAGON
+The ["Synchro Dragon"](https://yugipedia.com/wiki/Synchro_Dragon) archetype. Sub-archetype of [`SET_SYNCHRO`](/api/constants/Archetype/SET_SYNCHRO).
+value: 0x2017
+---
+SET_S_FORCE
+The ["S-Force"](https://yugipedia.com/wiki/S-Force) archetype.
+value: 0x15a
+---
+SET_TACHYON
+The ["Tachyon"](https://yugipedia.com/wiki/Tachyon) archetype.
+value: 0x1ab
+---
+SET_TEARLAMENTS
+The ["Tearlaments"](https://yugipedia.com/wiki/Tearlaments) archetype.
+value: 0x182
+---
+SET_TELLARKNIGHT
+The ["tellarknight"](https://yugipedia.com/wiki/Tellarknight) archetype.
+value: 0x9c
+---
+SET_TENPAI_DRAGON
+The ["Tenpai Dragon"](https://yugipedia.com/wiki/Tenpai_Dragon) archetype.
+value: 0x1a1
+---
+SET_TENYI
+The ["Tenyi"](https://yugipedia.com/wiki/Tenyi) archetype.
+value: 0x12c
+---
+SET_TG
+The ["T.G."](https://yugipedia.com/wiki/T.G.) archetype.
+value: 0x27
+---
+SET_THERION
+The ["Therion"](https://yugipedia.com/wiki/Therion) archetype.
+value: 0x17b
+---
+SET_THE_AGENT
+The ["The Agent"](https://yugipedia.com/wiki/The_Agent) archetype.
+value: 0x44
+---
+SET_THE_PHANTOM_KNIGHTS
+The ["The Phantom Knights"](https://yugipedia.com/wiki/The_Phantom_Knights) archetype. Sub-archetype of [`SET_PHANTOM_KNIGHTS`](/api/constants/Archetype/SET_PHANTOM_KNIGHTS).
+value: 0x10db
+---
+SET_THE_WEATHER
+The ["The Weather"](https://yugipedia.com/wiki/The_Weather) archetype.
+value: 0x109
+---
+SET_THUNDER_DRAGON
+The ["Thunder Dragon"](https://yugipedia.com/wiki/Thunder_Dragon_(archetype)) archetype.
+value: 0x11c
+---
+SET_TIMELORD
+The ["Timelord"](https://yugipedia.com/wiki/Timelord) archetype.
+value: 0x4a
+---
+SET_TIME_THIEF
+The ["Time Thief"](https://yugipedia.com/wiki/Time_Thief) archetype.
+value: 0x126
+---
+SET_TINDANGLE
+The ["Tindangle"](https://yugipedia.com/wiki/Tindangle) archetype.
+value: 0x10b
+---
+SET_TISTINA
+The ["Tistina"](https://yugipedia.com/wiki/Tistina) archetype.
+value: 0x208
+---
+SET_TOON
+The ["Toon"](https://yugipedia.com/wiki/Toon) archetype.
+value: 0x62
+---
+SET_TOPOLOGIC
+The ["Topologic"](https://yugipedia.com/wiki/Topologic) archetype.
+value: 0x170
+---
+SET_TOY
+The ["Toy"](https://yugipedia.com/wiki/Toy) archetype.
+value: 0x1a0
+---
+SET_TRAPTRIX
+The ["Traptrix"](https://yugipedia.com/wiki/Traptrix) archetype.
+value: 0x108a
+---
+SET_TRAP_HOLE
+The ["Trap Hole"](https://yugipedia.com/wiki/Trap_Hole_(archetype)) archetype.
+value: 0x4c
+---
+SET_TRIAMID
+The ["Triamid"](https://yugipedia.com/wiki/Triamid) archetype.
+value: 0xe2
+---
+SET_TRICKSTAR
+The ["Trickstar"](https://yugipedia.com/wiki/Trickstar) archetype.
+value: 0xfb
+---
+SET_TRI_BRIGADE
+The ["Tri-Brigade"](https://yugipedia.com/wiki/Tri-Brigade) archetype.
+value: 0x14f
+---
+SET_TRUE_DRACO_KING
+The ["True Draco" or "True King"](https://yugipedia.com/wiki/True_Draco) archetype.
+value: 0xf9
+---
+SET_UA
+The ["U.A."](https://yugipedia.com/wiki/U.A.) archetype.
+value: 0xb2
+---
+SET_ULTIMATE_CRYSTAL
+The ["Ultimate Crystal"](https://yugipedia.com/wiki/Ultimate_Crystal) archetype. Sub-archetype of [`SET_CRYSTAL`](/api/constants/Archetype/SET_CRYSTAL).
+value: 0x2034
+---
+SET_ULTIMATE_INSECT
+The ["Ultimate Insect"](https://yugipedia.com/wiki/Ultimate_Insect) series of "LV" monsters. Technically not an archetype but is registered as such on some cards for the LV set handling.
+value: 0x5d
+---
+SET_UMBRAL_HORROR
+The ["Umbral Horror"](https://yugipedia.com/wiki/Umbral_Horror) archetype.
+value: 0x87
+---
+SET_UNCHAINED
+The ["Unchained"](https://yugipedia.com/wiki/Unchained) archetype.
+value: 0x130
+---
+SET_UNCHAINED_SOUL
+The ["Unchained Soul"](https://yugipedia.com/wiki/Unchained_Soul) archetype. Sub-archetype of [`SET_UNCHAINED`](/api/constants/Archetype/SET_UNCHAINED).
+value: 0x1130
+---
+SET_URSARCTIC
+The ["Ursarctic"](https://yugipedia.com/wiki/Ursarctic) archetype.
+value: 0x165
+---
+SET_UTOPIA
+The ["Utopia"](https://yugipedia.com/wiki/Utopia_(archetype)) archetype. Sub-archetype of [`SET_UTOPIC`](/api/constants/Archetype/SET_UTOPIC).
+value: 0x107f
+---
+SET_UTOPIC
+The ["Utopic"](https://yugipedia.com/wiki/Utopic) archetype.
+value: 0x7f
+---
+SET_UTOPIC_FUTURE
+The ["Utopic Future"](https://yugipedia.com/wiki/Utopic_Future) archetype. Sub-archetype of [`SET_UTOPIC`](/api/constants/Archetype/SET_UTOPIC).
+value: 0x207f
+---
+SET_VAALMONICA
+The ["Vaalmonica"](https://yugipedia.com/wiki/Vaalmonica) archetype.
+value: 0x19c
+---
+SET_VALKYRIE
+The ["Valkyrie"](https://yugipedia.com/wiki/Valkyrie) archetype.
+value: 0x122
+---
+SET_VAMPIRE
+The ["Vampire"](https://yugipedia.com/wiki/Vampire) archetype.
+value: 0x8e
+---
+SET_VANQUISH_SOUL
+The ["Vanquish Soul"](https://yugipedia.com/wiki/Vanquish_Soul) archetype.
+value: 0x196
+---
+SET_VAYLANTZ
+The ["Vaylantz"](https://yugipedia.com/wiki/Vaylantz) archetype.
+value: 0x17e
+---
+SET_VEDA
+The ["Veda"](https://yugipedia.com/wiki/Veda) archetype.
+value: 0x202
+---
+SET_VEHICROID
+The ["Vehicroid"](https://yugipedia.com/wiki/Vehicroid) archetype. Sub-archetype of [`SET_ROID`](/api/constants/Archetype/SET_ROID).
+value: 0x1016
+---
+SET_VENDREAD
+The ["Vendread"](https://yugipedia.com/wiki/Vendread) archetype.
+value: 0x106
+---
+SET_VENOM
+The ["Venom"](https://yugipedia.com/wiki/Venom) archetype.
+value: 0x50
+---
+SET_VERNUSYLPH
+The ["Vernusylph"](https://yugipedia.com/wiki/Vernusylph) archetype.
+value: 0x183
+---
+SET_VIRTUAL_WORLD
+The ["Virtual World"](https://yugipedia.com/wiki/Virtual_World) archetype.
+value: 0x150
+---
+SET_VIRTUAL_WORLD_GATE
+The ["Virtual World Gate"](https://yugipedia.com/wiki/Virtual_World_Gate) archetype. Sub-archetype of [`SET_VIRTUAL_WORLD`](/api/constants/Archetype/SET_VIRTUAL_WORLD).
+value: 0x1150
+---
+SET_VISAS
+The ["Visas"](https://yugipedia.com/wiki/Visas) archetype.
+value: 0x199
+---
+SET_VISION_HERO
+The ["Vision HERO"](https://yugipedia.com/wiki/Vision_HERO) archetype. Sub-archetype of [`SET_HERO`](/api/constants/Archetype/SET_HERO).
+value: 0x5008
+---
+SET_VOICELESS_VOICE
+The ["Voiceless Voice"](https://yugipedia.com/wiki/Voiceless_Voice) archetype.
+value: 0x19e
+---
+SET_VOID
+The ["Void"](https://yugipedia.com/wiki/Void) archetype.
+value: 0xc5
+---
+SET_VOLCANIC
+The ["Volcanic"](https://yugipedia.com/wiki/Volcanic) archetype.
+value: 0x32
+---
+SET_VYLON
+The ["Vylon"](https://yugipedia.com/wiki/Vylon) archetype.
+value: 0x30
+---
+SET_WARRIOR
+The ["Warrior"](https://yugipedia.com/wiki/Warrior_(archetype)) archetype.
+value: 0x66
+---
+SET_WAR_ROCK
+The ["War Rock"](https://yugipedia.com/wiki/War_Rock) archetype.
+value: 0x161
+---
+SET_WATT
+The ["Watt"](https://yugipedia.com/wiki/Watt) archetype.
+value: 0xe
+---
+SET_WEDJU
+The ["Wedju"](https://yugipedia.com/wiki/Wedju) archetype.
+value: 0x1af
+---
+SET_WELCOME_LABRYNTH
+The ["Welcome Labrynth"](https://yugipedia.com/wiki/Welcome_Labrynth_(archetype)) archetype. Sub-archetype of [`SET_LABRYNTH`](/api/constants/Archetype/SET_LABRYNTH).
+value: 0x117f
+---
+SET_WHITE_AURA
+The ["White Aura"](https://yugipedia.com/wiki/White_Aura) archetype.
+value: 0x119f
+---
+SET_WHITE_FOREST
+The ["White Forest"](https://yugipedia.com/wiki/White_Forest) archetype.
+value: 0x1aa
+---
+SET_WINDWITCH
+The ["Windwitch"](https://yugipedia.com/wiki/Windwitch) archetype.
+value: 0xf0
+---
+SET_WIND_UP
+The ["Wind-Up"](https://yugipedia.com/wiki/Wind-Up) archetype.
+value: 0x58
+---
+SET_WINGED_KURIBOH
+The ["Winged Kuriboh"](https://yugipedia.com/wiki/Winged_Kuriboh_(archetype)) archetype. Sub-archetype of [`SET_KURIBOH`](/api/constants/Archetype/SET_KURIBOH).
+value: 0x10a4
+---
+SET_WINGMAN
+The ["Wingman"](https://yugipedia.com/wiki/Wingman) archetype.
+value: 0x185
+---
+SET_WITCHCRAFTER
+The ["Witchcrafter"](https://yugipedia.com/wiki/Witchcrafter) archetype.
+value: 0x128
+---
+SET_WORLD_CHALICE
+The ["World Chalice"](https://yugipedia.com/wiki/World_Chalice) archetype.
+value: 0xfd
+---
+SET_WORLD_LEGACY
+The ["World Legacy"](https://yugipedia.com/wiki/World_Legacy) archetype.
+value: 0xfe
+---
+SET_WORM
+The ["Worm"](https://yugipedia.com/wiki/Worm) archetype.
+value: 0x3e
+---
+SET_XX_SABER
+The ["XX-Saber"](https://yugipedia.com/wiki/XX-Saber) series. Technically not an archetype but is registered as such on some cards. Sub-archetype of [`SET_SABER`](/api/constants/Archetype/SET_SABER).
+value: 0x300d
+---
+SET_XYZ
+The ["Xyz"](https://yugipedia.com/wiki/Xyz_(archetype)) archetype.
+value: 0x73
+---
+SET_XYZ_DRAGON
+The ["Xyz Dragon"](https://yugipedia.com/wiki/Xyz_Dragon) archetype. Sub-archetype of [`SET_XYZ`](/api/constants/Archetype/SET_XYZ).
+value: 0x2073
+---
+SET_X_SABER
+The ["X-Saber"](https://yugipedia.com/wiki/X-Saber) archetype. Sub-archetype of [`SET_SABER`](/api/constants/Archetype/SET_SABER).
+value: 0x100d
+---
+SET_YANG_ZING
+The ["Yang Zing"](https://yugipedia.com/wiki/Yang_Zing) archetype.
+value: 0x9e
+---
+SET_YOSENJU
+The ["Yosenju"](https://yugipedia.com/wiki/Yosenju) archetype.
+value: 0xb3
+---
+SET_YUBEL
+The ["Yubel"](https://yugipedia.com/wiki/Yubel_(archetype)) archetype.
+value: 0x19d
+---
+SET_ZEFRA
+The ["Zefra"](https://yugipedia.com/wiki/Zefra) archetype.
+value: 0xc4
+---
+SET_ZEXAL
+The ["Zexal"](https://yugipedia.com/wiki/Zexal) archetype.
+value: 0x7e
+---
+SET_ZOODIAC
+The ["Zoodiac"](https://yugipedia.com/wiki/Zoodiac) archetype.
+value: 0xf1
+---
+SET_ZS
+The ["ZS -"](https://yugipedia.com/wiki/ZS_-) archetype. Sub-archetype of [`SET_ZEXAL`](/api/constants/Archetype/SET_ZEXAL).
+value: 0x207e
+---
+SET_ZUBABA
+The ["Zubaba"](https://yugipedia.com/wiki/Zubaba) archetype.
+value: 0x8f
+---
+SET_ZW
+The ["ZW -"](https://yugipedia.com/wiki/ZW_-) archetype. Sub-archetype of [`SET_ZEXAL`](/api/constants/Archetype/SET_ZEXAL).
+value: 0x107e
+---
+ASSUME_ATTACK
+Temporarily assumes that the affected card has a given ATK
+value: 7
+---
+ASSUME_ATTRIBUTE
+Temporarily assumes that the affected card has a given attribute
+value: 5
+---
+ASSUME_CODE
+Temporarily assumes that the affected card has a given code (ID/name)
+value: 1
+---
+ASSUME_DEFENSE
+Temporarily assumes that the affected card has a given DEF
+value: 8
+---
+ASSUME_LEVEL
+Temporarily assumes that the affected card has a given level
+value: 3
+---
+ASSUME_LINK
+Temporarily assumes that the affected card has a given Link Rating
+value: 9
+---
+ASSUME_LINKMARKER
+Temporarily assumes that the affected card has given LinkMarkers
+value: 10
+---
+ASSUME_RACE
+Temporarily assumes that the affected card has a given race
+value: 6
+---
+ASSUME_RANK
+Temporarily assumes that the affected card has a given rank
+value: 4
+---
+ASSUME_TYPE
+Temporarily assumes that the affected card has a given Type
+value: 2
+---
+CHINT_ATTRIBUTE
+Used to display a string when the player hovers over the card. Shows the following text: "Declared Attribute: "
+value: 4
+---
+CHINT_CARD
+Used to display a string when the player hovers over the card. Shows the following text: "Declared card: "
+value: 2
+---
+CHINT_DESC_ADD
+(To be added)
+value: 6
+---
+CHINT_DESC_REMOVE
+(To be added)
+value: 7
+---
+CHINT_NUMBER
+Used to display a string when the player hovers over the card. Shows the following text: "Declared number:"
+value: 5
+---
+CHINT_RACE
+Used to display a string when the player hovers over the card. Shows the following text: "Declared Type: "
+value: 3
+---
+CHINT_TURN
+Used to display a string when the player hovers over the card. Shows the following text: "Turns passed: "
+value: 1
+---
+NO_FLIP_EFFECT
+Applies position change without triggering FLIP effects
+value: 0x10000
+---
+POS_ATTACK
+Attack position, face-up + face-down
+value: 0x3
+---
+POS_DEFENSE
+Defense position, face-up + face-down
+value: 0xc
+---
+POS_FACEDOWN
+Face-down position, attack + defense if on field
+value: 0xa
+---
+POS_FACEDOWN_ATTACK
+Face-down attack position. Used with "Darkness Approaches" (Pre-Errata)
+value: 0x2
+---
+POS_FACEDOWN_DEFENSE
+Face-down defense position
+value: 0x8
+---
+POS_FACEUP
+Face-up position, attack + defense if on field.
+value: 0x5
+---
+POS_FACEUP_ATTACK
+Face-up attack position
+value: 0x1
+---
+POS_FACEUP_DEFENSE
+Face-up defense position
+value: 0x4
+---
+STATUS_ACTIVATE_DISABLED
+A card that had its activation negated
+value: 0x40000
+---
+STATUS_ACT_FROM_HAND
+A card with this status can be activated from hand
+value: 0x8000000
+---
+STATUS_ATTACK_CANCELED
+Attack was negated
+value: 0x200000
+---
+STATUS_BATTLE_DESTROYED
+Already destroyed by battle (during battle)
+value: 0x4000
+---
+STATUS_BATTLE_RESULT
+Destroyed by battle at the end of damage calculation
+value: 0x40
+---
+STATUS_CHAINING
+A card with this status has one of its effects on the current Chain
+value: 0x10000
+---
+STATUS_CONTINUOUS_POS
+Set again after changing to other positions
+value: 0x2000000
+---
+STATUS_COPYING_EFFECT
+A card with this status is copying the effect of another card
+value: 0x8000
+---
+STATUS_DESTROY_CONFIRMED
+The card is going to be destroyed
+value: 0x1000
+---
+STATUS_DISABLED
+Effect is negated
+value: 0x1
+---
+STATUS_EFFECT_ENABLED
+Usable card on field (has activated, already Summoned, effects applied)
+value: 0x400
+---
+STATUS_EFFECT_REPLACED
+A card affected by ReplaceEffect
+value: 0x80000
+---
+STATUS_FLIP_SUMMON_TURN
+A card with this status was Flip Summoned in the current turn
+value: 0x20000000
+---
+STATUS_FORBIDDEN
+A card that cannot be used (for example, if it was declared by Prohibition or Psi-Blocker)
+value: 0x4000000
+---
+STATUS_FORM_CHANGED
+A monster that had his position manually changed in the current turn
+value: 0x100
+---
+STATUS_FUTURE_FUSION
+To be changed: Future Fusion Materials wouldn't trigger after Fusion Monster is Summoned
+value: 0x100000
+---
+STATUS_INITIALIZING
+Cards which are at "initial_effect" state
+value: 0x400000
+---
+STATUS_JUST_POS
+A monster that had just changed its position
+value: 0x1000000
+---
+STATUS_LEAVE_CONFIRMED
+After the chain resolves, an activated card with this status would immediately go to Graveyard
+value: 0x2000
+---
+STATUS_NO_LEVEL
+The card is treated as having Level/Rank/Link 0
+value: 0x20
+---
+STATUS_OPPO_BATTLE
+A monster with this status is battling an opponent's monsters. The status is reseted at the End of the Damage Step
+value: 0x10000000
+---
+STATUS_PROC_COMPLETE
+The card has been summoned properly  (usually by its own condition)
+value: 0x8
+---
+STATUS_SET_TURN
+Spell/Traps set this turn
+value: 0x10
+---
+STATUS_SPSUMMON_STEP
+Special Summon not yet finished aka "Step"
+value: 0x80
+---
+STATUS_SPSUMMON_TURN
+A card with this status was Special Summoned in the current turn
+value: 0x40000000
+---
+STATUS_SUMMONING
+The timing for when a monster "Would be Summoned"
+value: 0x200
+---
+STATUS_SUMMON_DISABLED
+A monster which had its summon negated
+value: 0x20000
+---
+STATUS_SUMMON_TURN
+The monster was Normal Summoned/Set in the current turn
+value: 0x800
+---
+STATUS_TO_DISABLE
+Effect would be negated
+value: 0x4
+---
+STATUS_TO_ENABLE
+Effect negation would be removed
+value: 0x2
+---
+TYPES_TOKEN
+Composite constant of Monster, Normal, and Token Card Types
+value: 0x4011
+---
+TYPE_ACTION
+The [Action](https://yugipedia.com/wiki/Action_Card) Card Type used in Action Duels
+value: 0x10000000
+---
+TYPE_ARMOR
+The [Armor](https://yugipedia.com/wiki/Armor) Card Type for anime cards
+value: 0x80000000
+---
+TYPE_CONTINUOUS
+The Continuous Card Type, for [Continuous Spells](https://yugipedia.com/wiki/Continuous_Spell_Card) or [Continuous Traps](https://yugipedia.com/wiki/Continuous_Trap_Card)
+value: 0x20000
+---
+TYPE_COUNTER
+The [Counter](https://yugipedia.com/wiki/Counter_Trap_Card) Card Type for Traps
+value: 0x100000
+---
+TYPE_EFFECT
+The [Effect](https://yugipedia.com/wiki/Effect_Monster) Card Type for Monsters
+value: 0x20
+---
+TYPE_EQUIP
+The [Equip](https://yugipedia.com/wiki/Equip_Card) Card Type
+value: 0x40000
+---
+TYPE_EXTRA
+Composite constant for Card Types that start in the Extra Deck (Fusion, Synchro, Xyz, and Link)
+value: 0x4802040
+---
+TYPE_FIELD
+The [Field](https://yugipedia.com/wiki/Field_Spell_Card) Card Type for Spells
+value: 0x80000
+---
+TYPE_FLIP
+The [Flip](https://yugipedia.com/wiki/Flip_monster) Card Type for Monsters
+value: 0x200000
+---
+TYPE_FUSION
+The [Fusion](https://yugipedia.com/wiki/Fusion_Monster) Card Type for Monsters
+value: 0x40
+---
+TYPE_GEMINI
+The [Gemini](https://yugipedia.com/wiki/Gemini_monster) Card Type for Monsters
+value: 0x800
+---
+TYPE_LINK
+The [Link](https://yugipedia.com/wiki/Link_Monster) Card Type for Monsters
+value: 0x4000000
+---
+TYPE_MAXIMUM
+The [Maximum](https://yugipedia.com/wiki/Maximum_Monster) Card Type for Monsters in Rush Duel
+value: 0x8000
+---
+TYPE_MINUS
+The [Minus](https://yugipedia.com/wiki/Minus_monster) Type for anime cards
+value: 0x40000000
+---
+TYPE_MONSTER
+The [Monster](https://yugipedia.com/wiki/Monster_Card) Card Type
+value: 0x1
+---
+TYPE_NORMAL
+The [Normal](https://yugipedia.com/wiki/Normal_Monster) Card Type for Monsters
+value: 0x10
+---
+TYPE_PENDULUM
+The [Pendulum](https://yugipedia.com/wiki/Pendulum_Monster) Card Type for Monsters
+value: 0x1000000
+---
+TYPE_PLUS
+The [Plus](https://yugipedia.com/wiki/Plus_monster) Type for anime cards
+value: 0x20000000
+---
+TYPE_PLUSMINUS
+The [Plus Minus](https://yugipedia.com/wiki/Plus_monster) Type for anime cards
+value: 0x60000000
+---
+TYPE_QUICKPLAY
+The [Quick-Play](https://yugipedia.com/wiki/Quick-Play_Spell_Card) Type for Spells
+value: 0x10000
+---
+TYPE_RITUAL
+The [Ritual](https://yugipedia.com/wiki/Ritual_Monster) Card Type for Monsters
+value: 0x80
+---
+TYPE_SKILL
+The [Skill](https://yugipedia.com/wiki/Skill) Card Type for anime cards or Speed Duels.
+value: 0x8000000
+---
+TYPE_SPELL
+The [Spell](https://yugipedia.com/wiki/Spell_Card) Card Type
+value: 0x2
+---
+TYPE_SPIRIT
+The [Spirit](https://yugipedia.com/wiki/Spirit_monster) Card Type for Monsters
+value: 0x200
+---
+TYPE_SPSUMMON
+The [Special Summon](https://yugipedia.com/wiki/Special_Summon_Monster) Card Type for Monsters
+value: 0x2000000
+---
+TYPE_SYNCHRO
+The [Synchro](https://yugipedia.com/wiki/Synchro_Monster) Card Type for Monsters
+value: 0x2000
+---
+TYPE_TOKEN
+The [Token](https://yugipedia.com/wiki/Monster_Token) Card Type for Monsters
+value: 0x4000
+---
+TYPE_TOON
+The [Toon](https://yugipedia.com/wiki/Toon_monster) Card Type for Monsters
+value: 0x400000
+---
+TYPE_TRAP
+The [Trap](https://yugipedia.com/wiki/Trap_Card) Card Type
+value: 0x4
+---
+TYPE_TRAPMONSTER
+The [Trap Monster](https://yugipedia.com/wiki/Trap_Monster) Card Type
+value: 0x100
+---
+TYPE_TUNER
+The [Tuner](https://yugipedia.com/wiki/Tuner_monster) Card Type for Monsters
+value: 0x1000
+---
+TYPE_UNION
+The [Union](https://yugipedia.com/wiki/Union_monster) Card Type for Monsters
+value: 0x400
+---
+TYPE_XYZ
+The [Xyz](https://yugipedia.com/wiki/Xyz_Monster) Card Type for Monsters
+value: 0x800000
+---
+CHAININFO_CHAIN_ID
+When used with Duel.GetChainInfo returns an integer with Chain ID of the requested Chain Link.
+value: 13
+---
+CHAININFO_DISABLE_PLAYER
+When used with Duel.GetChainInfo returns an integer with the player that negated the requested Chain Link's activation/effect/summon.
+value: 12
+---
+CHAININFO_DISABLE_REASON
+When used with Duel.GetChainInfo returns the effect that negated the requested Chain Link's activation/summon/effect.
+value: 11
+---
+CHAININFO_EXTTYPE
+When used with Duel.GetChainInfo returns an integer with the full card type of the handler of the requested Chain Link's effect.
+value: 15
+---
+CHAININFO_TARGET_CARDS
+When used with Duel.GetChainInfo returns a group with the cards targeted by the effect of the requested Chain Link.
+value: 8
+---
+CHAININFO_TARGET_PARAM
+When used with Duel.GetChainInfo returns the value set in Duel.SetTargetParam for the requested Chain Link.
+value: 10
+---
+CHAININFO_TARGET_PLAYER
+When used with Duel.GetChainInfo returns an integer with the player targeted by the effect of the requested Chain Link. The target player is usually defined in Duel.SetTargetPlayer and in effects with the EFFECT_FLAG_PLAYER_TARGET flag.
+value: 9
+---
+CHAININFO_TRIGGERING_ATTACK
+When used with Duel.GetChainInfo returns an integer with the ATK of the monster that triggered the requested Chain Link.
+value: 24
+---
+CHAININFO_TRIGGERING_ATTRIBUTE
+When used with Duel.GetChainInfo returns an integer with the attribute(s) of the card that triggered the requested Chain Link.
+value: 22
+---
+CHAININFO_TRIGGERING_CODE
+When used with Duel.GetChainInfo returns an integer with the ID/passcode of the card that triggered requested Chain Link.
+value: 17
+---
+CHAININFO_TRIGGERING_CODE2
+When used with Duel.GetChainInfo returns an integer with the second ID/passcode, if any, of the card that triggered requested Chain Link.
+value: 18
+---
+CHAININFO_TRIGGERING_CONTROLER
+When used with Duel.GetChainInfo returns an integer with the controller of the card that triggered the requested Chain Link.
+value: 3
+---
+CHAININFO_TRIGGERING_DEFENSE
+When used with Duel.GetChainInfo returns an integer with the DEF of the monster that triggered the requested Chain Link.
+value: 25
+---
+CHAININFO_TRIGGERING_EFFECT
+When used with Duel.GetChainInfo returns the effect that trigger the requested Chain Link.
+value: 1
+---
+CHAININFO_TRIGGERING_LEVEL
+When used with Duel.GetChainInfo returns an integer with the level of the card that triggered the requested Chain Link.
+value: 20
+---
+CHAININFO_TRIGGERING_LOCATION
+When used with Duel.GetChainInfo returns an integer with the location, in the moment the effect was triggered, of the card in requested Chain Link.
+value: 4
+---
+CHAININFO_TRIGGERING_LOCATION_SYMBOLIC
+(To be added)
+value: 5
+---
+CHAININFO_TRIGGERING_PLAYER
+When used with Duel.GetChainInfo returns as an integer the player that triggered the requested chain link
+value: 2
+---
+CHAININFO_TRIGGERING_POSITION
+When used with Duel.GetChainInfo returns an integer with the position of the card that triggered the requested Chain Link.
+value: 16
+---
+CHAININFO_TRIGGERING_RACE
+When used with Duel.GetChainInfo returns an integer with the monster card type(s) (race) of the card that triggered the requested Chain Link.
+value: 23
+---
+CHAININFO_TRIGGERING_RANK
+When used with Duel.GetChainInfo returns an integer with the rank of the card that triggered the requested Chain Link.
+value: 21
+---
+CHAININFO_TRIGGERING_SEQUENCE
+When used with Duel.GetChainInfo returns the sequence (zone within a location) of the card that triggered the requested Chain Link.
+value: 6
+---
+CHAININFO_TRIGGERING_SEQUENCE_SYMBOLIC
+(To be added)
+value: 7
+---
+CHAININFO_TRIGGERING_SETCODES
+When used with Duel.GetChainInfo returns a table with the setcodes (archetypes) of the card that triggered the requested Chain Link.
+value: 30
+---
+CHAININFO_TRIGGERING_STATUS
+When used with Duel.GetChainInfo returns an integer with status(es) of the monster that triggered the requested Chain Link.
+value: 26
+---
+CHAININFO_TRIGGERING_SUMMON_LOCATION
+When used with Duel.GetChainInfo returns an integer with the summon location of the monster that triggered the requested Chain Link.
+value: 27
+---
+CHAININFO_TRIGGERING_SUMMON_PROC_COMPLETE
+When used with Duel.GetChainInfo returns a boolean checking if the the monster that triggered the requested Chain Link was properly summoned or not.
+value: 29
+---
+CHAININFO_TRIGGERING_SUMMON_TYPE
+When used with Duel.GetChainInfo returns an integer with the summon type of the monster that triggered the requested Chain Link.
+value: 28
+---
+CHAININFO_TRIGGERING_TYPE
+When used with Duel.GetChainInfo returns an integer with the full card type of the handler of the requested Chain Link's effect.
+value: 19
+---
+CHAININFO_TYPE
+When used with Duel.GetChainInfo returns an intger with the major card type (Monster/Spell/Trap) of the handler of the request Chain Link's effect. For Trap monsters, returns TYPE_MONSTER.
+value: 14
+---
+COIN_HEADS
+Value for coin results
+value: 0
+---
+COIN_TAILS
+Value for coin results
+value: 1
+---
+CARDS_SANGA_KAZEJIN_SUIJIN
+An array containing the passcodes of [Sanga of the Thunder](https://yugipedia.com/wiki/4377), [Kazejin](https://yugipedia.com/wiki/4378), and [Suijin](https://yugipedia.com/wiki/4379).
+value: {25955164,62340868,98434877}
+---
+CARDS_SPIRIT_MESSAGE
+A table containing the IDs of "[Spirit Message](https://yugipedia.com/wiki/Spirit_Message)" cards placed by "[Destiny Board](https://yugipedia.com/wiki/Destiny_Board)".
+value: {31893528,67287533,94772232,30170981}
+---
+CARD_ADVANCED_DARK
+Advanced Dark's ID
+value: 12644061
+---
+CARD_ALBAZ
+Fallen of Albaz's ID used for listed_names and specific support
+value: 68468459
+---
+CARD_AMALILITH
+Constant for a commonly used Rush card
+value: 160428037
+---
+CARD_ARGYRO_SYSTEM
+Endless Engine Argyro System's ID
+value: 21887075
+---
+CARD_ASSAULT_MODE
+Assault Mode Activate's ID, used for listed_names and specific support
+value: 80280737
+---
+CARD_BIG_UMI
+Constant for a commonly used Rush card
+value: 160003050
+---
+CARD_BLACK_ROSE_DRAGON
+Black Rose Dragon's ID
+value: 73580471
+---
+CARD_BLACK_WINGED_DRAGON
+Black-Winged Dragon's ID
+value: 9012916
+---
+CARD_BLUEEYES_SPIRIT
+Blue-Eyes Spirit Dragon's ID, used for the support to its effect
+value: 59822133
+---
+CARD_BLUEEYES_W_DRAGON
+Blue-Eyes White Dragon's ID, used for listed_names and specific support
+value: 89631139
+---
+CARD_BLUETOOTH_B_DRAGON
+Constant for a commonly used Rush card
+value: 160010101
+---
+CARD_CAN_D
+Constant for a commonly used Rush card
+value: 160005002
+---
+CARD_CELEB_ROSE_MAGICIAN
+Constant for a commonly used Rush card
+value: 160013012
+---
+CARD_CELEB_ROSE_WITCH
+Constant for a commonly used Rush card
+value: 160013011
+---
+CARD_CHIMERA_FUSION
+Chimera Fusion's ID
+value: 63136489
+---
+CARD_CHIMERA_MYTHICAL_BEAST
+Chimera the Flying Mythical Beast's ID
+value: 4796100
+---
+CARD_CLOCK_LIZARD
+ID of ["Clock Lizard"](https://yugipedia.com/wiki/Clock_Lizard). Cards affected by an effect with this ID are excluded by "Clock Lizard" when checking what cards it can return to the Extra Deck.
+value: 51476410
+---
+CARD_CYBER_DRAGON
+Cyber Dragon's ID, used for listed_names and specific support
+value: 70095154
+---
+CARD_DARK_FUSION
+Dark Fusion's ID, used due to the number of scripts that call it.
+value: 94820406
+---
+CARD_DARK_MAGICIAN
+Dark Magician's ID, used for listed_names and specific support
+value: 46986414
+---
+CARD_DARK_MAGICIAN_GIRL
+Dark Magician Girl's ID, used because it has a lot of specific support
+value: 38033121
+---
+CARD_DARK_SANCTUARY
+Dark Sanctuary's ID, frequently called by some scripts
+value: 16625614
+---
+CARD_DESTINY_BOARD
+Destiny Board's ID, frequently called by some scripts.
+value: 94212438
+---
+CARD_DREAMING_NEMLERIA
+Dreaming Nemleria's ID
+value: 70155677
+---
+CARD_DREAM_MIRROR_JOY
+Dream Mirror of Joy's ID, used because of the number of scripts that call it
+value: 74665651
+---
+CARD_DREAM_MIRROR_TERROR
+Dream Mirror of Terror's ID, used because of the number of scripts that call it
+value: 1050355
+---
+CARD_EHERO_BLAZEMAN
+Elemental HERO Blazeman's ID
+value: 63060238
+---
+CARD_EVIL_EYE_SELENE
+Evil Eye of Selene's ID, used because it has a lot of specific support
+value: 44133040
+---
+CARD_EXCHANGE_SPIRIT
+Exchange of the Spirit's ID
+value: 17484499
+---
+CARD_FIRE_FIST_EAGLE
+Brotherhood of the Fire Fist - Eagle's ID, used for hardcoded effect
+value: 46241344
+---
+CARD_FOSSIL_FUSION
+Fossil Fusion's ID, used for listed_names and specific support
+value: 59419719
+---
+CARD_FUSION
+Constant for a commonly used Rush card
+value: 160204050
+---
+CARD_GAIA_CHAMPION
+Gaia the Dragon Champion's ID, used because it has a lot of specific support
+value: 66889139
+---
+CARD_GALACTICA_OBLIVION
+Constant for a commonly used Rush card
+value: 160009002
+---
+CARD_GALAXYEYES_P_DRAGON
+Galaxy-Eyes Photon Dragon's ID, used for listed_names and specific support
+value: 93717133
+---
+CARD_GOLDEN_LORD
+Eldlich the Golden Lord's ID, used because of cards that mention it.
+value: 95440946
+---
+CARD_HARPIE_LADY
+Harpie Lady's ID, used for listed_names and specific support
+value: 76812113
+---
+CARD_HARPIE_LADY_SISTERS
+Harpie Lady Sisters' ID, used for listed_names and specific support
+value: 12206212
+---
+CARD_IMAGINARY_ACTOR
+Constant for a commonly used Rush card
+value: 160204006
+---
+CARD_INFERNOBLE_CHARLES
+Infernoble Knight Emperor Charles's ID
+value: 77656797
+---
+CARD_JACK_KNIGHT
+Jack's Knight's ID
+value: 90876561
+---
+CARD_JELLYPLUG
+Constant for a commonly used Rush card
+value: 160008006
+---
+CARD_JINZO
+Jinzo's ID, used for listed_names and specific support
+value: 77585513
+---
+CARD_KAZEJIN
+Kazejin's ID
+value: 62340868
+---
+CARD_KING_KNIGHT
+King's Knight's ID
+value: 64788463
+---
+CARD_KURIBOH
+Kuriboh's ID
+value: 40640057
+---
+CARD_KURIBOT
+Constant for a commonly used Rush card
+value: 160001017
+---
+CARD_LABRYNTH_LABYRINTH
+Labrynth Labyrinth's ID
+value: 33407125
+---
+CARD_LIGHTNING_VOLTCONDOR
+Constant for a commonly used Rush card
+value: 160002017
+---
+CARD_LIGHT_BARRIER
+Light Barrier's ID
+value: 73206827
+---
+CARD_MAGICAL_MIDBREAKER
+Magical MidBreaker's ID, used to due to the interaction of cards that activate Field Spells.
+value: 71650854
+---
+CARD_MARINE_DOLPHIN
+Neo Spacian Marine Dolphin's ID, used in core because of double name
+value: 78734254
+---
+CARD_MEEEG_CHAN
+Constant for a commonly used Rush card
+value: 160009006
+---
+CARD_MONSTER_REBORN
+Monster Reborn's ID
+value: 83764718
+---
+CARD_MYUTANT_ARSENAL
+Myutant Arsenal's ID
+value: 7574904
+---
+CARD_MYUTANT_BEAST
+Myutant Beast's ID
+value: 34695290
+---
+CARD_MYUTANT_MIST
+Myutant Mist's ID
+value: 61089209
+---
+CARD_NATURIA_CAMELLIA
+Naturia Camellia's ID
+value: 29942771
+---
+CARD_NECROVALLEY
+Necrovalley's ID, used for hardcoded effect and specific support
+value: 47355498
+---
+CARD_NEEDLKYRIE
+Constant for a commonly used Rush card
+value: 160007001
+---
+CARD_NEOS
+Elemental HERO Neos' ID, used for listed_names and specific support
+value: 89943723
+---
+CARD_NUMERON_NETWORK
+Numeron Networks's ID, used for listed_names
+value: 41418852
+---
+CARD_ORCUSTRATED_BABEL
+Orcustrated Babel's ID, used for hardcoded effect
+value: 90351981
+---
+CARD_PHARAONIC_SARCOPHAGUS
+(To be added)
+value: 101202058
+---
+CARD_POLYMERIZATION
+Polymerization's ID, used because it has a lot of specific support
+value: 24094653
+---
+CARD_PRANKKIDS_MEOWMU
+Prank-Kids Meow-Meow-Mu's ID
+value: 25725326
+---
+CARD_PRIMA_GUITARNA
+Constant for a commonly used Rush card
+value: 160001028
+---
+CARD_PRINTING_PRESSER
+Constant for a commonly used Rush card
+value: 160003032
+---
+CARD_PSYFRAME_DRIVER
+PSY-Frame Driver's ID, used because it has a lot of specific support
+value: 49036338
+---
+CARD_PSYFRAME_LAMBDA
+PSY-Framelord Lambda's ID, used for hardcoded effect
+value: 8802510
+---
+CARD_QUEEN_KNIGHT
+Queen's Knight's ID
+value: 25652259
+---
+CARD_RA
+Winged Dragon of Ra's ID
+value: 10000010
+---
+CARD_REDBOOT_B_DRAGON
+Constant for a commonly used Rush card
+value: 160315001
+---
+CARD_REDEYES_B_DRAGON
+Red-Eyes Black Dragon's ID, used because it has a lot of specific support
+value: 74677422
+---
+CARD_REVEALER_ICEBARRIER
+Revealer of the Ice Barrier's ID
+value: 18319762
+---
+CARD_REVERSAL_OF_FATE
+Reversal of Fate's ID, used by the Arcana Force monsters
+value: 36690018
+---
+CARD_RIKKA_KONKON
+Rikka Konkon's ID
+value: 76869711
+---
+CARD_R_ACE_HYDRANT
+Rescue-ACE Hydrant's ID
+value: 37617348
+---
+CARD_SALAMANGREAT_SANCTUARY
+Salamangreat Sanctuary's ID, used for hardcoded effect and specific support
+value: 1295111
+---
+CARD_SANCTUARY_SKY
+Sanctuary in the Sky's ID, used because it has a lot of specific support
+value: 56433456
+---
+CARD_SANGA_OF_THE_THUNDER
+Sanga of the Thunder's ID
+value: 25955164
+---
+CARD_SCOOP_SCOOTER
+Constant for a commonly used Rush card
+value: 160003002
+---
+CARD_SEVENS_ROAD_MAGICIAN
+Constant for a commonly used Rush card
+value: 160301001
+---
+CARD_SKULL_SERVANT
+Skull Servant's ID
+value: 32274490
+---
+CARD_SKYSAVIOR_LUA
+Constant for a commonly used Rush card
+value: 160012021
+---
+CARD_SKYSAVIOR_SOLEIL
+Constant for a commonly used Rush card
+value: 160012020
+---
+CARD_SPIRIT_ELIMINATION
+Spirit Elimination's ID. Can be used when it is necessary to check for this card's effect.
+value: 69832741
+---
+CARD_SPIRIT_STADIUM
+Constant for a commonly used Rush card
+value: 160007047
+---
+CARD_STARDUST_DRAGON
+Stardust Dragon's ID
+value: 44508094
+---
+CARD_STRAYNGE_CAT
+Constant for a commonly used Rush card
+value: 160301010
+---
+CARD_STROMBERG
+Golden Castle of Stromberg's ID, used for listed_names and specific support
+value: 72283691
+---
+CARD_SUIJIN
+Suijin's ID
+value: 98434877
+---
+CARD_SUMMONED_SKULL
+Summon Skull's ID, used because it has a lot of specific support
+value: 70781052
+---
+CARD_SUMMON_GATE
+Summon Gate's ID, used for hardcoded effect
+value: 29724053
+---
+CARD_SUSHIP_SHARI
+Gunkan Suship Shari's ID, used by the Gunkan archetype.
+value: 24639891
+---
+CARD_TAMABOT
+Constant for a commonly used Rush card
+value: 160312023
+---
+CARD_TASTE_INSPECTOR
+Constant for a commonly used Rush card
+value: 160007008
+---
+CARD_TRANSAMU_RAINAC
+Constant for a commonly used Rush card
+value: 160425001
+---
+CARD_TWINKLE_MOSS
+Neo Spacian Twinkle Moss' ID, used in core because of double name
+value: 13857930
+---
+CARD_UMI
+Umi's ID, used because it has a lot of specific support
+value: 22702055
+---
+CARD_UNIFORM_39
+Constant for a commonly used Rush card
+value: 160007028
+---
+CARD_UNIFORM_99
+Constant for a commonly used Rush card
+value: 160007027
+---
+CARD_UPSTART_GOBLIN
+Constant for a commonly used Rush card
+value: 70368879
+---
+CARD_URSARCTIC_BIG_DIPPER
+Ursarctic Big Dipper's ID
+value: 89264428
+---
+CARD_URSARCTIC_DRYTRON
+Ursarctic Drytron's ID
+value: 89771220
+---
+CARD_VALIANTS_KOENIGWISSEN
+Vaylantz World - Konig Wissen's ID
+value: 75952542
+---
+CARD_VALIANTS_SHINRABANSHO
+Vaylantz World - Shinra Bansho's ID
+value: 49568943
+---
+CARD_VERNUSYLPH_COROLLA
+Vernusylph Corolla's ID
+value: 14108995
+---
+CARD_VIJAM
+Vijam the Cubic Seed's ID, used because it has a lot of specific support
+value: 15610297
+---
+CARD_VISAS_STARFROST
+Visas Starfrost's ID
+value: 56099748
+---
+COUNTER_A
+The hexadecimal value of A-Counters
+value: 0x100e
+---
+COUNTER_BUSHIDO
+The hexadecimal value of Bushido Counters
+value: 0x3
+---
+COUNTER_FEATHER
+The hexadecimal value of Black Feather Counters
+value: 0x10
+---
+COUNTER_FOG
+The hexadecimal value of Fog Counters
+value: 0x1019
+---
+COUNTER_KAIJU
+The hexadecimal value of Kaiju Counters
+value: 0x37
+---
+COUNTER_PREDATOR
+The hexadecimal value of Predator Counters
+value: 0x1041
+---
+COUNTER_SIGNAL
+The hexadecimal value of Signal Counters
+value: 0x1148
+---
+COUNTER_SPELL
+The hexadecimal value of Spell Counters
+value: 0x1
+---
+COUNTER_VENOM
+The hexadecimal value of Venom Counters
+value: 0x1009
+---
+TOKEN_ADVENTURER
+Adventurer Token, summoned by Rite of Aramesir
+value: 3285552
+---
+TOKEN_BOMB
+Bomb Token, summoned by Fire Injection and Volcanic Mine
+value: 22411610
+---
+TOKEN_DUAL_AVATAR_SPIRIT
+(To be added)
+value: 87669905
+---
+TOKEN_ENGINE
+(To be added)
+value: 82556059
+---
+TOKEN_FIREBALL
+(To be added)
+value: 23116809
+---
+TOKEN_HIPPO
+(To be added)
+value: 11050416
+---
+TOKEN_IGNISTER
+(To be added)
+value: 11738490
+---
+TOKEN_INSECT_MONSTER
+(To be added)
+value: 91512836
+---
+TOKEN_KURIBOH
+(To be added)
+value: 40703223
+---
+TOKEN_LINK
+(To be added)
+value: 48068379
+---
+TOKEN_MECHA_PHANTOM_BEAST
+(To be added)
+value: 31533705
+---
+TOKEN_MECHA_PHANTOM_BEAST_DRACOSSACK
+(To be added)
+value: 22110648
+---
+TOKEN_MECHA_PHANTOM_BEAST_HARRLIARD
+(To be added)
+value: 20368764
+---
+TOKEN_MECHA_PHANTOM_BEAST_TETHERWOLF
+(To be added)
+value: 67922703
+---
+TOKEN_OJAMA
+(To be added)
+value: 29843092
+---
+TOKEN_OJAMA_DUO
+(To be added)
+value: 14470846
+---
+TOKEN_OPTION
+(To be added)
+value: 93130022
+---
+TOKEN_REPTILIANNE
+(To be added)
+value: 21179144
+---
+TOKEN_ROSE
+(To be added)
+value: 71645243
+---
+TOKEN_SHINOBIRD
+(To be added)
+value: 52900001
+---
+TOKEN_SLIME
+(To be added)
+value: 21770261
+---
+TOKEN_SWORDSOUL
+(To be added)
+value: 20001444
+---
+TOKEN_TRICKSTAR
+(To be added)
+value: 51208047
+---
+TOKEN_WORLD_LEGACY
+World Legacy Token, summoned by Girsu, The Orcust Mekk-Knight and World Legacy - "World Lance"
+value: 46647145
+---
+COUNTER_NEED_ENABLE
+Added to counter value to require target to require its effects not negated
+value: 0x2000
+---
+COUNTER_WITHOUT_PERMIT
+Added to counter value to allow counters for any card (does not require Card.EnableCounterPermit)
+value: 0x1000
+---
+EFFECT_COUNT_CODE_CHAIN
+A flag to be used with SetCountLimit. Can be used when the effect can only be activated once per chain (per copy of the card)
+value: 0x8
+---
+EFFECT_COUNT_CODE_DUEL
+A flag to be used with SetCountLimit. The effect that receives this flag can only be used a given amount of times per duel.
+value: 0x2
+---
+EFFECT_COUNT_CODE_OATH
+A flag to be used with SetCountLimit. An effect that receives this can only be ACTIVATED a given number of times (activations that are negated do not count)
+value: 0x1
+---
+EFFECT_COUNT_CODE_SINGLE
+A flag to be used with SetCountLimit. Usually used with multiple effects of the same card, the value set is the maximum count among all those effects. Example: "Once per turn: You can activate 1 of these effects."
+value: 0x4
+---
+DOUBLE_DAMAGE
+Double piercing damage, used as the value of EFFECT_PIERCE
+value: 0x80000000
+---
+HALF_DAMAGE
+Half piercing damage, used as the value of EFFECT_PIERCE
+value: 0x80000001
+---
+SEQ_DECKBOTTOM
+Sequence to be used with Duel.SendtoDeck. Sends the card to the bottom of the Deck
+value: 1
+---
+SEQ_DECKSHUFFLE
+Sequence to be used with Duel.SendtoDeck. Sends the card to the top of the Deck, then suffles it
+value: 2
+---
+SEQ_DECKTOP
+Sequence to be used with Duel.SendtoDeck. Sends the card to the top of the Deck
+value: 0
+---
+DUEL_0_ATK_DESTROYED
+(To be added)
+value: 0x10000000
+---
+DUEL_1ST_TURN_DRAW
+(To be added)
+value: 0x200
+---
+DUEL_1_FIELD
+Use this constant name in the scripts (internally called DUEL_1_FACEUP_FIELD)
+value: 0x400
+---
+DUEL_3_COLUMNS_FIELD
+(To be added)
+value: 0x400000
+---
+DUEL_ATTACK_FIRST_TURN
+A flag for DuelModes. You can attack on the first turn
+value: 0x2
+---
+DUEL_CANNOT_SUMMON_OATH_OLD
+(To be added)
+value: 0x80000
+---
+DUEL_CAN_REPOS_IF_NON_SUMPLAYER
+(To be added)
+value: 0x80000000
+---
+DUEL_DRAW_UNTIL_5
+(To be added)
+value: 0x800000
+---
+DUEL_EMZONE
+(To be added)
+value: 0x2000
+---
+DUEL_EQUIP_NOT_SENT_IF_MISSING_TARGET
+(To be added)
+value: 0x8000000
+---
+DUEL_FSX_MMZONE
+(To be added)
+value: 0x4000
+---
+DUEL_INVERTED_QUICK_PRIORITY
+(To be added)
+value: 0x4000000
+---
+DUEL_MODE_GOAT
+A composite flag for DuelModes.
+value: 0
+---
+DUEL_MODE_MR1
+A composite flag for DuelModes. (DUEL_OBSOLETE_IGNITION+DUEL_1ST_TURN_DRAW+DUEL_1_FIELD+DUEL_SPSUMMON_ONCE_OLD_NEGATE+DUEL_RETURN_TO_DECK_TRIGGERS+DUEL_CANNOT_SUMMON_OATH_OLD)
+value: 1
+---
+DUEL_MODE_MR2
+A composite flag for DuelModes. (DUEL_1ST_TURN_DRAW+DUEL_1_FIELD+DUEL_SPSUMMON_ONCE_OLD_NEGATE+DUEL_RETURN_TO_DECK_TRIGGERS+DUEL_CANNOT_SUMMON_OATH_OLD)
+value: 2
+---
+DUEL_MODE_MR3
+A composite flag for DuelModes. (DUEL_PZONE+DUEL_SEPARATE_PZONE+DUEL_SPSUMMON_ONCE_OLD_NEGATE+DUEL_RETURN_TO_DECK_TRIGGERS+DUEL_CANNOT_SUMMON_OATH_OLD)
+value: 3
+---
+DUEL_MODE_MR4
+A composite flag for DuelModes. (DUEL_PZONE+DUEL_EMZONE+DUEL_SPSUMMON_ONCE_OLD_NEGATE+DUEL_RETURN_TO_DECK_TRIGGERS+DUEL_CANNOT_SUMMON_OATH_OLD)
+value: 4
+---
+DUEL_MODE_MR5
+A composite flag for DuelModes. (DUEL_PZONE+DUEL_EMZONE+DUEL_FSX_MMZONE+DUEL_TRAP_MONSTERS_NOT_USE_ZONE+DUEL_TRIGGER_ONLY_IN_LOCATION)
+value: 5
+---
+DUEL_MODE_RUSH
+A composite flag for DuelModes. (DUEL_3_COLUMNS_FIELD+DUEL_NO_MAIN_PHASE_2+DUEL_NO_STANDBY_PHASE+DUEL_1ST_TURN_DRAW+DUEL_INVERTED_QUICK_PRIORITY+DUEL_DRAW_UNTIL_5+DUEL_NO_HAND_LIMIT+DUEL_UNLIMITED_SUMMONS+DUEL_TRIGGER_ONLY_IN_LOCATION)
+value: 0
+---
+DUEL_MODE_SPEED
+A composite flag for DuelModes. (DUEL_3_COLUMNS_FIELD+DUEL_NO_MAIN_PHASE_2+DUEL_TRIGGER_ONLY_IN_LOCATION)
+value: 0
+---
+DUEL_NO_HAND_LIMIT
+(To be added)
+value: 0x1000000
+---
+DUEL_NO_MAIN_PHASE_2
+(To be added)
+value: 0x200000
+---
+DUEL_NO_STANDBY_PHASE
+(To be added)
+value: 0x100000
+---
+DUEL_OBSOLETE_IGNITION
+(To be added)
+value: 0x100
+---
+DUEL_OBSOLETE_RULING
+A flag for DuelModes. Applies First turn draw and ignition priority
+value: 0x8
+---
+DUEL_PSEUDO_SHUFFLE
+A flag for DuelModes. The deck is not shuffled
+value: 0x10
+---
+DUEL_PZONE
+(To be added)
+value: 0x800
+---
+DUEL_RELAY
+(To be added)
+value: 0x80
+---
+DUEL_RETURN_TO_DECK_TRIGGERS
+(To be added)
+value: 0x10000
+---
+DUEL_SEPARATE_PZONE
+(To be added)
+value: 0x1000
+---
+DUEL_SIMPLE_AI
+A flag for DuelModes. The AI/Opponent will activate effects whenever prompted
+value: 0x40
+---
+DUEL_SINGLE_CHAIN_IN_DAMAGE_SUBSTEP
+(To be added)
+value: 0x40000000
+---
+DUEL_SPSUMMON_ONCE_OLD_NEGATE
+(To be added)
+value: 0x40000
+---
+DUEL_STORE_ATTACK_REPLAYS
+(To be added)
+value: 0x20000000
+---
+DUEL_TCG_SEGOC_FIRSTTRIGGER
+(To be added)
+value: 0x200000000
+---
+DUEL_TCG_SEGOC_NONPUBLIC
+(To be added)
+value: 0x100000000
+---
+DUEL_TEST_MODE
+A flag for DuelModes. You can control the AI/Opponent
+value: 0x1
+---
+DUEL_TRAP_MONSTERS_NOT_USE_ZONE
+(To be added)
+value: 0x8000
+---
+DUEL_TRIGGER_ONLY_IN_LOCATION
+(To be added)
+value: 0x20000
+---
+DUEL_TRIGGER_WHEN_PRIVATE_KNOWLEDGE
+(To be added)
+value: 0x20
+---
+DUEL_UNLIMITED_SUMMONS
+(To be added)
+value: 0x2000000
+---
+DUEL_USE_TRAPS_IN_NEW_CHAIN
+A flag for DuelModes. Deprecated flag in Edopro's 8.0 core
+value: 0x4
+---
+CATEGORY_ANNOUNCE
+Describes an effect that requires declaring a card name
+value: 0x20000000
+---
+CATEGORY_ATKCHANGE
+Describes that a card changes ATK
+value: 0x200000
+---
+CATEGORY_COIN
+Describes that a card uses a coin
+value: 0x1000000
+---
+CATEGORY_CONTROL
+Describes that an effect takes or switches control
+value: 0x2000
+---
+CATEGORY_COUNTER
+Describes an effect that places Counters
+value: 0x800000
+---
+CATEGORY_DAMAGE
+Describes that a card deals damage
+value: 0x80000
+---
+CATEGORY_DECKDES
+Describes that an effect removes a card(s) from the Deck (to move them to the Graveyard or to banish them)
+value: 0x40
+---
+CATEGORY_DEFCHANGE
+Describes that a card changes DEF
+value: 0x400000
+---
+CATEGORY_DESTROY
+Describes that an effect destroys cards
+value: 0x1
+---
+CATEGORY_DICE
+Describes that a card uses a dice
+value: 0x2000000
+---
+CATEGORY_DISABLE
+Describes an effect that negates a card effect (not an effect's activation)
+value: 0x4000
+---
+CATEGORY_DISABLE_SUMMON
+Describes an effect that negates the summon of a monster
+value: 0x8000
+---
+CATEGORY_DRAW
+Describes that a card draws
+value: 0x10000
+---
+CATEGORY_EQUIP
+Describes that a card equips
+value: 0x40000
+---
+CATEGORY_FLIP
+Describes a FLIP effect
+value: 0x800
+---
+CATEGORY_FUSION_SUMMON
+Describes an effect that Fusion Summons
+value: 0x40000000
+---
+CATEGORY_HANDES
+Describes that an effect removes a card(s) from the hand (to move them to the Graveyard or to banish them)
+value: 0x80
+---
+CATEGORY_LEAVE_GRAVE
+Describes an effect that causes a card to leave the Graveyard
+value: 0x4000000
+---
+CATEGORY_LVCHANGE
+Describes an effect that changes a card's level
+value: 0x8000000
+---
+CATEGORY_NEGATE
+Describes an effect that negates the activation of an effect
+value: 0x10000000
+---
+CATEGORY_POSITION
+Describes an effect that changes a card's battle position
+value: 0x1000
+---
+CATEGORY_RECOVER
+Describes that a card recovers life points
+value: 0x100000
+---
+CATEGORY_RELEASE
+Describes that an effect tributes
+value: 0x2
+---
+CATEGORY_REMOVE
+Describes that an effect banishes
+value: 0x4
+---
+CATEGORY_SEARCH
+Describes that a card searches
+value: 0x20000
+---
+CATEGORY_SPECIAL_SUMMON
+Describes that an effect Special Summons a monster(s)
+value: 0x200
+---
+CATEGORY_SUMMON
+Describes that an effect Normal Summons a monster(s)
+value: 0x100
+---
+CATEGORY_TODECK
+Describes that an effect adds a card to the Deck (from any location)
+value: 0x10
+---
+CATEGORY_TOEXTRA
+Describes an effect that sends/return a card to the Extra Deck
+value: 0x80000000
+---
+CATEGORY_TOGRAVE
+Describes that an effect sends a card to the Graveyard (from any location)
+value: 0x20
+---
+CATEGORY_TOHAND
+Describes that an effect adds a card to the hand (from any location)
+value: 0x8
+---
+CATEGORY_TOKEN
+Describes that an effect Special Summons a token(s)
+value: 0x400
+---
+EFFECT_ACTIVATE_COST
+Affected player must pay a cost to activate effects
+value: 90
+---
+EFFECT_ADD_ATTRIBUTE
+Treats a Card(s) as a additional element(s) (written into Effect.SetValue())
+value: 125
+---
+EFFECT_ADD_CODE
+Treats a Card(s) as another Card by adding one additional Code (ID) to it. The additional code is obtained from the effect's SetValue. When used as single effect and an operation function is provided, this effect is applied if such operation returns true. In this case, the operation function receives the following parameters: sumcard, sumtype, playerid.
+value: 113
+---
+EFFECT_ADD_EXTRA_TRIBUTE
+The affected card can use as tribute other cards (than the default ones). Requires SetTargetRange and SetTarget
+value: 157
+---
+EFFECT_ADD_LINKMARKER
+Add LinkMarkers to the affected card
+value: 423
+---
+EFFECT_ADD_LINK_CODE
+Deprecated and removed effect. See core's "effect.h". Add a code (ID/name) for the affected monster to have if used for a Link Summon
+value: 354
+---
+EFFECT_ADD_LINK_SETCODE
+Deprecated and removed effect. See core's "effect.h". Add a setcode (archetype) for the affected monster to have if used for a Link Summon
+value: 355
+---
+EFFECT_ADD_RACE
+Treats a Card(s) as a additional race(s) (written into Effect.SetValue())
+value: 120
+---
+EFFECT_ADD_SETCODE
+Adds a setcode (archetype) to the affected card
+value: 334
+---
+EFFECT_ADD_TYPE
+Treats a Card(s) as a additional type(s) (written into Effect.SetValue())
+value: 115
+---
+EFFECT_ALLOW_NEGATIVE
+Allows the affected card to have negative levels
+value: 405
+---
+EFFECT_ALSO_BATTLE_DAMAGE
+The opponent also takes the battle damage. See Lyrilusc - Recital Starling
+value: 207
+---
+EFFECT_ATTACK_ALL
+Affected card can attack all valid attack targets once each. SetValue receives the following parameters:
+value: 193
+---
+EFFECT_ATTACK_COST
+The affected player must pay a cost to attack.
+value: 96
+---
+EFFECT_ATTACK_DISABLED
+The affected card's attack has been negated (shows application of Duel.NegateAttack() )
+value: 197
+---
+EFFECT_AVOID_BATTLE_DAMAGE
+The controller of the affected card does not take battle damage when it battles
+value: 201
+---
+EFFECT_BATTLE_DAMAGE_TO_EFFECT
+The affected card deals effect damage when it battles (Gravekeeper's Vassal)
+value: 205
+---
+EFFECT_BATTLE_DESTROY_REDIRECT
+If the affected card is destroyed by battle, send it to a given location
+value: 204
+---
+EFFECT_BECOME_LINKED_ZONE
+Makes a zone linked
+value: 266
+---
+EFFECT_BECOME_QUICK
+The affected Spell cards can be played like Quick-Play Spells
+value: 407
+---
+EFFECT_BOTH_BATTLE_DAMAGE
+Both players take the battle damage. See Double-Edged Sword
+value: 206
+---
+EFFECT_BP_FIRST_TURN
+Allows entering Battle Phase during the first turn
+value: 403
+---
+EFFECT_BP_TWICE
+The affected player can conduct two Battle Phases (e.g. Weather Report)
+value: 296
+---
+EFFECT_CANNOT_ACTIVATE
+The affected player(s) cannot activate the effects that match this effect's SetValue.
+value: 6
+---
+EFFECT_CANNOT_ATTACK
+Affected card cannot attack
+value: 85
+---
+EFFECT_CANNOT_ATTACK_ANNOUNCE
+Affected card cannot declare attacks (but can finish conducting an attack responded to with this effect, Threatening Roar)
+value: 86
+---
+EFFECT_CANNOT_BE_BATTLE_TARGET
+The affected card cannot be targeted for an attack
+value: 70
+---
+EFFECT_CANNOT_BE_EFFECT_TARGET
+Affected card cannot be targeted by card effects. When used as a single effect, SetValue takes: e, re, rp. e: this effect itself, re: the effect that would target, tp: the player that would target it
+value: 71
+---
+EFFECT_CANNOT_BE_FUSION_MATERIAL
+Affected card cannot be used as Fusion material
+value: 235
+---
+EFFECT_CANNOT_BE_LINK_MATERIAL
+Cannot be used as Link Material. SetValue takes the following parameters:
+value: 239
+---
+EFFECT_CANNOT_BE_MATERIAL
+The card cannot be used as material. Requires the SummonType for which the material can't be used to be defined via SetValue.
+value: 248
+---
+EFFECT_CANNOT_BE_SYNCHRO_MATERIAL
+Affected card cannot be used as Synchro material. SetValue takes the following parameters:
+value: 236
+---
+EFFECT_CANNOT_BE_XYZ_MATERIAL
+Affected card cannot be used as Xyz material. SetValue takes the following parameters:
+value: 238
+---
+EFFECT_CANNOT_BP
+The affected player cannot enter the Battle Phase
+value: 185
+---
+EFFECT_CANNOT_CHANGE_CONTROL
+Control of the affected card cannot change. Does not take a SetTarget or Setvalue.
+value: 5
+---
+EFFECT_CANNOT_CHANGE_POSITION
+Affected card cannot change its battle position. Usually used as a single effect but if a field version is used, SetTarget receives e and c as parameters.
+value: 14
+---
+EFFECT_CANNOT_CHANGE_POS_E
+Affected card's battle position cannot be changed by card effects (Raging Cloudian)
+value: 87
+---
+EFFECT_CANNOT_DIRECT_ATTACK
+Affected card cannot attack directly
+value: 73
+---
+EFFECT_CANNOT_DISABLE
+The affected card cannot have its effects negated
+value: 3
+---
+EFFECT_CANNOT_DISABLE_FLIP_SUMMON
+The Flip Summon of the affected monster cannot be negated (Spell Wall)
+value: 39
+---
+EFFECT_CANNOT_DISABLE_SPSUMMON
+The affected monster cannot have its Special Summon negated
+value: 27
+---
+EFFECT_CANNOT_DISABLE_SUMMON
+The affected monster cannot have its Normal Summon negated
+value: 26
+---
+EFFECT_CANNOT_DISCARD_DECK
+Affected player cannot send cards from their deck to the graveyard. SetTarget is not used in this effect
+value: 56
+---
+EFFECT_CANNOT_DISCARD_HAND
+Affected player cannot send cards from their hand to the graveyard. SetTarget receives the following parameters:
+value: 55
+---
+EFFECT_CANNOT_DISEFFECT
+Affected cards cannot have the resolution of their effects negated. If SetValue is used, it receives the following parameters:
+value: 13
+---
+EFFECT_CANNOT_DRAW
+The affected player cannot draw cards
+value: 25
+---
+EFFECT_CANNOT_EP
+The affected player cannot enter the End Phase
+value: 187
+---
+EFFECT_CANNOT_FLIP_SUMMON
+The affected player cannot Flip Summon.
+value: 21
+---
+EFFECT_CANNOT_INACTIVATE
+Affected cards (single range or via set target range) cannot have the activation of their effect(s) negated. If SetValue is used, it receives the following parameters:
+value: 12
+---
+EFFECT_CANNOT_LOSE_DECK
+The affected player is prevented from losing the duel via deckout
+value: 400
+---
+EFFECT_CANNOT_LOSE_EFFECT
+The affected player is prevented from losing the duel via card effects (anything that calls the Duel.Win function)
+value: 402
+---
+EFFECT_CANNOT_LOSE_LP
+The affected player is prevent from losing the duel while their LP is 0
+value: 401
+---
+EFFECT_CANNOT_M2
+The affected player cannot enter the Main Phase 2
+value: 186
+---
+EFFECT_CANNOT_MSET
+Affected player cannot Set monsters. This effect's SetTarget takes the following parameters:
+value: 23
+---
+EFFECT_CANNOT_PLACE_COUNTER
+The affected player cannot place counters (See Gate Blocker). The SetTarget in this effect takes the following parameters:
+value: 58
+---
+EFFECT_CANNOT_RELEASE
+Affected player cannot tribute cards. Requires the players to be set via SetTargetRange (and the EFFECT_FLAG_PLAYER_TARGET flag). Cards that return true for the SetTarget in this effect cannot be tributed by that player. SetTarget takes the following parameters:
+value: 46
+---
+EFFECT_CANNOT_REMOVE
+Affected card cannot be banished. If it is used as a field effect, cards that return true for the SetTarget cannot be banished. SetTarget receives the following parameters:
+value: 67
+---
+EFFECT_CANNOT_SELECT_BATTLE_TARGET
+The affected cards cannot be chosen to be an attack target
+value: 332
+---
+EFFECT_CANNOT_SELECT_EFFECT_TARGET
+The affected cards cannot activate their effects that target. SetValue takes the following parameters:
+value: 333
+---
+EFFECT_CANNOT_SPECIAL_SUMMON
+The affected player cannot Special Summon. Requires the property EFFECT_FLAG_PLAYER_TARGET and the players defined via SetRange.
+value: 22
+---
+EFFECT_CANNOT_SSET
+The affected player (set via SetTargetRange, with EFFECT_FLAG_PLAYER_TARGET as property) cannot set Spell/Trap cards. If a target function is used, the following parameters are passed to it:
+value: 24
+---
+EFFECT_CANNOT_SUMMON
+The affected player cannot Normal Summon. A field effect that requires EFFECT_FLAG_PLAYER_TARGET to be set and the players to be defined in SetTargetRange. SetTarget receives the following parameters:
+value: 20
+---
+EFFECT_CANNOT_TO_DECK
+Affected card cannot be sent to the deck. If it is used as a field effect, cards that return true for the SetTarget cannot be sent to the hand. SetTarget receives the following parameters:
+value: 66
+---
+EFFECT_CANNOT_TO_GRAVE
+The affected card(s) cannot be sent to the Graveyard. If used as a field effect, only e and c are passed to SetTarget
+value: 68
+---
+EFFECT_CANNOT_TO_GRAVE_AS_COST
+The affected card cannot be sent to the GY.
+value: 59
+---
+EFFECT_CANNOT_TO_HAND
+Affected card cannot be send to the hand. If it is used as a field effect, cards that return true for the SetTarget cannot be sent to the hand. SetTarget receives the following parameters:
+value: 65
+---
+EFFECT_CANNOT_TRIGGER
+The affected card cannot activate its effects. Usually used as EFFECT_TYPE_SINGLE. If a field version is used, cards that return true for the SetTarget are the ones that cannot activate their effects. In this card, SetTarget receives e and c as parameters.
+value: 7
+---
+EFFECT_CANNOT_TURN_SET
+The affected card cannot be turned face-down ("Set"). If used as a field effect, only e and c are passed to SetTarget
+value: 69
+---
+EFFECT_CANNOT_USE_AS_COST
+The affected card cannot be used as Cost. Usually used as a single effect. Does not use SetTarget
+value: 57
+---
+EFFECT_CHAIN_MATERIAL
+When Fusion Summoning, the affected player can banish materials from the hand, field, deck or graveyard instead (Chain Material)
+value: 231
+---
+EFFECT_CHANGE_ATTRIBUTE
+Treats a Card(s) as another element overwriting its element (written into Effect.SetValue())
+value: 127
+---
+EFFECT_CHANGE_BATTLE_DAMAGE
+(To be added)
+value: 208
+---
+EFFECT_CHANGE_BATTLE_STAT
+Changes the values used to calculate damage, during damage calculation only. Doesn't actually change the values, only what is calculated
+value: 198
+---
+EFFECT_CHANGE_CODE
+Treats a a card as a different card by overwriting its current code(s). The new code is taken from this effect's SetValue. When used as single effect and an operation function is provided, this effect is applied if such operation returns true. In this case, the operation function receives the following parameters: sumcard, sumtype, playerid.
+value: 114
+---
+EFFECT_CHANGE_DAMAGE
+Modify the amount of damage the affected player would take
+value: 82
+---
+EFFECT_CHANGE_ENVIRONMENT
+The active Field Spell is treated as a given card if none exists (Maiden of the Aqua, Gravekeeper's Priestess)
+value: 290
+---
+EFFECT_CHANGE_LEVEL
+Set affected card's level to a value (written into Effect.SetValue())
+value: 131
+---
+EFFECT_CHANGE_LEVEL_FINAL
+Set affected card's level to a value, overriding other changes
+value: 314
+---
+EFFECT_CHANGE_LINK
+Set affected card's Link Value by a value (written into Effect.SetValue())
+value: 421
+---
+EFFECT_CHANGE_LINKMARKER
+Sets the affected card's LinkMarkers to the value provided
+value: 425
+---
+EFFECT_CHANGE_LINK_FINAL
+Set affected card's Link Value to a value, overriding other changes
+value: 422
+---
+EFFECT_CHANGE_LSCALE
+Set affected card's left pendulum scale (blue scale) to a value (written into Effect.SetValue())
+value: 135
+---
+EFFECT_CHANGE_RACE
+Treats a Card(s) as another type overwriting its type (written into Effect.SetValue())
+value: 122
+---
+EFFECT_CHANGE_RANK
+Set affected card's rank to a value (written into Effect.SetValue())
+value: 133
+---
+EFFECT_CHANGE_RANK_FINAL
+Set affected card's rank to a value, overriding other changes
+value: 315
+---
+EFFECT_CHANGE_RSCALE
+Set affected card's right pendulum scale (red scale) to a value (written into Effect.SetValue())
+value: 137
+---
+EFFECT_CHANGE_SETCODE
+The affected card's setcode is changed to the new value, replacing the SetCode(s) it currently has
+value: 350
+---
+EFFECT_CHANGE_TYPE
+Treats a Card(s) as another type overwriting its type (written into Effect.SetValue())
+value: 117
+---
+EFFECT_CLIENT_MODE_NORMAL
+(To be added)
+value: 0
+---
+EFFECT_CLIENT_MODE_RESET
+(To be added)
+value: 2
+---
+EFFECT_CLIENT_MODE_RESOLVE
+(To be added)
+value: 1
+---
+EFFECT_COUNTER_LIMIT
+Allowed to place the number of counters
+value: 0x20000
+---
+EFFECT_COUNTER_PERMIT
+Allow placement of counter type
+value: 0x10000
+---
+EFFECT_CYBERDARK_WORLD
+(To be added)
+value: 64753988
+---
+EFFECT_DARKNESS_HIDE
+The affect players cannot see/confirm their face-down cards
+value: 428
+---
+EFFECT_DECREASE_TRIBUTE
+Decreases the amount of tributes to perform a Tribute Summon
+value: 151
+---
+EFFECT_DECREASE_TRIBUTE_SET
+Decreases the amount of tributes to perform a Tribute Set
+value: 152
+---
+EFFECT_DEFENSE_ATTACK
+Affected card can attack while in defense position. The stats it uses depends on Effect.Setvalue (if any), where it applies DEF if effect value is 1 and atk if it is 0 or doesn't exist.
+value: 190
+---
+EFFECT_DESTROY_REPLACE
+If the affected card would be destroyed, perform a given operation instead
+value: 50
+---
+EFFECT_DESTROY_SUBSTITUTE
+Required alternative to destruction (this card is destroyed with other cards instead). SetValue receives the following parameters:
+value: 45
+---
+EFFECT_DIRECT_ATTACK
+Affected card can make a direct attack.
+value: 74
+---
+EFFECT_DISABLE
+Ineffective (skills extraction)
+value: 2
+---
+EFFECT_DISABLE_CHAIN
+Affected card has its activation negated
+value: 9
+---
+EFFECT_DISABLE_EFFECT
+The affected card has its effects negated
+value: 8
+---
+EFFECT_DISABLE_FIELD
+Given card zones cannot be used. The zones affected must be defined via SetOperation
+value: 260
+---
+EFFECT_DISABLE_TRAPMONSTER
+Negates Trap monsters
+value: 10
+---
+EFFECT_DISCARD_COST_CHANGE
+Counter Trap cards cost change (Guilding Ariadne)
+value: 338
+---
+EFFECT_DOUBLE_TRIBUTE
+Treats a card as 2 tributes for a tribute summon
+value: 150
+---
+EFFECT_DRAW_COUNT
+Change the number of cards the affected player draws for their Draw Phase
+value: 271
+---
+EFFECT_DUAL_STATUS
+Affected card is a Gemini Monster that has its effect
+value: 75
+---
+EFFECT_DUAL_SUMMONABLE
+Affected card can be Normal Summon on the field as a Gemini Monster
+value: 77
+---
+EFFECT_EQUIP_LIMIT
+This effect code restricts which monsters an equip card can remain equipped to. If the equip card is equipped to a monster that does not meet the restriction, the equip card will be destroyed.
+value: 76
+---
+EFFECT_EXTRA_ATTACK
+Affected card can make a given number of additional attacks
+value: 194
+---
+EFFECT_EXTRA_ATTACK_MONSTER
+Affected card can make a given number of additional attacks on monsters
+value: 346
+---
+EFFECT_EXTRA_FUSION_MATERIAL
+Allows using affected cards as Fusion Materials
+value: 352
+---
+EFFECT_EXTRA_MATERIAL
+Allows the use of an extra material in a group of materials to summon a monster (e.g. "Micro Coder). This effect is not defined in the core. See the utility for its implementation
+value: 358
+---
+EFFECT_EXTRA_PENDULUM_SUMMON
+(To be added)
+value: 360
+---
+EFFECT_EXTRA_RELEASE
+The affected card must be used when performing a tribute (Soul Exchange)
+value: 153
+---
+EFFECT_EXTRA_RELEASE_NONSUM
+The affected card can be tributed (by a cost ?) even if it is controlled by the opponent.
+value: 158
+---
+EFFECT_EXTRA_RELEASE_SUM
+Allows, optionally, to tributed the affected card (Monarch's Stormforth, Vampire Sucker)
+value: 155
+---
+EFFECT_EXTRA_RITUAL_MATERIAL
+Affected card can be used for a Ritual Summon in addition to what the Ritual Spell states (e.g. Sphere Kuriboh).
+value: 243
+---
+EFFECT_EXTRA_SET_COUNT
+Increase the number of monsters the player can set (usually 1 Normal Summon/Set per turn)
+value: 35
+---
+EFFECT_EXTRA_SUMMON_COUNT
+Increases the number of Normal Summons the player can make. The value should be set in SetValue.
+value: 29
+---
+EFFECT_FIRST_ATTACK
+Affected card must attack before its controller's other monsters
+value: 192
+---
+EFFECT_FLIPSUMMON_COST
+Affected player must pay a cost to Flip Summon.
+value: 93
+---
+EFFECT_FORBIDDEN
+Card cannot be used (Prohibition, Psi-Blocker)
+value: 292
+---
+EFFECT_FORCE_MZONE
+Forces a zone to be used (see Dai Dance).
+value: 265
+---
+EFFECT_FORCE_NORMAL_SUMMON_POSITION
+Listed in the core, but not implemented
+value: 426
+---
+EFFECT_FORCE_SPSUMMON_POSITION
+This effect's SetTarget takes the following parameters: eff, pcard, playerid, sumtype, sumpos, toplayer, peffect
+value: 427
+---
+EFFECT_FUSION_MATERIAL
+Placeholder effect of a Fusion Monster's listed Fusion Material
+value: 230
+---
+EFFECT_FUSION_MAT_RESTRICTION
+73941492+TYPE_FUSION. Used by the Fusion Summon procedure as an implementation of Harmonizing Magician's effect
+value: 73941492+TYPE_FUSION
+---
+EFFECT_FUSION_SUBSTITUTE
+When Fusion Summoning, the affected card can be used to substitute for any specifically named material
+value: 234
+---
+EFFECT_HAND_LIMIT
+Change the maximum number of cards the affected player can have in their hand during the End Phase. The new value should be provided via SetValue.
+value: 270
+---
+EFFECT_HAND_SYNCHRO
+Can Synchro Summon using monsters in the hand (e.g. Tatsunoko)
+value: 339
+---
+EFFECT_ICEBARRIER_REPLACE
+(To be added)
+value: 18319762
+---
+EFFECT_IGNORE_BATTLE_TARGET
+Affected card cannot be targeted for an attack, but it doesn't prevent direct attack.
+value: 72
+---
+EFFECT_IMMUNE_EFFECT
+Affected card is unaffected by card effects. The SetValue of this effect takes the following parameters:
+value: 1
+---
+EFFECT_INDESTRUCTABLE
+Affected card cannot be destroyed. SetValue receives the following parameters:
+value: 40
+---
+EFFECT_INDESTRUCTABLE_BATTLE
+Affected card cannot be destroyed by battle
+value: 42
+---
+EFFECT_INDESTRUCTABLE_COUNT
+Affected card cannot be destroyed up to a given number of times. SetValue receives the following parameters:
+value: 47
+---
+EFFECT_INDESTRUCTABLE_EFFECT
+Affected card cannot be destroyed by card effect. SetValue receives the following parameters:
+value: 41
+---
+EFFECT_IRON_WALL
+(To be added)
+value: 361
+---
+EFFECT_LEAVE_FIELD_REDIRECT
+If the affected card would leave the field, sends it to another given location instead. The location must be set in SetValue
+value: 60
+---
+EFFECT_LEFT_SPSUMMON_COUNT
+The remaining number of Summoning (e.g Summon Breaker)
+value: 331
+---
+EFFECT_LEVEL_RANK
+Gives Rank to an affected monster with a Level
+value: 408
+---
+EFFECT_LEVEL_RANK_S
+Gives Rank to an affected monster with a Level, Level and Rank are always synced.
+value: 410
+---
+EFFECT_LIGHT_OF_INTERVENTION
+Monsters can be Normal Summoned in face-up Defense Position (Light of Intervention).
+value: 38
+---
+EFFECT_LIMIT_SET_PROC
+Specifies a special method through which the affected card must be Normal Set
+value: 37
+---
+EFFECT_LIMIT_SUMMON_PROC
+Specifies a special method through which the affected card must be Normal Summoned
+value: 33
+---
+EFFECT_LPCOST_CHANGE
+Modify the amount of LP a given player must pay for a cost. When it is used, the SetValue in this effect must return the changed cost and the parameters available for it are: e,re,rp,val
+value: 170
+---
+EFFECT_LPCOST_REPLACE
+If the affected player would pay LP for a cost, perform a given operation instead
+value: 171
+---
+EFFECT_MATCH_KILL
+When the affected card reduces its controller's opponent's LP to 0 by a direct attack, its controller wins the match.
+value: 300
+---
+EFFECT_MATERIAL_CHECK
+Applies a check to the materials used. The SetValue in this effect takes as parameter e and c
+value: 251
+---
+EFFECT_MAX_MZONE
+The maximum number of monsters
+value: 263
+---
+EFFECT_MAX_SZONE
+Maximum number of Spell/Trap zone
+value: 264
+---
+EFFECT_MONSTER_SSET
+The affected monster can be placed in the Spell/Trap zone. SetValue should hold the type the card is set as (for example, TYPE_SPELL). See Artifact monsters
+value: 18
+---
+EFFECT_MSET_COST
+The affected player must pay a cost to Set monsters.
+value: 94
+---
+EFFECT_MULTIPLE_TUNERS
+An effect that flags the card that uses it as card that require 2or more tuners. Uses "Red-Nova" as ID
+value: 21142671
+---
+EFFECT_MUST_ATTACK
+Affected card must attack if able
+value: 191
+---
+EFFECT_MUST_ATTACK_MONSTER
+Affected card must attack a monster, if abble.
+value: 344
+---
+EFFECT_MUST_BE_FMATERIAL
+Deprecated. Use EFFECT_MUST_BE_MATERIAL with REASON_FUSION in the SetValue
+value: 316
+---
+EFFECT_MUST_BE_LMATERIAL
+Deprecated. Use EFFECT_MUST_BE_MATERIAL with REASON_LINK in the SetValue
+value: 318
+---
+EFFECT_MUST_BE_SMATERIAL
+Deprecated. Use EFFECT_MUST_BE_MATERIAL with REASON_SYNCHRO in the SetValue
+value: 312
+---
+EFFECT_MUST_BE_XMATERIAL
+Deprecated. Use EFFECT_MUST_BE_MATERIAL with REASON_XYZ in the SetValue
+value: 317
+---
+EFFECT_NECRO_VALLEY
+Cannot affect cards in the Graveyard (Necrovalley)
+value: 291
+---
+EFFECT_NECRO_VALLEY_IM
+Affected card is unaffected by the effects of Necrovalley
+value: 293
+---
+EFFECT_NONTUNER
+Affected card can be treated as a non-Tuner despite being a Tuner (Phantom King Hydride). When used as a single effect, SetValue receives the following parameters:
+value: 244
+---
+EFFECT_NO_BATTLE_DAMAGE
+No battle damage is dealt when the affected card battles
+value: 200
+---
+EFFECT_NO_EFFECT_DAMAGE
+The affected player does not take damage from card effects
+value: 335
+---
+EFFECT_OLDUNION_STATUS
+(To be added)
+value: 348
+---
+EFFECT_ONLY_ATTACK_MONSTER
+Affected card can only attack monster.
+value: 343
+---
+EFFECT_ONLY_BE_ATTACKED
+Only the affected card can be attacked
+value: 196
+---
+EFFECT_OVERLAY_REMOVE_REPLACE
+Replaces detaching Xyz materials from monsters by some other operation. SetCondition must be used to match the exact effects that can be replaced. SetOperation must return something.
+value: 245
+---
+EFFECT_PATRICIAN_OF_DARKNESS
+The affected player chooses the targets of their opponent's attacks
+value: 345
+---
+EFFECT_PIERCE
+The affected monster deals piercing battle damage
+value: 203
+---
+EFFECT_PRE_MONSTER
+Can access the monster's value (Card.AddMonsterAttribute () only)
+value: 250
+---
+EFFECT_PUBLIC
+Affected card becomes public knowledge
+value: 160
+---
+EFFECT_QP_ACT_IN_NTPHAND
+A Quick Play Spell affected can be activated from the hand during the turn of the opponent's turn
+value: 311
+---
+EFFECT_QP_ACT_IN_SET_TURN
+Allows Quick-Play Spells to be activated the turn they are set. This effect is skipped if any of the following 3 tests is false: the card is TYPE_SPELL, the card is TYPE_QUICKPLAY or has EFFECT_BECOME_QUICK, the card has STATUS_SET_TURN. Usually used as EFFECT_TYPE_SINGLE if a field version is used SetTarget receives e and c as parameters. It is suggested that SetDescription is also applied with this effect, for the scenarios where multiple similar effects are available, to allow the player to choose which one to apply.
+value: 19
+---
+EFFECT_RANK_LEVEL
+Gives Level to an affected monster with a Rank
+value: 409
+---
+EFFECT_RANK_LEVEL_S
+Gives Level to an affected monster with a Rank, Level and Rank are always synced.
+value: 411
+---
+EFFECT_RCOUNTER_REPLACE
+Instead of removing the counter
+value: 0x30000
+---
+EFFECT_REFLECT_BATTLE_DAMAGE
+If the controller of the affected card would take battle damage from a battle involving that card, the opponent takes the damage
+value: 202
+---
+EFFECT_REFLECT_DAMAGE
+If the affected player would take damage, their opponent takes damage instead. SetValue in this effect receives the following parameters:
+value: 83
+---
+EFFECT_RELEASE_REPLACE
+If the affected card would be Tributed, perform a given operation instead
+value: 51
+---
+EFFECT_REMAIN_FIELD
+Affected card remains on the field (e.g. Swords of Revealing Light)
+value: 17
+---
+EFFECT_REMOVE_ATTRIBUTE
+Treats a Card(s) as not a element(s) (written into Effect.SetValue())
+value: 126
+---
+EFFECT_REMOVE_BRAINWASHING
+Control of all monsters is returned to their owner
+value: 295
+---
+EFFECT_REMOVE_CODE
+Removes the code passed via SetValue from this card's codes. When used as single effect and an operation function is provided, this effect is applied if such operation returns true. In this case, the operation function receives the following parameters: sumcard, sumtype, playerid.
+value: 118
+---
+EFFECT_REMOVE_LINKMARKER
+Remove LinkMarkers from the affected card
+value: 424
+---
+EFFECT_REMOVE_RACE
+Treats a Card(s) as not a race(s) (written into Effect.SetValue())
+value: 121
+---
+EFFECT_REMOVE_REDIRECT
+If the affected card would be removed, sends it to another given location instead. The location must be set in SetValue.
+value: 64
+---
+EFFECT_REMOVE_SETCODE
+(To be added)
+value: 349
+---
+EFFECT_REMOVE_TYPE
+Treats a Card(s) as not a type(s) (written into Effect.SetValue())
+value: 116
+---
+EFFECT_REVERSE_DAMAGE
+If the affected player would take damage, they gain that much LP instead. SetValue in this effect receives the following parameters:
+value: 80
+---
+EFFECT_REVERSE_DECK
+Flip affected player's deck upside-down, used with GLOBALFLAG_DECK_REVERSE_CHECK, set the player affected with SetTargetRange(,)
+value: 294
+---
+EFFECT_REVERSE_RECOVER
+If the affected player would gain LP, they take that much damage instead. SetValue in this effect receives the following parameters:
+value: 81
+---
+EFFECT_REVERSE_UPDATE
+Any change to ATK and DEF is reversed (For the effects of 'Reverse Trap')
+value: 108
+---
+EFFECT_REVIVE_LIMIT
+The affected card must be Special Summoned properly before being Special Summoned from public locations
+value: 31
+---
+EFFECT_RITUAL_LEVEL
+Affected card can be treated as a given level if used for a Ritual Summon
+value: 241
+---
+EFFECT_SELF_ATTACK
+Allows players to attack themselves using monsters they control
+value: 406
+---
+EFFECT_SELF_DESTROY
+Affected card destroys itself
+value: 141
+---
+EFFECT_SELF_TOGRAVE
+Affected card sends itself to the graveyard, requires enabling GLOBALFLAG_SELF_TOGRAVE
+value: 142
+---
+EFFECT_SEND_REPLACE
+Card is sent to some location instead of another (Madolche Chateau)
+value: 52
+---
+EFFECT_SET_ATTACK
+Sets the current ATK of a monster to a value evaluated in Effect.SetValue()
+value: 101
+---
+EFFECT_SET_ATTACK_FINAL
+Set the attack of a monster, overriding other changes  (taken from the return in Effect.SetValue())
+value: 102
+---
+EFFECT_SET_BASE_ATTACK
+Set the original attack of a monster
+value: 103
+---
+EFFECT_SET_BASE_DEFENSE
+Set the original defense of a monster
+value: 107
+---
+EFFECT_SET_CONTROL
+The affected card's control is set to a given player. The player should be defined in SetValue (SetValue receives e and c)
+value: 4
+---
+EFFECT_SET_DEFENSE
+Set the defense of a monster
+value: 105
+---
+EFFECT_SET_DEFENSE_FINAL
+Set the defense of a monster, overriding other changes (written into Effect.SetValue())
+value: 106
+---
+EFFECT_SET_POSITION
+Set affected card's battle position to a given value
+value: 140
+---
+EFFECT_SET_PROC
+Specifies a special method through which the affected card can be Normal Set
+value: 36
+---
+EFFECT_SET_SUMMON_COUNT_LIMIT
+Limit the number of monsters placed per turn
+value: 28
+---
+EFFECT_SFORCE_REPLACE
+Uses "S-Force Chase"'s code, but it is also an effect of "S-Force Retroactive"
+value: 55049722
+---
+EFFECT_SKIP_BP
+Skip affected player's battle phase (used with SetTargetRange(tp value,1-tp value), 0 for not affected, 1 for affect)
+value: 183
+---
+EFFECT_SKIP_DP
+Skip affected player's draw phase (used with SetTargetRange(tp value,1-tp value), 0 for not affected, 1 for affect)
+value: 180
+---
+EFFECT_SKIP_EP
+The affected player's End Phase is skipped
+value: 189
+---
+EFFECT_SKIP_M1
+Skip affected player's main phase 1 (used with SetTargetRange(tp value,1-tp value), 0 for not affected, 1 for affect)
+value: 182
+---
+EFFECT_SKIP_M2
+Skip affected player's main phase 2 (used with SetTargetRange(tp value,1-tp value), 0 for not affected, 1 for affect)
+value: 184
+---
+EFFECT_SKIP_SP
+Skip affected player's standby phase (used with SetTargetRange(tp value,1-tp value), 0 for not affected, 1 for affect)
+value: 181
+---
+EFFECT_SKIP_TURN
+The affected player's whole next turn is skipped
+value: 188
+---
+EFFECT_SPIRIT_DONOT_RETURN
+Affected card does not return to the hand in the End Phase even if a Spirit Monster
+value: 280
+---
+EFFECT_SPIRIT_MAYNOT_RETURN
+Affected card optionally may not return to the hand in the End Phase even if a Spirit Monster
+value: 281
+---
+EFFECT_SPSUMMON_CONDITION
+The affected monster has an Special Summon condition that must be fulfilled. Cards/effects that return true for the SetValue are allowed to Special Summon the monster. SetValue for this function takes the following parameters:
+value: 30
+---
+EFFECT_SPSUMMON_COST
+The affected player must pay a cost to Special Summon.
+value: 92
+---
+EFFECT_SPSUMMON_COUNT_LIMIT
+Limit for the number of Special Summons
+value: 330
+---
+EFFECT_SPSUMMON_PROC
+Specifies a special method through which the affected card can be Special Summoned
+value: 34
+---
+EFFECT_SPSUMMON_PROC_G
+Pendulum Summon rules (e.g. Harmonic Oscillation)
+value: 320
+---
+EFFECT_SSET_COST
+The affected player must pay a cost to Set Spell/Traps.
+value: 95
+---
+EFFECT_SUMMON_COST
+The affected player must pay a cost to Normal Summon.
+value: 91
+---
+EFFECT_SUMMON_PROC
+Specifies a special method through which the affected card can be Normal Summoned
+value: 32
+---
+EFFECT_SUPREME_CASTLE
+The ID of Supreme King's Castle, used for the hardcoded effect of it
+value: 72043279
+---
+EFFECT_SWAP_AD
+Swap the affected card's ATK and DEF
+value: 109
+---
+EFFECT_SWAP_ATTACK_FINAL
+Set the final attack (used to exchange offensive and defensive)
+value: 111
+---
+EFFECT_SWAP_BASE_AD
+Swap the affected card's original ATK and DEF
+value: 110
+---
+EFFECT_SWAP_DEFENSE_FINAL
+Set the final defense (for exchange of offensive and defensive)
+value: 112
+---
+EFFECT_SYNCHRO_CHECK
+Genomix Fighter
+value: 310
+---
+EFFECT_SYNCHRO_LEVEL
+Affected card can be treated as a given level if used for a Synchro Summon
+value: 240
+---
+EFFECT_SYNCHRO_MATERIAL
+Can be used as Synchro material
+value: 232
+---
+EFFECT_SYNCHRO_MATERIAL_CUSTOM
+Coexistence of material constraints
+value: 237
+---
+EFFECT_SYNCHRO_MAT_RESTRICTION
+73941492+TYPE_SYNCHRO. Used by the Synchro Summon procedure as an implementation of Harmonizing Magician's effect
+value: 73941492+TYPE_SYNCHRO
+---
+EFFECT_SYNSUB_NORDIC
+Vanadis of the Nordic Ascendant's ID, used for the effects of Nordics that replace a material for a Synchro Summon
+value: 61777313
+---
+EFFECT_TOSS_COIN_CHOOSE
+(To be added)
+value: 222
+---
+EFFECT_TOSS_COIN_REPLACE
+If an effect requires a coin toss, replace it with a given result instead
+value: 220
+---
+EFFECT_TOSS_DICE_CHOOSE
+(To be added)
+value: 223
+---
+EFFECT_TOSS_DICE_REPLACE
+If an effect requires a dice roll, replace it with a given result instead
+value: 221
+---
+EFFECT_TO_DECK_REDIRECT
+If the affected card would go to the deck, sends it to another given location instead.  The location must be set in SetValue
+value: 62
+---
+EFFECT_TO_GRAVE_REDIRECT
+If the affected card would go to the graveyard, sends it to another given location instead. The location must be set in SetValue
+value: 63
+---
+EFFECT_TO_GRAVE_REDIRECT_CB
+If the affected card would be sent to the graveyard, executes another operation instead (Crystal Beast monsters)
+value: 313
+---
+EFFECT_TO_HAND_REDIRECT
+If the affected card would go to the hand, sends it to another given location instead. The location must be set in SetValue
+value: 61
+---
+EFFECT_TRAP_ACT_IN_HAND
+The affected Trap Card can be activated from the hand. If the card is not TYPE_TRAP, this effect is skipped. Usually used as EFFECT_TYPE_SINGLE if a field version is used SetTarget receives e and c as parameters. It is suggested that SetDescription is also applied with this effect, for the scenarios where multiple similar effects are available, to allow the player to choose which one to apply.
+value: 15
+---
+EFFECT_TRAP_ACT_IN_SET_TURN
+Affected Trap Card can be activated the turn it was set. If the card is not TYPE_TRAP and/or does not have STATUS_SET_TURN, this effect is skipped. The property EFFECT_FLAG_SET_AVAILABLE should be set. Usually used as EFFECT_TYPE_SINGLE if a field version is used SetTarget receives e and c as parameters. It is suggested that SetDescription is also applied with this effect, for the scenarios where multiple similar effects are available, to allow the player to choose which one to apply.
+value: 16
+---
+EFFECT_TRIBUTE_LIMIT
+The affected card has restriction for the tribute summon
+value: 154
+---
+EFFECT_TRIPLE_TRIBUTE
+Treats a card as 2 and 3 tributes for a tribute summon
+value: 156
+---
+EFFECT_UNION_LIMIT
+(To be added)
+value: 78
+---
+EFFECT_UNION_STATUS
+(To be added)
+value: 347
+---
+EFFECT_UNIQUE_CHECK
+There can only be one on the field (Card.SetUniqueOnField () only)
+value: 297
+---
+EFFECT_UNRELEASABLE_EFFECT
+Affected card cannot be Tributed by card effects.  SetValue receives the following parameters:
+value: 48
+---
+EFFECT_UNRELEASABLE_NONSUM
+Affected card cannot be tributed for effects. SetValue in this effect receives only `e` and `c` as parameters.
+value: 44
+---
+EFFECT_UNRELEASABLE_SUM
+Affected card cannot be tributed for a Tribute Summon. SetValue in this effect receives only `e` and `c` as parameters.
+value: 43
+---
+EFFECT_UNSTOPPABLE_ATTACK
+Prevents the affected monster's attack from being negated. This effect is checked in functions like Card.CanAttack and also when executing PROCESSOR_ATTACK_DISABLE
+value: 404
+---
+EFFECT_UNSUMMONABLE_CARD
+The affected card cannot be Normal Summoned
+value: 336
+---
+EFFECT_UPDATE_ATTACK
+Changes the ATK of a monster by a value (taken from the return in Effect.SetValue())
+value: 100
+---
+EFFECT_UPDATE_DEFENSE
+Change the defense of a monster by a value (written into Effect.SetValue())
+value: 104
+---
+EFFECT_UPDATE_LEVEL
+Increase/decrease affected card's level by a value (written into Effect.SetValue())
+value: 130
+---
+EFFECT_UPDATE_LINK
+Increase/decrease affected card's Link Value by a value (written into Effect.SetValue())
+value: 420
+---
+EFFECT_UPDATE_LSCALE
+Increase/decrease affected card's left pendulum scale (blue scale) by a value (written into Effect.SetValue())
+value: 134
+---
+EFFECT_UPDATE_RANK
+Increase/decrease affected card's rank by a value (written into Effect.SetValue())
+value: 132
+---
+EFFECT_UPDATE_RSCALE
+Increase/decrease affected card's right pendulum scale (red scale) by a value (written into Effect.SetValue())
+value: 136
+---
+EFFECT_USE_EXTRA_MZONE
+Card uses an additional Monster zone
+value: 261
+---
+EFFECT_USE_EXTRA_SZONE
+Card uses an additional Spell/Trap zone
+value: 262
+---
+EFFECT_WITCHCRAFT_REPLACE
+Witchcraft Bystreet's ID, used for the hardcoded effect of it and Witchcraft Scroll
+value: 83289866
+---
+EFFECT_XYZ_LEVEL
+Affected card can be treated as a given level if used for an Xyz Summon
+value: 242
+---
+EFFECT_XYZ_MATERIAL
+Can be used as Xyz material
+value: 233
+---
+EFFECT_XYZ_MAT_RESTRICTION
+73941492+TYPE_XYZ. Used by the XyzSummon procedure as an implementation of Harmonizing Magician's effect
+value: 73941492+TYPE_XYZ
+---
+EFFECT_FLAG2_CHECK_SIMULTANEOUS
+The effect shouldn't trigger if the card was sent in the triggering location at the same time of the event that triggered it
+value: 0x0004
+---
+EFFECT_FLAG2_COF
+Normal Spell that activates during the Standby Phase (Curse of Fiend)
+value: 0x0002
+---
+EFFECT_FLAG2_CONTINUOUS_EQUIP
+This flag allows Continuous Traps that equip themselves to use their trigger/quick effects while equipped
+value: 0x001
+---
+EFFECT_FLAG2_FORCE_ACTIVATE_LOCATION
+(To be added)
+value: 0x40000000
+---
+EFFECT_FLAG2_MAJESTIC_MUST_COPY
+If flag is used, effect will be copied in MajesticCopy wherein normally only trigger effects will be copied.
+value: 0x80000000
+---
+EFFECT_FLAG_ABSOLUTE_TARGET
+Target Range does not change due to changes in control
+value: 0x40
+---
+EFFECT_FLAG_BOTH_SIDE
+Effect affects both sides of the field
+value: 0x1000
+---
+EFFECT_FLAG_CANNOT_DISABLE
+Effect cannot be negated
+value: 0x400
+---
+EFFECT_FLAG_CANNOT_INACTIVATE
+An effect with this flag cannot have its activation negated
+value: 0x2000000
+---
+EFFECT_FLAG_CANNOT_NEGATE
+For effects that say "This effect cannot be negated." in their text
+value: 0x200
+---
+EFFECT_FLAG_CARD_TARGET
+The effect includes targeting a card
+value: 0x10
+---
+EFFECT_FLAG_CLIENT_HINT
+A client prompt/description
+value: 0x4000000
+---
+EFFECT_FLAG_CONTINUOUS_TARGET
+(To be added)
+value: 0x8000000
+---
+EFFECT_FLAG_COPY_INHERIT
+Effect is inherited by a card that copies it
+value: 0x2000
+---
+EFFECT_FLAG_COUNT_LIMIT
+The number of times an effects can be triggered
+value: 0x4
+---
+EFFECT_FLAG_DAMAGE_CAL
+Effect can activate during Damage Calculation, a sub-step of the Damage Step.
+value: 0x8000
+---
+EFFECT_FLAG_DAMAGE_STEP
+Effect can activate during the Damage Step
+value: 0x4000
+---
+EFFECT_FLAG_DELAY
+By adding this delay flag, the effect is prevented from missing the timing
+value: 0x10000
+---
+EFFECT_FLAG_EVENT_PLAYER
+As the other player's effect (action?)
+value: 0x800000
+---
+EFFECT_FLAG_FIELD_ONLY
+This effect is registered to the global environment
+value: 0x8
+---
+EFFECT_FLAG_FUNC_VALUE
+The Value property of this effect is a function
+value: 0x2
+---
+EFFECT_FLAG_IGNORE_IMMUNE
+Effect applies regardless of a card being "Unaffected by card effects"
+value: 0x80
+---
+EFFECT_FLAG_IGNORE_RANGE
+Card affecting all areas "(Prohibition", "Imperial Iron Wall")
+value: 0x20
+---
+EFFECT_FLAG_IMMEDIATELY_APPLY
+The effect of the card immediately when launched (Toon Kingdom)
+value: 0x80000000
+---
+EFFECT_FLAG_INITIAL
+Original effect of a card (automatically applied)
+value: 0x1
+---
+EFFECT_FLAG_LIMIT_ZONE
+When this flag is added to an effect, using that effect would cause the number of zones available to decrease (see Draco Face-off). The SetValue must be used to define the zones that will still be available with the activation.
+value: 0x10000000
+---
+EFFECT_FLAG_NO_TURN_RESET
+Flag used for effects that "can only be used once while this card is face-up on the field", e.g. Wind-Up monsters.
+value: 0x400000
+---
+EFFECT_FLAG_OATH
+Oath effect
+value: 0x80000
+---
+EFFECT_FLAG_OWNER_RELATE
+Continues to be the object
+value: 0x1000000
+---
+EFFECT_FLAG_PLAYER_TARGET
+Effect targets a player (Mystical Refpanel)
+value: 0x800
+---
+EFFECT_FLAG_REPEAT
+God's incarnation's attack power is double counted
+value: 0x200000
+---
+EFFECT_FLAG_SET_AVAILABLE
+Effect applies to face-down ("Set") cards
+value: 0x100
+---
+EFFECT_FLAG_SINGLE_RANGE
+The effect that has this flag is only valid for the card itself
+value: 0x20000
+---
+EFFECT_FLAG_SPSUM_PARAM
+Flag to indicate in a special summon in which zone(s) of the field and to which player. (eg. SetTargetRange in "Lava Golem")
+value: 0x100000
+---
+EFFECT_FLAG_UNCOPYABLE
+The effect that has this flag cannot be copied
+value: 0x40000
+---
+EFFECT_TYPE_ACTIONS
+Effects that trigger. (Added to effects automatically)
+value: 0x8
+---
+EFFECT_TYPE_ACTIVATE
+Spell/Trap Activation
+value: 0x10
+---
+EFFECT_TYPE_CONTINUOUS
+Auxiliary effect / persistent effect triggered by an event
+value: 0x800
+---
+EFFECT_TYPE_EQUIP
+An effect that applies when the card is an Equip card.
+value: 0x4
+---
+EFFECT_TYPE_FIELD
+An effect that applies to the whole field.When used with trigger effects, this makes the effect look for the event when it happens to anything
+value: 0x2
+---
+EFFECT_TYPE_FLIP
+Trigger effect that adds EFFECT_TYPE_TRIGGER_F to SetType and EVENT_FLIP to SetCode by default
+value: 0x20
+---
+EFFECT_TYPE_GRANT
+Provides an effect to other cards (see "The Weather" cards)
+value: 0x2000
+---
+EFFECT_TYPE_IGNITION
+An effect that the turn player chooses to apply during their Main Phase, in a open game state. It is Speed Spell 1
+value: 0x40
+---
+EFFECT_TYPE_QUICK_F
+Mandatory Quick Effect (such as Light and Darkness Dragon)
+value: 0x400
+---
+EFFECT_TYPE_QUICK_O
+Optional Quick effect
+value: 0x100
+---
+EFFECT_TYPE_SINGLE
+An effect that applies only to itself. When used with trigger effects, this makes the card look for the event only when it happens to itself.
+value: 0x1
+---
+EFFECT_TYPE_TARGET
+Currently not used by any cards. Evaluated by the core in the following functions: effect::is_target, effect::is_available, card::add_effect and card::remove_effect
+value: 0x4000
+---
+EFFECT_TYPE_TRIGGER_F
+Mandatory Trigger effect
+value: 0x200
+---
+EFFECT_TYPE_TRIGGER_O
+Optional Trigger effect
+value: 0x80
+---
+EFFECT_TYPE_XMATERIAL
+Applies an effect to a monster that has this card as Xyz Material (see "Zoodiac" cards)
+value: 0x1000
+---
+EVENT_ADD_COUNTER
+This event is raised when a counter is placed on cards
+value: 0x10000
+---
+EVENT_ADJUST
+This event is raised when the game state changes (effectively working as some sort of EVENT_ANYCHANGE)
+value: 1040
+---
+EVENT_ATTACK_ANNOUNCE
+This event is raised when an attack is declared
+value: 1130
+---
+EVENT_ATTACK_DISABLED
+This event is raised when an attack is negated
+value: 1142
+---
+EVENT_BATTLED
+After battle
+value: 1138
+---
+EVENT_BATTLE_CONFIRM
+This event is raised when a monster battles another monster
+value: 1133
+---
+EVENT_BATTLE_DAMAGE
+This event is raised when battle damage is taken
+value: 1143
+---
+EVENT_BATTLE_DESTROYED
+This event is raised after a monster is destroyed by battle
+value: 1140
+---
+EVENT_BATTLE_DESTROYING
+This event is raised when a monster is destroyed by battle
+value: 1139
+---
+EVENT_BATTLE_START
+The start of the damage step
+value: 1132
+---
+EVENT_BECOME_TARGET
+This event is raised when a card is targeted for an effect
+value: 1028
+---
+EVENT_BE_BATTLE_TARGET
+This event is raised when a monster is targeted for an attack
+value: 1131
+---
+EVENT_BE_MATERIAL
+This event is raised when a card is used as material (e.g. for a Synchro Summon)
+value: 1108
+---
+EVENT_BE_PRE_MATERIAL
+Will be used as a fusion / ceremony of the same tune / excessive material
+value: 1109
+---
+EVENT_CHAINING
+This event is raised when a chain is being built
+value: 1027
+---
+EVENT_CHAIN_ACTIVATING
+This event is raised when a Chain Link is activating
+value: 1021
+---
+EVENT_CHAIN_DISABLED
+This event is raised when the effect of a Chain Link is negated
+value: 1025
+---
+EVENT_CHAIN_END
+This event is raised when a Chain has fully resolved
+value: 1026
+---
+EVENT_CHAIN_NEGATED
+This event is raised when a chain link has its activation negated (after EVENT_CHAIN_ACTIVATING)
+value: 1024
+---
+EVENT_CHAIN_SOLVED
+This event is raised after a Chain Link resolves
+value: 1022
+---
+EVENT_CHAIN_SOLVING
+This event is raised when a Chain Link is resolving
+value: 1020
+---
+EVENT_CHANGE_POS
+This event is raised when a card changes battle position
+value: 1016
+---
+EVENT_CONTROL_CHANGED
+When control of a card changes
+value: 1120
+---
+EVENT_CUSTOM
+For custom events (Eg. Activate an effect of a card indicating `EVENT_CUSTOM+code`)
+value: 0x10000000
+---
+EVENT_DAMAGE
+This event is raised when a player takes damage, either by battle or by a card effect.
+value: 1111
+---
+EVENT_DAMAGE_STEP_END
+At the end of the Damage Step
+value: 1141
+---
+EVENT_DESTROY
+This event is raised when a card is destroyed but has not yet left the field, which allows information of properties on the field to be accessed. For example, the amount of counter a card has is still available.
+value: 1010
+---
+EVENT_DESTROYED
+This event is raised when a card is destroyed and leaves the field. In this case, informations it held while it was on the field might not be available. For example, counters that it held are no longer available. Compare it with EVENT_DESTROY.
+value: 1029
+---
+EVENT_DETACH_MATERIAL
+This event is raised when Xyz materials are detached (only the card that detaches the materials is available in the event group, not the detached cards)
+value: 1202
+---
+EVENT_DISCARD
+This event is raised when a card is discarded
+value: 1018
+---
+EVENT_DRAW
+This event is raised when a card is drawn
+value: 1110
+---
+EVENT_EQUIP
+This event is raised when a card is equipped
+value: 1121
+---
+EVENT_FLIP
+This event is raised when a card is flipped face-up
+value: 1001
+---
+EVENT_FLIP_SUMMON
+This event is raised when a monster is being Flip Summoned (this is an attempt to perform a Flip Summon, for example, Solemn Warning's timing)
+value: 1104
+---
+EVENT_FLIP_SUMMON_NEGATED
+This event is raised when a Flip Summon is negated
+value: 1115
+---
+EVENT_FLIP_SUMMON_SUCCESS
+This event is raised when a monster is successfully Flip Summoned (which is timing for cards like Trap Hole)
+value: 1101
+---
+EVENT_FREE_CHAIN
+An event that describes a timing at any valid response window or open game state
+value: 1002
+---
+EVENT_LEAVE_FIELD
+This event is raised when a card leaves the field
+value: 1015
+---
+EVENT_LEAVE_FIELD_P
+This event is raised when a card would leave the field (but before it actually leaves, so it still contains info on the field). Example of usage: in "Predaplanet", it is used to check if the card has Predacounters immediately before it leaves the field.
+value: 1019
+---
+EVENT_LEVEL_UP
+This event is raised when the level of monster increases (might also be raised for general level changes, but only for single effect. check the core's implementation for details)
+value: 1200
+---
+EVENT_MOVE
+This event is raised when a card moves from one location or sequence to another
+value: 1030
+---
+EVENT_MSET
+This event is raised when a monster is Set
+value: 1106
+---
+EVENT_PAY_LPCOST
+This event is raised when LP is paid as a cost
+value: 1201
+---
+EVENT_PHASE
+This event is raised when a certain phase is reached (the required Phase value must be added to it, for example EVENT_PHASE+PHASE_END)
+value: 0x1000
+---
+EVENT_PHASE_START
+This event is raised at the start of a certain phase (the required Phase value must be added to it)
+value: 0x2000
+---
+EVENT_PREDRAW
+At the start of the Draw Phase
+value: 1113
+---
+EVENT_PRE_BATTLE_DAMAGE
+Before battle damage applies
+value: 1136
+---
+EVENT_PRE_DAMAGE_CALCULATE
+Before the damage calculation
+value: 1134
+---
+EVENT_RECOVER
+When LP is gained
+value: 1112
+---
+EVENT_RELEASE
+This event is raised when a card is Tributed (includes tributing for a tribute summon, tributing by an effect and tributing by costs)
+value: 1017
+---
+EVENT_REMOVE
+This event is raised when a card is banished
+value: 1011
+---
+EVENT_REMOVE_COUNTER
+This event is raised when a counter is removed from cards
+value: 0x20000
+---
+EVENT_RETURN_TO_GRAVE
+Deprecated and removed event. See core's "effect.h". Card is being returned to the Graveyard
+value: 1203
+---
+EVENT_SPSUMMON
+This event is raised when a monster is being Special Summoned (this is an attempt to perform a Special Summon, aka "when a monster would be Special Summoned", for example, Solemn Strike's timing)
+value: 1105
+---
+EVENT_SPSUMMON_NEGATED
+This event is raised when a Special Summon is negated
+value: 1116
+---
+EVENT_SPSUMMON_SUCCESS
+This event is raised when a monster is successfully Special Summoned  (which is timing for cards like Torrential Tribute)
+value: 1102
+---
+EVENT_SSET
+This event is raised when a Spell/Trap is set
+value: 1107
+---
+EVENT_STARTUP
+This event is raised once, at the start of the duel
+value: 1000
+---
+EVENT_SUMMON
+This event is raised when a monster is being Normal Summoned (this is an attempt to perform a Normal Summon, aka "when a monster would be Summoned", for example, Bending Destiny's timing)
+value: 1103
+---
+EVENT_SUMMON_NEGATED
+This event is raised when a Summon is negated, to be detected by Witch's Strike.
+value: 1114
+---
+EVENT_SUMMON_SUCCESS
+This event is raised when a monster is successfully Normal Summoned (which is timing for cards like Trap Hole)
+value: 1100
+---
+EVENT_TOSS_COIN
+This event is raised when coins are flipped
+value: 1151
+---
+EVENT_TOSS_COIN_NEGATE
+This event is raised when coin tosses happen again, replacing previous result
+value: 1152
+---
+EVENT_TOSS_DICE
+This event is raised when dice are rolled
+value: 1150
+---
+EVENT_TOSS_DICE_NEGATE
+This event is raised when dice are re-rolled
+value: 1153
+---
+EVENT_TO_DECK
+This event is raised when a card is sent to the deck
+value: 1013
+---
+EVENT_TO_GRAVE
+This event is raised when a card is sent to the graveyard
+value: 1014
+---
+EVENT_TO_HAND
+This event is raised when a card is sent to the hand (includes draw, search and return)
+value: 1012
+---
+EVENT_TURN_END
+This event is raised when the turn ends
+value: 1210
+---
+FUSPROC_CANCELABLE
+Flag used in the fusion procedure. Allows the selection of fusion materials to be canceled
+value: 0x1000
+---
+FUSPROC_CONTACTFUS
+Flag used for the various filters in the fusion procedure.
+value: 0x200
+---
+FUSPROC_LISTEDMATS
+Flag used for the various filters in the fusion procedure.
+value: 0x400
+---
+FUSPROC_NOLIMIT
+(To be added)
+value: 0x800
+---
+FUSPROC_NOTFUSION
+Flag used for the various filters in the fusion procedure.
+value: 0x100
+---
+GLOBALFLAG_BRAINWASHING_CHECK
+This flags is used with Removing Brainshwashing
+value: 0x2
+---
+GLOBALFLAG_DECK_REVERSE_CHECK
+This flags is required to use EFFECT_REVERSE_DECK
+value: 0x1
+---
+GLOBALFLAG_DELAYED_QUICKEFFECT
+N/A
+value: 0x8
+---
+GLOBALFLAG_DETACH_EVENT
+This flag is required when using EVENT_DETACH_MATERIAL
+value: 0x10
+---
+GLOBALFLAG_SELF_TOGRAVE
+Allows checking the Graveyard in the middle of a resolving chain. Flag required to use EFFECT_SELF_TOGRAVE
+value: 0x100
+---
+GLOBALFLAG_SPSUMMON_COUNT
+A flag related with a limit a player can attempt Special Summons. Used with El Shaddoll Winda
+value: 0x40
+---
+GLOBALFLAG_SPSUMMON_ONCE
+Cards that can only be special Summoned once per turn. This flag is related to Card.SetSPSummonOnce ()
+value: 0x200
+---
+GLOBALFLAG_XMAT_COUNT_LIMIT
+Allows EFFECT_TYPE_XMATERIAL to take SetCountLimit into account
+value: 0x80
+---
+DECLTYPE_MONSTER
+Constant to be used with CardType declaration
+value: 70
+---
+DECLTYPE_SPELL
+Constant to be used with CardType declaration
+value: 71
+---
+DECLTYPE_TRAP
+Constant to be used with CardType declaration
+value: 72
+---
+HINTMSG_APPLYTO
+Shows the following HintMessage: "Select the card(s) to apply the effect to"
+value: 577
+---
+HINTMSG_ATKDEF
+Shows the following HintMessage: "Select the card(s) to change its ATK/DEF"
+value: 576
+---
+HINTMSG_ATOHAND
+Shows the following HintMessage: "Select the card(s) to add to your hand"
+value: 506
+---
+HINTMSG_ATTACH
+Shows the following HintMessage: "Select the card(s) to attach as material"
+value: 578
+---
+HINTMSG_ATTACK
+Shows the following HintMessage: "Select a monster(s) in Attack Position"
+value: 516
+---
+HINTMSG_ATTACKTARGET
+Shows the following HintMessage: "Select an attack target"
+value: 549
+---
+HINTMSG_ATTRIBUTE
+Shows the following HintMessage: "Declare an Attribute"
+value: 562
+---
+HINTMSG_CARDTYPE
+Shows the following HintMessage: "Declare 1 CardType"
+value: 554
+---
+HINTMSG_CODE
+Shows the following HintMessage: "Declare a card name"
+value: 564
+---
+HINTMSG_COIN
+Shows the following HintMessage: "Select heads or tails"
+value: 552
+---
+HINTMSG_CONFIRM
+Shows the following HintMessage: "Select the card(s) to reveal"
+value: 526
+---
+HINTMSG_CONTROL
+Shows the following HintMessage: "Select the monster(s) to change control"
+value: 520
+---
+HINTMSG_COUNTER
+Shows the following HintMessage: "Select the card(s) to place a counter on"
+value: 572
+---
+HINTMSG_DEATTACHFROM
+Shows the following HintMessage: "Select the monster(s) to detach Xyz Material(s) from"
+value: 532
+---
+HINTMSG_DEFENSE
+Shows the following HintMessage: "Select a monster(s) in Defense Position"
+value: 517
+---
+HINTMSG_DESREPLACE
+Shows the following HintMessage: "Select the card(s) to replace"
+value: 521
+---
+HINTMSG_DESTROY
+Shows the following HintMessage: "Select the card(s) to destroy"
+value: 502
+---
+HINTMSG_DICE
+Shows the following HintMessage: "Select dice results"
+value: 553
+---
+HINTMSG_DISABLEZONE
+Shows the following HintMessage: "Select the zone(s) to become unusable"
+value: 570
+---
+HINTMSG_DISCARD
+Shows the following HintMessage: "Select the card(s) to discard"
+value: 501
+---
+HINTMSG_EFFACTIVATE
+Shows the following HintMessage: "Select the effect to activate"
+value: 566
+---
+HINTMSG_EFFECT
+Shows the following HintMessage: "Select the effect you want to activate"
+value: 550
+---
+HINTMSG_EQUIP
+Shows the following HintMessage: "Select a card(s) to equip"
+value: 518
+---
+HINTMSG_FACEDOWN
+Shows the following HintMessage: "Select a face-down card(s)"
+value: 515
+---
+HINTMSG_FACEDOWNATTACK
+Shows the following HintMessage: "Select a face-down Attack Position monster(s)"
+value: 524
+---
+HINTMSG_FACEDOWNDEFENSE
+Shows the following HintMessage: "Select a face-down Defense Position monster(s)"
+value: 525
+---
+HINTMSG_FACEUP
+Shows the following HintMessage: "Select a face-up card(s)"
+value: 514
+---
+HINTMSG_FACEUPATTACK
+Shows the following HintMessage: "Select a face-up Attack Position monster(s)"
+value: 522
+---
+HINTMSG_FACEUPDEFENSE
+Shows the following HintMessage: "Select a face-up Defense Position monster(s)"
+value: 523
+---
+HINTMSG_FMATERIAL
+Shows the following HintMessage: "Select the card(s) to use as Fusion Material"
+value: 511
+---
+HINTMSG_LMATERIAL
+Shows the following HintMessage: "Select the card(s) to use as Link Material"
+value: 533
+---
+HINTMSG_LVRANK
+Shows the following HintMessage: "Declare a Level/Rank"
+value: 567
+---
+HINTMSG_NEGATE
+Shows the following HintMessage: "Select the card(s) to negate its effects"
+value: 575
+---
+HINTMSG_NUMBER
+Shows the following HintMessage: "Declare a number"
+value: 565
+---
+HINTMSG_OPPO
+Shows the following HintMessage: "Select an opponent's card"
+value: 530
+---
+HINTMSG_OPTION
+Shows the following HintMessage: "Select an option"
+value: 555
+---
+HINTMSG_POSCHANGE
+Shows the following HintMessage: "Select a monster to change its battle position"
+value: 528
+---
+HINTMSG_POSITION
+Shows the following HintMessage: "Select the battle position"
+value: 561
+---
+HINTMSG_RACE
+Shows the following HintMessage: "Declare a Type"
+value: 563
+---
+HINTMSG_RELEASE
+Shows the following HintMessage: "Select the card(s) to tribute"
+value: 500
+---
+HINTMSG_REMOVE
+Shows the following HintMessage: "Select the card(s) to banish"
+value: 503
+---
+HINTMSG_REMOVEXYZ
+Shows the following HintMessage: "Select the Xyz Material(s) to detach"
+value: 519
+---
+HINTMSG_RESOLVECARD
+Shows the following HintMessage: "Select a card to resolve"
+value: 568
+---
+HINTMSG_RESOLVEEFFECT
+Shows the following HintMessage: "Select effect to apply/resolve"
+value: 556
+---
+HINTMSG_RTOGRAVE
+Shows the following HintMessage: "Select the card(s) to return to the GY"
+value: 579
+---
+HINTMSG_RTOHAND
+Shows the following HintMessage: "Select the card(s) to return to hand"
+value: 505
+---
+HINTMSG_SELECT
+Shows the following HintMessage: "Select"
+value: 560
+---
+HINTMSG_SELF
+Shows the following HintMessage: "Select your card"
+value: 529
+---
+HINTMSG_SET
+Shows the following HintMessage: "Select the card(s) to Set to the field"
+value: 510
+---
+HINTMSG_SMATERIAL
+Shows the following HintMessage: "Select the card(s) to use as Synchro Material"
+value: 512
+---
+HINTMSG_SPSUMMON
+Shows the following HintMessage: "Select the card(s) to Special Summon"
+value: 509
+---
+HINTMSG_SUMMON
+Shows the following HintMessage: "Select the card(s) to Normal Summon"
+value: 508
+---
+HINTMSG_TARGET
+Shows the following HintMessage: "Select the target(s) of the effect"
+value: 551
+---
+HINTMSG_TODECK
+Shows the following HintMessage: "Select the card(s) to return to Deck"
+value: 507
+---
+HINTMSG_TOFIELD
+Shows the following HintMessage: "Select the card(s) to place on the field"
+value: 527
+---
+HINTMSG_TOGRAVE
+Shows the following HintMessage: "Select the card(s) to send to the GY"
+value: 504
+---
+HINTMSG_TOZONE
+Shows the following HintMessage: "Select the zone to move the card to"
+value: 571
+---
+HINTMSG_TRIBUTE
+Shows the following HintMessage: "Select monsters for Tribute Summon"
+value: 531
+---
+HINTMSG_XMATERIAL
+Shows the following HintMessage: "Select the card(s) to use as Xyz Material"
+value: 513
+---
+HINTMSG_ZONE
+Shows the following HintMessage: "Select the zone to place "card name""
+value: 569
+---
+PHINT_DESC_ADD
+(To be added)
+value: 6
+---
+PHINT_DESC_REMOVE
+(To be added)
+value: 7
+---
+SELECT_HEADS
+Display "Heads". Used as description when an effect required the player to select heads/tails
+value: 60
+---
+SELECT_TAILS
+Display "Tails". Used as description when an effect required the player to select heads/tails
+value: 61
+---
+HINT_ATTRIB
+Called when selecting/declaring an attribute
+value: 7
+---
+HINT_CARD
+Called when you need to display the picture of the card (Trickstar Lycoris)
+value: 10
+---
+HINT_CODE
+Used with "Booster Draft Duel"
+value: 8
+---
+HINT_EFFECT
+(To be added)
+value: 5
+---
+HINT_EVENT
+used by the core
+value: 1
+---
+HINT_MESSAGE
+(To be added)
+value: 2
+---
+HINT_NUMBER
+Called when a player has to pick/declare a number
+value: 9
+---
+HINT_OPSELECTED
+The message that appears on screen to tell a player which option their opponent selected
+value: 4
+---
+HINT_RACE
+Called when selecting/declaring a monster type
+value: 6
+---
+HINT_SELECTMSG
+The message that appears when the player selects a card
+value: 3
+---
+HINT_SKILL
+Sets the code of a skill card. If it is called first, the skill is created face-up.
+value: 200
+---
+HINT_SKILL_COVER
+Sets the cover and id for a skill card. Cover is  value & 0xffffffff, code is (value>>32) & 0xffffffff. If  it iscalled first, the skill is created face-down.
+value: 201
+---
+HINT_SKILL_FLIP
+Changes the position of the skill face-down/face-up, updating the code as well. The code is value&0xffffffff. 0x100000000 is face-up and 0x200000000 is face-down.
+value: 202
+---
+HINT_SKILL_REMOVE
+(To be added)
+value: 203
+---
+HINT_ZONE
+To be used when the player selects a zone (e.g. Dai Dance).
+value: 11
+---
+LINK_MARKER_BOTTOM
+Bottom Link Arrow (↓)
+value: 0x2
+---
+LINK_MARKER_BOTTOM_LEFT
+Bottom-Left Link Arrow (↙)
+value: 0x1
+---
+LINK_MARKER_BOTTOM_RIGHT
+Bottom-Right Link Arrow (↘)
+value: 0x4
+---
+LINK_MARKER_LEFT
+Left Link Arrow (←)
+value: 0x8
+---
+LINK_MARKER_RIGHT
+Right Link Arrow (→)
+value: 0x20
+---
+LINK_MARKER_TOP
+Top Link Arrow (↑)
+value: 0x80
+---
+LINK_MARKER_TOP_LEFT
+Top-Left Link Arrow (↖)
+value: 0x40
+---
+LINK_MARKER_TOP_RIGHT
+Top-Right Link Arrow (↗)
+value: 0x100
+---
+LOCATION_ALL
+All possible locations. This is the sum of LOCATION_ONFIELD, LOCATION_DECK, LOCATION_HAND, LOCATION_GRAVE, LOCATION_REMOVED, LOCATION_EXTRA and LOCATION_OVERLAY
+value: 0x3ff
+---
+LOCATION_DECK
+The Deck. If it is used as Location Redirect, the card is placed on the top.
+value: 0x1
+---
+LOCATION_DECKBOT
+The Bottom of Deck. Used only in Location Redirect
+value: 0x10001
+---
+LOCATION_DECKSHF
+Location for cards that are place in Deck and then the Deck is shuffled. Used only in Location Redirect
+value: 0x20001
+---
+LOCATION_EMZONE
+The Extra Monster Zones. Symbolic location. Can be used in functions expecting a location and also in SetRange (except with trigger effects)
+value: 0x1000
+---
+LOCATION_EXTRA
+The Extra Deck
+value: 0x40
+---
+LOCATION_FZONE
+The Field Spell zone
+value: 0x100
+---
+LOCATION_GRAVE
+The graveyard/GY
+value: 0x10
+---
+LOCATION_HAND
+The hand
+value: 0x2
+---
+LOCATION_MMZONE
+The Main Monster Zones. Symbolic location. Can be used in functions expecting a location and also in SetRange (except with trigger effects)
+value: 0x800
+---
+LOCATION_MZONE
+The Monster Zone
+value: 0x4
+---
+LOCATION_ONFIELD
+All locations on the field. The sum of LOCATION_MZONE+LOCATION_SZONE.
+value: 0x0c
+---
+LOCATION_OVERLAY
+The location for cards attached as Xyz Material. Also the location used for "stacked" cards  (for anime-only cards)
+value: 0x80
+---
+LOCATION_PUBLIC
+Used for scripting purposes. The sum of locations (LOCATION_ONFIELD+LOCATION_REMOVED+LOCATION_GRAVE) where cards are, usually, public knowledge.
+value: 0x3c
+---
+LOCATION_PZONE
+The Pendulum Zone
+value: 0x200
+---
+LOCATION_REMOVED
+The area where banished card go
+value: 0x20
+---
+LOCATION_STZONE
+The Spell/Trap Zone (without the Field Zone). Symbolic location. Can be used in functions expecting a location and also in SetRange (except with trigger effects)
+value: 0x400
+---
+LOCATION_SZONE
+The Spell/Trap Zones. It includes the Field Spell Zone and the Pendulum Zones (<=MR3).
+value: 0x8
+---
+LOCATION_REASON_CONTROL
+Used by Card.IsControlerCanBeChanged()
+value: 0x2
+---
+LOCATION_REASON_COUNT
+Duel.GetLocationCount() for DisableField
+value: 0x4
+---
+LOCATION_REASON_TOFIELD
+Default reason for Duel.GetLocationCount(), counts for Kaiser Colosseum
+value: 0x1
+---
+MATERIAL_FUSION
+(To be added)
+value: 0x100000000
+---
+MATERIAL_LINK
+(To be added)
+value: 0x800000000
+---
+MATERIAL_SYNCHRO
+(To be added)
+value: 0x200000000
+---
+MATERIAL_XYZ
+(To be added)
+value: 0x400000000
+---
+ATTRIBUTE_ALL
+Composite constant that includes all OCG/TCG monster attributes.
+value: 0x7f
+---
+ATTRIBUTE_DARK
+The [DARK](https://yugipedia.com/wiki/DARK) attribute for monsters
+value: 0x20
+---
+ATTRIBUTE_DIVINE
+The [DIVINE](https://yugipedia.com/wiki/DIVINE) attribute for monsters
+value: 0x40
+---
+ATTRIBUTE_EARTH
+The [EARTH](https://yugipedia.com/wiki/EARTH) attribute for monsters
+value: 0x1
+---
+ATTRIBUTE_FIRE
+The [FIRE](https://yugipedia.com/wiki/FIRE) attribute for monsters
+value: 0x4
+---
+ATTRIBUTE_LIGHT
+The [LIGHT](https://yugipedia.com/wiki/LIGHT) attribute for monsters
+value: 0x10
+---
+ATTRIBUTE_WATER
+The [WATER](https://yugipedia.com/wiki/WATER) attribute for monsters
+value: 0x2
+---
+ATTRIBUTE_WIND
+The [WIND](https://yugipedia.com/wiki/WIND) attribute for monsters
+value: 0x8
+---
+RACES_BEAST_BWARRIOR_WINGB
+Composite constant of Beast, Beast-Warrior and Winged-Beast Monster Types
+value: 0xc200
+---
+RACE_ALL
+Composite constant that includes all OCG/TCG Monster Types (Warrior to Illusion)
+value: 0x3ffffff
+---
+RACE_AQUA
+The [Aqua](https://yugipedia.com/wiki/Aqua) Monster Type
+value: 0x40
+---
+RACE_BEAST
+The [Beast](https://yugipedia.com/wiki/Beast) Monster Type
+value: 0x4000
+---
+RACE_BEASTWARRIOR
+The [Beast-Warrior](https://yugipedia.com/wiki/Beast-Warrior) Monster Type
+value: 0x8000
+---
+RACE_CELESTIALWARRIOR
+The [Celestial Warrior](https://yugipedia.com/wiki/Celestial_Warrior) Monster Type in Rush Duel
+value: 0x40000000
+---
+RACE_CREATORGOD
+The [Creator God](https://yugipedia.com/wiki/Creator_God) Monster Type
+value: 0x400000
+---
+RACE_CYBERSE
+The [Cyberse](https://yugipedia.com/wiki/Cyberse) Monster Type
+value: 0x1000000
+---
+RACE_CYBORG
+The [Cyborg](https://yugipedia.com/wiki/Cyborg) Monster Type
+value: 0x4000000
+---
+RACE_DINOSAUR
+The [Dinosaur](https://yugipedia.com/wiki/Dinosaur) Monster Type
+value: 0x10000
+---
+RACE_DIVINE
+The [Divine-Beast](https://yugipedia.com/wiki/Divine-Beast) Monster Type
+value: 0x200000
+---
+RACE_DRAGON
+The [Dragon](https://yugipedia.com/wiki/Dragon) Monster Type
+value: 0x2000
+---
+RACE_FAIRY
+The [Fairy](https://yugipedia.com/wiki/Fairy) Monster Type
+value: 0x4
+---
+RACE_FIEND
+The [Fiend](https://yugipedia.com/wiki/Fiend) Monster Type
+value: 0x8
+---
+RACE_FISH
+The [Fish](https://yugipedia.com/wiki/Fish) Monster Type
+value: 0x20000
+---
+RACE_GALAXY
+The [Galaxy](https://yugipedia.com/wiki/Galaxy) Monster Type in Rush Duels
+value: 0x80000000
+---
+RACE_HIGHDRAGON
+The [High Dragon](https://yugipedia.com/wiki/High_Dragon) Monster Type in Rush Duel
+value: 0x10000000
+---
+RACE_ILLUSION
+The [Illusion](https://yugipedia.com/wiki/Illusion) Monster Type in Rush Duels
+value: 0x2000000
+---
+RACE_INSECT
+The [Insect](https://yugipedia.com/wiki/Insect) Monster Type
+value: 0x800
+---
+RACE_MACHINE
+The [Machine](https://yugipedia.com/wiki/Machine) Monster Type
+value: 0x20
+---
+RACE_MAGICALKNIGHT
+The [Magical Knight](https://yugipedia.com/wiki/Magical_Knight) Monster Type in Rush Duel
+value: 0x8000000
+---
+RACE_OMEGAPSYCHIC
+The [Omega Psychic](https://yugipedia.com/wiki/Omega_Psychic) Monster Type in Rush Duel
+value: 0x20000000
+---
+RACE_PLANT
+The [Plant](https://yugipedia.com/wiki/Plant) Monster Type
+value: 0x400
+---
+RACE_PSYCHIC
+The [Psychic](https://yugipedia.com/wiki/Psychic) Monster Type
+value: 0x100000
+---
+RACE_PYRO
+The [Pyro](https://yugipedia.com/wiki/Pyro) Monster Type
+value: 0x80
+---
+RACE_REPTILE
+The [Reptile](https://yugipedia.com/wiki/Reptile) Monster Type
+value: 0x80000
+---
+RACE_ROCK
+The [Rock](https://yugipedia.com/wiki/Rock) Monster Type
+value: 0x100
+---
+RACE_SEASERPENT
+The [Sea Serpent](https://yugipedia.com/wiki/Sea_Serpent) Monster Type
+value: 0x40000
+---
+RACE_SPELLCASTER
+The [Spellcaster](https://yugipedia.com/wiki/Spellcaster) Monster Type
+value: 0x2
+---
+RACE_THUNDER
+The [Thunder](https://yugipedia.com/wiki/Thunder) Monster Type
+value: 0x1000
+---
+RACE_WARRIOR
+The [Warrior](https://yugipedia.com/wiki/Warrior) Monster Type
+value: 0x1
+---
+RACE_WINGEDBEAST
+The [Winged-Beast](https://yugipedia.com/wiki/Winged-Beast) Monster Type
+value: 0x200
+---
+RACE_WYRM
+The [Wyrm](https://yugipedia.com/wiki/Wyrm) Monster Type
+value: 0x800000
+---
+RACE_YOKAI
+The [Yokai](https://yugipedia.com/wiki/Yokai) Monster Type for manga cards
+value: 0x4000000000000000
+---
+RACE_ZOMBIE
+The [Zombie](https://yugipedia.com/wiki/Zombie) Monster Type
+value: 0x10
+---
+OPCODE_ADD
+Operation of addition, to be used in an AnnounceCard filter.
+value: 0x40000000
+---
+OPCODE_ALLOW_ALIASES
+(To be added)
+value: 0x40000014
+---
+OPCODE_ALLOW_TOKENS
+(To be added)
+value: 0x40000015
+---
+OPCODE_AND
+Operation of logical AND, to be used in an AnnounceCard filter.
+value: 0x40000004
+---
+OPCODE_BAND
+(To be added)
+value: 0x40000008
+---
+OPCODE_BNOT
+(To be added)
+value: 0x40000010
+---
+OPCODE_BOR
+(To be added)
+value: 0x40000009
+---
+OPCODE_BXOR
+(To be added)
+value: 0x40000011
+---
+OPCODE_DIV
+Operation of division, to be used in an AnnounceCard filter.
+value: 0x40000003
+---
+OPCODE_GETATTRIBUTE
+Operation of the function Card.GetAttribute, to be used in an AnnounceCard filter.
+value: 0x40000109
+---
+OPCODE_GETCODE
+Operation of the function Card.GetCode, to be used in an AnnounceCard filter.
+value: 0x40000105
+---
+OPCODE_GETRACE
+Operation of the function Card.GetRace, to be used in an AnnounceCard filter.
+value: 0x40000108
+---
+OPCODE_GETSETCARD
+Operation of the function Card.GetSetCard, to be used in an AnnounceCard filter.
+value: 0x40000106
+---
+OPCODE_GETTYPE
+Operation of the function Card.GetType, to be used in an AnnounceCard filter.
+value: 0x40000107
+---
+OPCODE_ISATTRIBUTE
+Operation of the function Card.IsAttribute, to be used in an AnnounceCard filter.
+value: 0x40000104
+---
+OPCODE_ISCODE
+Operation of the function Card.IsCode, to be used in an AnnounceCard filter.
+value: 0x40000100
+---
+OPCODE_ISRACE
+Operation of the function Card.IsRace, to be used in an AnnounceCard filter.
+value: 0x40000103
+---
+OPCODE_ISSETCARD
+Operation of the function Card.IsSetCard, to be used in an AnnounceCard filter.
+value: 0x40000101
+---
+OPCODE_ISTYPE
+Operation of the function Card.IsType, to be used in an AnnounceCard filter.
+value: 0x40000102
+---
+OPCODE_LSHIFT
+(To be added)
+value: 0x40000012
+---
+OPCODE_MUL
+Operation of multiplication, to be used in an AnnounceCard filter.
+value: 0x40000002
+---
+OPCODE_NEG
+Operation of bitwise negation, to be used in an AnnounceCard filter.
+value: 0x40000006
+---
+OPCODE_NOT
+Operation of changing sign (+/-), to be used in an AnnounceCard filter.
+value: 0x40000007
+---
+OPCODE_OR
+Operation of logical OR, to be used in an AnnounceCard filter.
+value: 0x40000005
+---
+OPCODE_RSHIFT
+(To be added)
+value: 0x40000013
+---
+OPCODE_SUB
+Operation of subtraction, to be used in an AnnounceCard filter.
+value: 0x40000001
+---
+PHASE_BATTLE
+Battle Phase/End of Battle Phase
+value: 0x80
+---
+PHASE_BATTLE_START
+The Start Step, first step of the Battle Phase
+value: 0x08
+---
+PHASE_BATTLE_STEP
+The Battle Step
+value: 0x10
+---
+PHASE_DAMAGE
+The Damage Step
+value: 0x20
+---
+PHASE_DAMAGE_CAL
+The Damage Calculation
+value: 0x40
+---
+PHASE_DRAW
+The Draw Phase of a player
+value: 0x01
+---
+PHASE_END
+The End Phase of a turn
+value: 0x200
+---
+PHASE_MAIN1
+The Main Phase 1
+value: 0x04
+---
+PHASE_MAIN2
+The Main Phase 2
+value: 0x100
+---
+PHASE_STANDBY
+The Standby Phase
+value: 0x02
+---
+PLAYER_ALL
+Both players
+value: 3
+---
+PLAYER_EITHER
+Any player. This constant is not defined in the core
+value: 4
+---
+PLAYER_NONE
+No player
+value: 2
+---
+PLAYER_SELFDES
+This value is used only the core, in field::destroy
+value: 5
+---
+REASON_ADJUST
+Adjustment (Royal before the test)
+value: 0x100
+---
+REASON_BATTLE
+The card being destroyed by battle
+value: 0x20
+---
+REASON_COST
+The reason used for costs. It is also the same used to destroy/send to the GY cards that fail to pay their maintenance costs
+value: 0x80
+---
+REASON_DESTROY
+The card being destroyed
+value: 0x1
+---
+REASON_DISCARD
+The reason for the even is a card being discarded
+value: 0x4000
+---
+REASON_DISSUMMON
+The reason for the event is a Summon being negated (dissummon= disabled summon)
+value: 0x1000
+---
+REASON_DRAW
+Event is a card being drawn
+value: 0x2000000
+---
+REASON_EFFECT
+The reason that causes the event is a card effect
+value: 0x40
+---
+REASON_FLIP
+Being flipped
+value: 0x2000
+---
+REASON_FUSION
+Used for Fusion Summon
+value: 0x40000
+---
+REASON_LINK
+Used for Link Summon
+value: 0x10000000
+---
+REASON_LOST_TARGET
+Equip Target stops being face-up, either by leaving the field or being flipped face-down
+value: 0x200
+---
+REASON_MATERIAL
+Used as Fusion/Synchro/Xyz/Link material, etc.
+value: 0x8
+---
+REASON_RDAMAGE
+Reversal Damage: gain LP becomes damage - used only in the core
+value: 0x8000
+---
+REASON_REDIRECT
+Sent to a location other than intended, eg "Banish this card if it leaves the field."
+value: 0x4000000
+---
+REASON_RELEASE
+The card being tributed
+value: 0x2
+---
+REASON_REPLACE
+Event is happening because of an effect that states "If X would be destroyed, do this instead."
+value: 0x1000000
+---
+REASON_RETURN
+Return from banished to Graveyard
+value: 0x20000
+---
+REASON_REVEAL
+Used by cards that require being sent to the GY after being excavated. See "Sylvan" monsters
+value: 0x8000000
+---
+REASON_RITUAL
+Used for Ritual Summon
+value: 0x100000
+---
+REASON_RRECOVER
+Reversal Recovery: damage becomes gain LP - used only in the core
+value: 0x10000
+---
+REASON_RULE
+The value used for reasons associated with game mechanics
+value: 0x400
+---
+REASON_SPSUMMON
+The reason for the event is an Special Summon
+value: 0x800
+---
+REASON_SUMMON
+Used for a summon
+value: 0x10
+---
+REASON_SYNCHRO
+Used for Synchro Summon
+value: 0x80000
+---
+REASON_TEMPORARY
+The card being  temporary banished
+value: 0x4
+---
+REASON_XYZ
+Used for Xyz Summon
+value: 0x200000
+---
+REGISTER_FLAG_ALLURE_LVUP
+Allure Queen's effect to Special Summon the next level, for Allure Palace (Card.RegisterEffect)
+value: 8
+---
+REGISTER_FLAG_CARDIAN
+Cardian's effects to Special Summon a Cardian, for anime Cardians (Card.RegisterEffect)
+value: 2
+---
+REGISTER_FLAG_DETACH_XMAT
+Effect that activates with cost of detaching own Xyz material, for Tachyon Unit (Card.RegisterEffect)
+value: 1
+---
+REGISTER_FLAG_TELLAR
+An effect registered with this flag will be available to be applied by Tellarknight Constellar Caduceus
+value: 16
+---
+REGISTER_FLAG_THUNDRA
+Thunders Dragon monster's effects that activates by discarding themselves, for Thunder Dragon Thunderstormech (Card.RegisterEffect)
+value: 4
+---
+RESETS_CANNOT_ACT
+Complex reset. The sum of RESETS_STANDARD-RESET_LEAVE, used in cards like Ancient Gear Drill and Knightmares (to be confirmed)
+value: 0x17e0000
+---
+RESETS_REDIRECT
+Complex reset. The sum of RESETS_STANDARD+RESET_OVERLAY-RESET_TOFIELD-RESET_LEAVE, most often used for EFFECT_LEAVE_FIELD_REDIRECT resets
+value: 0x047e0000
+---
+RESETS_STANDARD
+Complex reset. The sum of RESET_TURN_SET, TOGRAVE, REMOVE, TEMP_REMOVE, TOHAND, TODECK, LEAVE and TOFIELD, to be used with RESET_EVENT
+value: 0x01fe0000
+---
+RESETS_STANDARD_DISABLE
+Complex reset. The sum of RESETS_STANDARD+RESET_DISABLE, used with RESET_EVENT. Used for effects that need to reset when the monster's effects are negated (eg a monster changing its ATK/DEF or Level with its own effect).
+value: 0x01ff0000
+---
+RESETS_STANDARD_EXC_GRAVE
+Complex reset. The sum of  RESETS_STANDARD-RESET_TOGRAVE-RESET_LEAVE, mainly used for cards that negate effect of card they destroy by battle.
+value: 0x17a0000
+---
+RESET_CARD
+Resets Owner to specify the effect of the card
+value: 0x2000
+---
+RESET_CHAIN
+Resets at the end of the resolving Chain
+value: 0x80000000
+---
+RESET_CODE
+Resets the single effect of the specified Code (excluding EFFECT_FLAG_SINGLE_RANGE)
+value: 0x4000
+---
+RESET_CONTROL
+Resets when control of the card changes
+value: 0x2000000
+---
+RESET_COPY
+Resets effects registered by copying
+value: 0x8000
+---
+RESET_DISABLE
+Resets when the card's effects are negated
+value: 0x10000
+---
+RESET_EVENT
+Resets when a given event occurs (add the event value)
+value: 0x1000
+---
+RESET_LEAVE
+Resets when the card leaves the field (the card moves to a different location from LOCATION_MZONE or LOCATION_SZONE)
+value: 0x800000
+---
+RESET_MSCHANGE
+Resets when moving between the monster zones and Spell/Trap zones (MoveToField(), Crystal Beasts)
+value: 0x8000000
+---
+RESET_OPPO_TURN
+Resets on the opponent's turn. If this reset is used with an effect registered to a card, it is seen from the point of view of that card's controler. Thus, it should be limited to the Duel version of RegisterEffect
+value: 0x20000000
+---
+RESET_OVERLAY
+Resets when the card is used as Xyz Material
+value: 0x4000000
+---
+RESET_PHASE
+Resets at a given phase (add the phase value)
+value: 0x40000000
+---
+RESET_REMOVE
+Resets when the card is banished
+value: 0x80000
+---
+RESET_SELF_TURN
+Resets on your turn. If this reset is used with an effect registered to a card, it is seen from the point of view of that card's controler. Thus, it should be limited to the Duel version of RegisterEffect
+value: 0x10000000
+---
+RESET_TEMP_REMOVE
+Resets when the card is temporarily banished
+value: 0x100000
+---
+RESET_TODECK
+Resets when the card is sent to the deck
+value: 0x400000
+---
+RESET_TOFIELD
+Resets when the card moves to the field (the card moves to LOCATION_MZONE or LOCATION_SZONE from a different location. Returning to the field is not included)
+value: 0x1000000
+---
+RESET_TOGRAVE
+Resets when the card goes to the graveyard
+value: 0x40000
+---
+RESET_TOHAND
+Resets when the card is sent to the hand
+value: 0x200000
+---
+RESET_TURN_SET
+Resets when the card is turned face-down ("Set")
+value: 0x20000
+---
+RITPROC_EQUAL
+Flag used for the type of Ritual Summon procedure
+value: 0x1
+---
+RITPROC_GREATER
+Flag used for the type of Ritual Summon procedure
+value: 0x2
+---
+SUMMON_BY_NOUVELLES
+Summon value (sumtype variable) used by the "Nouvelles" monsters. Cards that need to check if a monster was summoned by the effect of a "Nouvelles" monster should check for this SummonType
+value: 181
+---
+SUMMON_TYPE_FLIP
+Flip Summon
+value: 0x20000000
+---
+SUMMON_TYPE_FUSION
+Fusion Summon
+value: 0x43000000
+---
+SUMMON_TYPE_GEMINI
+Normal Summoned Gemini Monster.
+value: 0x12000000
+---
+SUMMON_TYPE_LINK
+Link Summon
+value: 0x4c000000
+---
+SUMMON_TYPE_MAXIMUM
+Maximum Summon (Rush duel SummonType)
+value: 0x4e000000
+---
+SUMMON_TYPE_NORMAL
+Normal summoned (EFFECT_SUMMON_PROC, EFFECT_SET_PROC can use SetValue to modify the value)
+value: 0x10000000
+---
+SUMMON_TYPE_PENDULUM
+Pendulum Summon
+value: 0x4a000000
+---
+SUMMON_TYPE_RITUAL
+Ritual Summon
+value: 0x45000000
+---
+SUMMON_TYPE_SPECIAL
+Special summon (EFFECT_SPSUMMON_PROC, EFFECT_SPSUMMON_PROC_G can use SetValue to modify the value)
+value: 0x40000000
+---
+SUMMON_TYPE_SYNCHRO
+Synchro Summon
+value: 0x46000000
+---
+SUMMON_TYPE_TRIBUTE
+The value used for a [Tribute Summon](https://yugipedia.com/wiki/Tribute_Summon).
+value: 0x11000000
+---
+SUMMON_TYPE_XYZ
+Xyz Summon
+value: 0x49000000
+---
+SUMMON_WITH_MONSTER_REBORN
+Summon value (sumtype variable) used by the "Monster Reborn". Cards that need to check if a monster was summoned by Monster Reborn should check for this SummonType
+value: 1010
+---
+TIMINGS_CHECK_MONSTER
+When a monster is placed on the field
+value: 0x1c0
+---
+TIMINGS_CHECK_MONSTER_E
+When a monster is placed on the field and also during the End Phase
+value: 0x1e0
+---
+TIMING_ATTACK
+When an attack is declared
+value: 0x1000
+---
+TIMING_BATTLED
+(To be added)
+value: 0x8000000
+---
+TIMING_BATTLE_END
+When the Battle Phase is about to end, while moving to the Main Phase 2/End Phase
+value: 0x10
+---
+TIMING_BATTLE_PHASE
+During the Battle Phase
+value: 0x1000000
+---
+TIMING_BATTLE_START
+When the Battle Phase has just started
+value: 0x8
+---
+TIMING_BATTLE_STEP_END
+When the steps in a battle have finished
+value: 0x4000000
+---
+TIMING_CHAIN_END
+When a chain ends
+value: 0x8000
+---
+TIMING_DAMAGE
+When a player takes damage
+value: 0x20000
+---
+TIMING_DAMAGE_CAL
+When performing Damage Calculation
+value: 0x4000
+---
+TIMING_DAMAGE_STEP
+During the Damage Step
+value: 0x2000
+---
+TIMING_DESTROY
+When something is destroyed
+value: 0x80000
+---
+TIMING_DRAW
+When someplayer draws (not only in the Draw Phase)
+value: 0x10000
+---
+TIMING_DRAW_PHASE
+During the Draw Phase
+value: 0x1
+---
+TIMING_END_PHASE
+During the End Phase of a turn
+value: 0x20
+---
+TIMING_EQUIP
+This event is raised when a card is equipped to another
+value: 0x2000000
+---
+TIMING_FLIPSUMMON
+When a monster is Flip Summoned
+value: 0x100
+---
+TIMING_MAIN_END
+When the Main Phase is about to end, while moving to the Battle/End phase
+value: 0x4
+---
+TIMING_MSET
+When a monster is Set
+value: 0x200
+---
+TIMING_POS_CHANGE
+When a position changes
+value: 0x800
+---
+TIMING_RECOVER
+When a player gains LP
+value: 0x40000
+---
+TIMING_REMOVE
+This event is raised when a card is removed
+value: 0x100000
+---
+TIMING_SPSUMMON
+When a monster is Special Summoned
+value: 0x80
+---
+TIMING_SSET
+When a Spell/Trap is Set
+value: 0x400
+---
+TIMING_STANDBY_PHASE
+During the Standby Phase
+value: 0x2
+---
+TIMING_SUMMON
+When a monster is Summoned
+value: 0x40
+---
+TIMING_TODECK
+This event is raised when a card is sent to the deck
+value: 0x400000
+---
+TIMING_TOGRAVE
+This event is raised when a card is sent to the graveyard
+value: 0x800000
+---
+TIMING_TOHAND
+When you add a hand (retrieve, recycle, etc.)
+value: 0x200000
+---
+WIN_REASON_CREATORGOD
+The hexadecimal value for a duel win caused by "Holactie the Creator of Light"
+value: 0x13
+---
+WIN_REASON_CREATOR_MIRACLE
+The hexadecimal value for a duel win caused by "Creator of Miracles"
+value: 0x30
+---
+WIN_REASON_DECK_MASTER
+The hexadecimal value for a duel win caused by the rules of Deck Masters
+value: 0x56
+---
+WIN_REASON_DESTINY_BOARD
+The hexadecimal value for a duel win caused by "Destiny Board"
+value: 0x15
+---
+WIN_REASON_DEUCE
+The hexadecimal value for a duel win caused by "Number iC1000: Numeronius Numeronia"
+value: 0x54
+---
+WIN_REASON_DISASTER_LEO
+The hexadecimal value for a duel win caused by "Number C88: Gimmick Puppet Disaster Leo"
+value: 0x18
+---
+WIN_REASON_DRAW_OF_FATE
+The hexadecimal value for a duel win caused by "Draw of Fate"
+value: 0x57
+---
+WIN_REASON_EVIL_1
+Not used by cards.
+value: 0x51
+---
+WIN_REASON_EXODIA
+The hexadecimal value for a duel win caused by "Exodia, the Forbidden One"
+value: 0x10
+---
+WIN_REASON_EXODIA_DEFENDER
+The hexadecimal value for a duel win caused by "Exodia, the Legendary Defender"
+value: 0x1f
+---
+WIN_REASON_EXODIUS
+The hexadecimal value for a duel win caused by "Exodius the Ultimate Forbidden Lord"
+value: 0x14
+---
+WIN_REASON_FA_WINNERS
+The hexadecimal value for a duel win caused by "F.A. Winners"
+value: 0x1d
+---
+WIN_REASON_FINAL_COUNTDOWN
+The hexadecimal value for a duel win caused by "Countdown"
+value: 0x11
+---
+WIN_REASON_FINAL_DRAW
+The hexadecimal value for a duel win caused by "Final Draw"
+value: 0x22
+---
+WIN_REASON_FLYING_ELEPHANT
+The hexadecimal value for a duel win caused by "Flying Elephant"
+value: 0x1e
+---
+WIN_REASON_GHOSTRICK_MISCHIEF
+The hexadecimal value for a duel win caused by "Ghostrick Angel of Mischief"
+value: 0x1b
+---
+WIN_REASON_JACKPOT7
+The hexadecimal value for a duel win caused by "Jackpot 7"
+value: 0x19
+---
+WIN_REASON_LAST_TURN
+The hexadecimal value for a duel win caused by "Last Turn"
+value: 0x16
+---
+WIN_REASON_MUSICAL_SUMO
+The hexadecimal value for a duel win caused by "Musical Sumo Dice Games"
+value: 0x58
+---
+WIN_REASON_NUMBER_Ci1000
+The hexadecimal value for a duel win caused by "Number iC1000: Numeronius Numeronia"
+value: 0x52
+---
+WIN_REASON_PHANTASM_SPIRAL
+The hexadecimal value for a duel win caused by "Phantasm Spiral Assault"
+value: 0x1c
+---
+WIN_REASON_PUPPET_LEO
+The hexadecimal value for a duel win caused by "Number 88: Gimmick Puppet of Leo"
+value: 0x17
+---
+WIN_REASON_RELAY_SOUL
+The hexadecimal value for a duel win caused by "Relay Soul"
+value: 0x1a
+---
+WIN_REASON_TRUE_EXODIA
+The hexadecimal value for a duel win caused by "True Exodia"
+value: 0x21
+---
+WIN_REASON_VENNOMINAGA
+The hexadecimal value for a duel win caused by "Vennominaga, Deity of the Poisonous Snakes"
+value: 0x12
+---
+WIN_REASON_ZERO_GATE
+The hexadecimal value for a duel win caused by "Zero Gate of the Void"
+value: 0x53
+---
+ZONES_EMZ
+Constant to be used as mask to filter for extra monster zones
+value: 0x60
+---
+ZONES_MMZ
+Constant to be used as mask to filter for main monster zones
+value: 0x1f
