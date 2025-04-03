@@ -34,12 +34,14 @@
 
 0x41	Lọc với tệp CDB
 0x42	Lọc với tệp YDK
-0x43	Xuất dưới dạng zip
+0x43	Xuất dạng zip
 0x44	Xuất CardEditorSet
-0x45	Nhập CardEditorSet
-0x46	Kiểm tra Mã
-0x47	Kiểm tra Cập nhật
-0x48	Thông tin
+0x45	Xuất Excel
+0x46	Nhập CardEditorSet
+0x47	Nhập Excel
+0x48	Kiểm tra Mã
+0x49	Kiểm tra Cập nhật
+0x4a	Thông tin
 ---------------------------
 0x71	Nguyên Mẫu: 
 0x72	Loại Thẻ: 
@@ -99,8 +101,14 @@
 0xd4	Trích xuất toàn bộ các Thẻ trong danh sách.
 0xd5	Nhập các Thẻ từ tệp CardEditorSet vào danh sách.
 
-0xda	Phân tích mã để tìm ra các vấn đề về định dạng và sửa bất kỳ lỗi không nhất quán nào được phát hiện.
-0xdb	Kiểm tra các bản cập nhật dữ liệu ứng dụng mới nhất.
+0xd6	Trích xuất các Thẻ dưới dạng tệp Excel.
+0xd7	Trích xuất các Thẻ được chọn.
+0xd8	Trích xuất các Thẻ đang hiển thị (sau khi áp dụng lọc).
+0xd9	Trích xuất toàn bộ các Thẻ trong danh sách.
+0xda	Nhập các Thẻ từ tệp Excel vào danh sách.
+
+0xdb	Phân tích mã để tìm ra các vấn đề về định dạng và sửa bất kỳ lỗi không nhất quán nào được phát hiện.
+0xdc	Kiểm tra các bản cập nhật dữ liệu ứng dụng mới nhất.
 ---------------------------
 0xe1	ID
 0xe2	Định Danh
