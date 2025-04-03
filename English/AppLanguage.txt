@@ -36,10 +36,12 @@
 0x42	Filter With YDK File
 0x43	Export as zip
 0x44	Export CardEditorSet
-0x45	Import CardEditorSet
-0x46	Linter Script
-0x47	Check Update
-0x48	About
+0x45	Export Excel
+0x46	Import CardEditorSet
+0x47	Import Excel
+0x48	Linter Script
+0x49	Check Update
+0x4a	About
 ---------------------------
 0x71	Archetype: 
 0x72	Card Type: 
@@ -88,19 +90,25 @@
 0xbe	Filter and display cards on the list that APPEAR in the selected Deck.
 0xbf	Filter and display cards on the list that DO NOT APPEAR in the selected Deck.
 
-0xc5	Extract Database (and all Images, Scripts of each card in Database) as ZIP file.
-0xc6	Extract the selected cards.
-0xc7	Extract the currently displayed cards (after applying filters).
-0xc8	Extract all cards in the list.
+0xc5	Export Database (and all Images, Scripts of each card in Database) as ZIP file.
+0xc6	Export the selected cards.
+0xc7	Export the currently displayed cards (after applying filters).
+0xc8	Export all cards in the list.
 
-0xd1	Extract cards in the list as CardEditorSet file.
-0xd2	Extract the selected cards.
-0xd3	Extract the currently displayed cards (after applying filters).
-0xd4	Extract all cards in the list.
+0xd1	Export cards as CardEditorSet file.
+0xd2	Export the selected cards.
+0xd3	Export the currently displayed cards (after applying filters).
+0xd4	Export all cards in the list.
 0xd5	Import cards from the CardEditorSet file into the list.
 
-0xda	Analyze code for formatting issues and fix any detected inconsistencies.
-0xdb	Check for updates to the latest application data.
+0xd6	Export cards as Excel file.
+0xd7	Export the selected cards.
+0xd8	Export the currently displayed cards (after applying filters).
+0xd9	Export all cards in the list.
+0xda	Import cards from the Excel file into the list.
+
+0xdb	Analyze code for formatting issues and fix any detected inconsistencies.
+0xdc	Check for updates to the latest application data.
 ---------------------------
 0xe1	ID
 0xe2	ID
