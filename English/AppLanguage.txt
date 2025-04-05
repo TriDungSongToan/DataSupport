@@ -16,6 +16,7 @@
 0x1b	Card Script
 0x1c	Card Image
 0x1d	CardEditSet
+0x1e	Excel
 
 0x21	Image Editor
 0x22	Data Editor
@@ -61,7 +62,8 @@
 
 0x91	Save all cards in the list to the original Card Database file.
 0x92	Save all cards in the list to the original CardEditorSet file.
-0x93	Save the current script content to the original Card Script file.
+0x93	Save all cards in the list to the original Excel file.
+0x94	Save the current script content to the original Card Script file.
 
 0x9a	Save cards to a new Card Database file.
 0x9b	Save the selected cards to a new database file.
