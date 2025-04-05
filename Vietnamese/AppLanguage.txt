@@ -16,6 +16,7 @@
 0x1b	Tập Lệnh Thẻ
 0x1c	Hình ảnh Thẻ
 0x1d	CardEditSet
+0x1e	Excel
 
 0x21	Chỉnh Sửa Hình Ảnh
 0x22	Chỉnh Sửa Dữ Liệu
@@ -61,7 +62,8 @@
 
 0x91	Lưu tất cả các Thẻ trong danh sách vào tệp Cơ Sở Dữ Liệu Thẻ gốc.
 0x92	Lưu tất cả các Thẻ trong danh sách vào tệp CardEditorSet gốc.
-0x93	Lưu nội dung Tập Lệnh hiện tại vào tệp Tập Lệnh gốc.
+0x93	Lưu tất cả các Thẻ trong danh sách vào tệp Excel gốc.
+0x94	Lưu nội dung Tập Lệnh hiện tại vào tệp Tập Lệnh gốc.
 
 0x9a	Lưu các Thẻ vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
 0x9b	Lưu các Thẻ đã chọn vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
