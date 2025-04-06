@@ -156,10 +156,10 @@
 
 0x11a	Advanced Filter
 0x11b	Match Case
-0x11c	Whole Words
-0x11d	Wildcards
-0x11e	Match Prefix
-0x11f	Match Suffix
+0x11c	Match Prefix
+0x11d	Match Suffix
+0x11e	Use Wildcards
+0x11f	Whole Words
 0x120	Ignore Punctuation
 0x121	Ignore White-Space
 
