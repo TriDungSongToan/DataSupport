@@ -154,11 +154,20 @@
 0x118	Search
 0x119	Search/Filter Card in the list using data on the interface. Right click to clear search filters.
 
-0x121	Error
-0x122	Warning
-0x123	Information
-0x124	Notification
-0x125	Question
+0x11a	Advanced Filter
+0x11b	Match Case
+0x11c	Whole Words
+0x11d	Wildcards
+0x11e	Match Prefix
+0x11f	Match Suffix
+0x120	Ignore Punctuation
+0x121	Ignore White-Space
+
+0x125	Error
+0x126	Warning
+0x127	Information
+0x128	Notification
+0x129	Question
 
 0x12a	Yes
 0x12b	No
