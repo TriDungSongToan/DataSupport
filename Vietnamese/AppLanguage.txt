@@ -154,11 +154,20 @@
 0x118	Lọc
 0x119	Tìm kiếm/Lọc Thẻ trong danh sách bằng dữ liệu trên giao diện. Nhấp chuột phải để xóa bộ lọc tìm kiếm.
 
-0x121	Lỗi
-0x122	Cảnh Báo
-0x123	Thông Tin
-0x124	Thông Báo
-0x125	Câu Hỏi
+0x11a	Bộ lọc nâng cao
+0x11b	Khớp Hoa/Thường
+0x11c	Khớp tiền tố
+0x11d	Khớp hậu tố
+0x11e	Ký tự thay thế
+0x11f	Khớp từ nguyên
+0x120	Bỏ qua dấu câu
+0x121	Bỏ qua khoảng trắng
+
+0x125	Lỗi
+0x126	Cảnh Báo
+0x127	Thông Tin
+0x128	Thông Báo
+0x129	Câu Hỏi
 
 0x12a	Có
 0x12b	Không
