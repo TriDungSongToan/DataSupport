@@ -52,7 +52,7 @@
 0x53	Thay thế tiếp
 0x54	Thay thế tất cả
 
-0x58	Lọc nâng cao
+0x58	Nâng cao
 0x59	Khớp Hoa/Thường
 0x5a	Khớp tiền tố
 0x5b	Khớp hậu tố
