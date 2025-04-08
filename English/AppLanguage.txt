@@ -40,9 +40,30 @@
 0x45	Export Excel
 0x46	Import CardEditorSet
 0x47	Import Excel
-0x48	Linter Script
-0x49	Check Update
-0x4a	About
+
+0x4a	Find
+0x4b	Find What
+0x4c	Find Next
+0x4d	Find Previous
+0x4e	Find All
+
+0x51	Replace
+0x52	Replace With
+0x53	Replace Next
+0x54	Replace All
+
+0x58	Advanced Filter
+0x59	Match Case
+0x5a	Match Prefix
+0x5b	Match Suffix
+0x5c	Use Wildcards
+0x5d	Whole Words
+0x5e	Ignore Punctuation
+0x5f	Ignore White-Space
+
+0x65	Linter Script
+0x66	Check Update
+0x67	About
 ---------------------------
 0x71	Archetype: 
 0x72	Card Type: 
