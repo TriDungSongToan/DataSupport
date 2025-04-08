@@ -40,9 +40,30 @@
 0x45	Xuất Excel
 0x46	Nhập CardEditorSet
 0x47	Nhập Excel
-0x48	Kiểm tra Mã
-0x49	Kiểm tra Cập nhật
-0x4a	Thông tin
+
+0x4a	Tìm kiếm
+0x4b	Tìm gì
+0x4c	Tìm tiếp
+0x4d	Tìm trước
+0x4e	Tìm tất cả
+
+0x51	Thay thế
+0x52	Thay thế bằng
+0x53	Thay thế tiếp
+0x54	Thay thế tất cả
+
+0x58	Lọc nâng cao
+0x59	Khớp Hoa/Thường
+0x5a	Khớp tiền tố
+0x5b	Khớp hậu tố
+0x5c	Sử dụng ký tự đại diện
+0x5d	Khớp từ nguyên
+0x5e	Bỏ qua dấu câu
+0x5f	Bỏ qua khoảng trắng
+
+0x65	Kiểm tra Mã
+0x66	Kiểm tra Cập nhật
+0x67	Thông tin
 ---------------------------
 0x71	Nguyên Mẫu: 
 0x72	Loại Thẻ: 
