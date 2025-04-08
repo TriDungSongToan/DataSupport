@@ -52,7 +52,7 @@
 0x53	Replace Next
 0x54	Replace All
 
-0x58	Advanced Filter
+0x58	Advanced
 0x59	Match Case
 0x5a	Match Prefix
 0x5b	Match Suffix
