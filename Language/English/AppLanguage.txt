@@ -1,0 +1,385 @@
+﻿0x01	File
+0x02	New
+0x03	Open
+0x04	Save
+0x05	Save as
+
+0x11	Exit
+
+0x15	Window
+0x16	Image Editor
+0x17	Data Editor
+0x18	Code Editor
+0x19	Script Support
+
+0x25	Setting
+0x26	Setting
+
+0x31	Card
+0x32	Copy Card
+0x33	Paste Card
+0x34	Save Card
+
+0x3a	Filter With CDB File
+0x3b	Filter With YDK File
+
+0x45	Data
+0x46	Export as zip
+0x47	Export CardEditorSet
+0x48	Export Excel
+0x49	Import CardEditorSet
+0x4a	Import Excel
+
+0x51	Replace
+
+0x61	Help
+0x62	Linter Script
+0x63	Check Update
+
+0x6a	About
+0x6b	Version:
+0x6c	Created by:
+
+0x91	Card Database
+0x92	Card Script
+0x93	Card Image
+0x94	CardEditSet
+0x95	Excel
+
+0xab	Selected Cards
+0xac	Found Cards
+0xad	All Cards
+0xae	Duplicate Cards
+0xaf	Different Cards
+
+0xb5	Find
+0xb6	Find What
+0xb7	Find Next
+0xb8	Find Previous
+0xb9	Find All
+
+0xc1	Replace With
+0xc2	Replace Next
+0xc3	Replace All
+
+-------------------------------------
+0xe1	Create a new Card Database.
+0xe2	Create a new Card Script.
+0xe3	Create a new Archive.
+0xe4	Open an existing Card Database.
+0xe5	Open an existing Card Script.
+
+0xea	Save all cards in the list to the original Card Database file.
+0xeb	Save all cards in the list to the original CardEditorSet file.
+0xec	Save all cards in the list to the original Excel file.
+0xed	Save the current script content to the original Card Script file.
+
+0xf1	Save cards to a new Card Database file.
+0xf2	Save the selected cards to a new database file.
+0xf3	Save the currently displayed cards (after applying filters) to a new database file.
+0xf4	Save all cards in the list to a new database file.
+0xf5	Save the current script content as a new Card Script file.
+0xff	Exit the application.
+
+0x105	Open a new Image Editor Tab.
+0x106	Open a new Data Editor Tab.
+0x107	Open a new Code Editor Tab.
+
+0x10a	Open the Script Support Window.
+0x10f	Open the Settings Window.
+
+0x11a	Copy cards to the clipboard.
+0x11b	Copy the selected cards to the clipboard.
+0x11c	Copy the currently displayed cards (after applying filters) to the clipboard.
+0x11d	Copy all cards in the list to the clipboard.
+0x11e	Paste cards from the clipboard into the list.
+
+0x125	Filter and display cards on the list using a Card Database file.
+0x126	Filter and display cards on the list that APPEAR in the selected Card Database.
+0x127	Filter and display cards on the list that DO NOT APPEAR in the selected Card Database.
+0x128	Filter and display cards on the list using a Deck file.
+0x129	Filter and display cards on the list that APPEAR in the selected Deck.
+0x12a	Filter and display cards on the list that DO NOT APPEAR in the selected Deck.
+
+0x131	Export Database (and all Images, Scripts of each card in Database) as ZIP file.
+0x132	Export as zip the selected cards.
+0x133	Export as zip the currently displayed cards (after applying filters).
+0x134	Export all cards in the list.
+
+0x13a	Export cards as CardEditorSet file.
+0x13b	Export ceds the selected cards.
+0x13c	Export ceds the currently displayed cards (after applying filters).
+0x13d	Export ceds all cards in the list.
+0x13e	Import cards from the CardEditorSet file into the list.
+
+0x145	Export cards as Excel file.
+0x146	Export excel the selected cards.
+0x147	Export excel the currently displayed cards (after applying filters).
+0x148	Export excel all cards in the list.
+0x149	Import cards from the Excel file into the list.
+
+0x171	Analyze code for formatting issues and fix any detected inconsistencies.
+0x172	Check for updates to the latest application data.
+0x173	Source code on Github.
+
+------------------------------
+0x181	Data Source
+0x182	Browser Path
+0x183	Background
+0x184	Foreground
+0x185	FontFamily
+0x186	FontSize
+0x187	Theme
+0x188	Highlight
+0x189	Language
+0x18a	Image Size
+0x18b	Stamp Size
+0x18c	Stamp Margin
+0x18d	Stamp Position
+0x18e	Image DPI
+0x18f	Sort
+0x190	Max Item
+0x191	List Header
+0x192	Word Wrap
+0x193	Auto Search
+0x194	Allow Save
+0x195	Allow New
+0x196	Code Folding
+0x197	Game
+
+-----------------------------
+0x198	Advanced
+0x199	Match Case
+0x19a	Match Prefix
+0x19b	Match Suffix
+0x19c	Use Wildcards
+0x19d	Whole Words
+0x19e	Ignore Punctuation
+0x19f	Ignore White-Space
+---------------------------
+0x1a7	Archetype: 
+0x1a8	Card Type: 
+0x1a9	Race: 
+0x1aa	Attribute: 
+0x1ab	Card Information
+0x1ac	 Search Card
+0x1ad	 Search Script
+0x1ae	 Search Scrapi Name
+0x1af	 Search Scrapi Desc
+
+---------------------------
+0x1b5	ID
+0x1b6	ID
+0x1b7	Alias
+0x1b8	Card Name
+
+0x1c1	Scope
+0x1c2	Card Type
+0x1c3	Monster Race
+0x1c4	Attribute
+0x1c5	SetCode/Archetype
+0x1c6	Category
+
+0x1d1	Level
+0x1d2	Minus Level
+0x1d3	Rank
+0x1d4	Link
+0x1d5	Link Rating
+0x1d6	Link Arrows
+0x1d7	Pendulum Scale
+0x1d8	Maximum
+
+0x1e1	ATK
+0x1e2	DEF
+0x1e3	Width
+0x1e4	Height
+0x1e5	Rare
+
+0x1ed	Set Size
+0x1ee	Image
+0x1ef	Script
+
+0x1f4	Add
+0x1f5	Clear
+0x1f6	Delete
+0x1f7	Modify
+0x1f8	Undo
+0x1f9	Undo the last action to restore the previous state. Right click to redo.
+0x1fa	Reset
+0x1fb	ReLoad
+0x1fc	Search
+0x1fd	Search/Filter Card in the list using data on the interface. Right click to open menu.
+0x1fe	Clear Filter
+
+0x201	ID Ascending
+0x202	ID Descending
+0x203	Card Name Ascending
+0x204	Card Name Descending
+0x205	Sort cards in the list in order:
+
+----------------------------
+0x211	Error
+0x212	Warning
+0x213	Information
+0x214	Notification
+0x215	Question
+
+0x21b	Yes
+0x21c	No
+0x21d	OK
+0x21e	Cancel
+0x21f	ADD IT, I Don't Care
+
+0x225	Data Source Error.
+0x226	Data source is missing or does not exist, Check Update and restart application.
+
+0x231	An error occurred:
+0x232	Error creating Cdb file:
+0x233	Error creating Script file:
+0x234	Error creating Image file:
+0x235	Error creating Ceds file:
+0x236	Error reading file:
+0x237	Error reading configuration:
+0x238	Error writing file:
+0x239	Error copying card:
+0x23a	Error pasting card:
+0x23b	Error saving cards:
+0x23c	Error saving script:
+0x23d	Error adding card:
+0x23e	Error deleting card:
+0x23f	Error deleting file:
+0x240	Error modifying card:
+0x241	Error exporting data:
+0x242	Error importing data:
+0x243	Error downloading data:
+0x244	Error updating data:
+0x245	Error fetching data:
+0x246	Error Connecting Database:
+0x247	Error Clone Repository:
+
+0x251	Invalid File Path.
+0x252	Invalid File Format.
+0x253	Invalid File Handle.
+0x254	Invalid File Operation.
+0x255	Invalid Folder Path
+
+0x25a	Invalid Data Path.
+0x25b	Invalid Data Format.
+0x25c	Invalid Data Selection.
+
+0x261	Invalid Card ID.
+0x262	Invalid Card Alias.
+0x263	Invalid Permissions.
+0x264	Invalid Encoding.
+0x265	Invalid Setting. Please select a Setting before saving.
+0x266	Invalid FontSize. Font size must be a valid number between 1 and 50.
+0x267	Invalid MaxItem. MaxItem must be a valid number between 1 and 100.
+0x268	Invalid Image Size. Please enter in a,b format where a and b are numbers.
+0x269	Invalid Stamp Size. Please enter in a,b format where a and b are numbers.
+0x26a	Invalid Stamp Margin. Please enter in a,b format where a and b are numbers.
+0x26b	Invalid Image DPI. DPI must be a valid number between 1 and 100.
+0x26c	out of allowed range.
+0x26d	cannot be empty.
+
+0x275	Invalid Background Color Code.
+0x276	Invalid Foreground Color Code.
+
+0x281	No Cards found.
+0x282	No Cards selected.
+0x283	No Cards for copy.
+0x284	No Cards for export.
+0x285	No Cards for filter.
+0x286	No Cards for save.
+0x287	No Cards for Replaced.
+0x288	No files found.
+0x289	No selected Window.
+0x28a	No selected Card Database.
+0x28b	No valid Cards found.
+0x28c	No valid Datas found.
+0x28d	No valid Data in Clipboard.
+0x28e	Konami ID not found.
+0x28f	Unable to search Yugipedia for this Card.
+
+0x295	Folder does not exist.
+0x296	File does not exist.
+0x297	File already exist.
+0x298	Card does not exist in database.
+0x299	Card ID already exists.
+0x29a	Card ID does not exist.
+0x29b	Card ID does not exist in the List.
+0x29c	Not an Image File.
+0x29d	Width or Height value is not a valid number.
+0x29e	Lua file
+0x29f	Description for this ID
+0x2a0	for ID
+0x2a1	not found
+0x2a2	is empty
+
+0x2aa	Database created successfully, do you want to open it?
+0x2ab	File created successfully, do you want to open it?
+0x2ac	New card added successfully!
+0x2ad	Card updated successfully!
+0x2ae	Card deleted successfully.
+0x2af	Cards copied successfully!
+0x2b0	Cards pasted successfully!
+0x2b1	Cards Replaced successfully!
+0x2b2	Save cards successfully!
+0x2b3	Save Script successfully!
+0x2b4	Data exported successfully!
+0x2b5	Data imported successfully!
+0x2b6	Zip file exported successfully at:
+0x2b7	Excel file exported successfully at:
+
+0x2c1	Extract functions data successfully!
+0x2c2	Extract constants data successfully!
+0x2c3	Repository has been cloned successfully!
+0x2c4	Data has been updated successfully!
+0x2c5	Settings have been reset to default.
+0x2c6	Restart application to apply.
+0x2c7	Filter successful. Found
+0x2c8	cards out of
+0x2c9	total cards.
+
+0x2d4	Select Folder
+0x2d5	Save Database File
+0x2d6	Save File
+0x2d7	All Files
+0x2d8	Text Documents
+0x2d9	Markdown
+0x2da	log
+0x2db	Deck
+0x2dc	YAML
+0x2dd	Configuration
+0x2de	Zip file
+0x2df	Excel file
+
+0x2e5	Confirm Reset?
+0x2e6	Confirm Clear?
+0x2e7	Confirm Delete?
+
+0x2f1	Card ID has been changed.
+0x2f2	Delete the selected card or the card with newly entered ID?
+0x2f3	Create the Card Script of the selected card or the card with newly entered ID?
+0x2f4	Create the Image of the selected card or the card with newly entered ID?
+0x2f5	The Selected Card
+0x2f6	Newly entered ID
+
+0x301	Do you want to delete all selected data on the interface?
+0x302	Are you sure? Cards with 4 digit IDs or lower will be the game ignore.
+0x303	Are you sure you want to Clear all selected data on the interface?
+0x304	Are you sure you want to Reset the selected card? Changes will not be saved.
+0x305	Are you sure you want to reset settings to default? All changes will be lost.
+0x306	Are you sure you want to PERMANENTLY DELETE selected card?
+0x307	Are you sure you want to save a blank file?
+0x308	Do you want to overwrite it?
+
+0x315	Data source is missing or invalid, download now?
+0x316	No updates found.
+0x317	Update Complete!
+0x318	Update Available, dowload it now?
+
+0x321	Unable to delete existing file after multiple attempts.
+0x322	git.exe path not found, make sure Git is installed and using correct path in application configuration
+0x323	Git Path is missing or empty in configuration. Using default Git path.
+0x324	The syntax highlighting file does not exist.
+0x325	Using default path.

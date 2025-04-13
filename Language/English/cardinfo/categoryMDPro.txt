@@ -1,0 +1,32 @@
+0x1	Destroy S/T
+0x2	Destroy Monster
+0x4	Banish
+0x8	Send to GY
+0x10	Send to Hand
+0x20	Send to Deck
+0x40	Destroy hand
+0x80	Destroy Deck
+0x100	Draw
+0x200	Search
+0x400	Revocation
+0x800	Position
+0x1000	Control
+0x2000	Change ATK/DEF
+0x4000	Piercing
+0x8000	Multi Attack
+0x10000	Limit Attack
+0x20000	Direct Attack
+0x40000	Special Summon
+0x80000	Token
+0x100000	Race-Related
+0x200000	Attribute-Related
+0x400000	Damage LP
+0x800000	Recover LP
+0x1000000	Undestroyable
+0x2000000	Resistance
+0x4000000	Counter
+0x8000000	Gamble
+0x10000000	Fusion-Related
+0x20000000	Synchro-Related
+0x40000000	eXceed-Related
+0x80000000	Negate Effect

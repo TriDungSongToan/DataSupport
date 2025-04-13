@@ -1,0 +1,65 @@
+and
+Logical AND operator
+---
+break
+Exits a loop immediately.
+---
+do
+Starts a block of commands.
+---
+else
+Specifies commands to execute if the 'if' condition is false.
+---
+elseif
+Checks a new condition if the initial 'if' condition is false.
+---
+end
+End of a block of statements (if, while, function, etc.).
+---
+false
+Boolean value false.
+---
+for
+Starts a loop.
+---
+function
+Defines a new function.
+---
+goto
+Jump to a label defined with ::label:: (Lua 5.2+).
+---
+if
+Starts a conditional block.
+---
+in
+Used in generic for loops for iteration.
+---
+local
+Defines a local variable.
+---
+nil
+Represents a null or non-existent value.
+---
+not
+Logical NOT operator (not true → false).
+---
+or
+Returns the first truthy value or the last value.
+---
+repeat
+Start the repeat ... until loop.
+---
+return
+Returns a value from a function.
+---
+then
+Used after 'if' to specify the commands to execute if the condition is true.
+---
+true
+Boolean value true.
+---
+until
+End of repeat ... until loop, check stop condition.
+---
+while
+Starts a while ... do loop (with a condition).

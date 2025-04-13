@@ -1,0 +1,388 @@
+﻿0x01	Têp
+0x02	Mới
+0x03	Mở
+0x04	Lưu
+0x05	Lưu Như
+
+0x11	Thoát
+
+0x15	Cửa Sổ
+0x16	Chỉnh Sửa Hình Ảnh
+0x17	Chỉnh Sửa Dữ Liệu
+0x18	Chỉnh Sửa Mã
+0x19	Hỗ Trợ Tập Lệnh
+
+0x25	Cài Đặt
+0x26	Cấu Hình
+
+0x31	Thẻ
+0x32	Sao Chép Thẻ
+0x33	Dán Thẻ
+0x34	Lưu Thẻ
+
+0x3a	Lọc với tệp CDB
+0x3b	Lọc với tệp YDK
+
+0x45	Dữ Liệu
+0x46	Xuất dạng zip
+0x47	Xuất CardEditorSet
+0x48	Xuất Excel
+0x49	Nhập CardEditorSet
+0x4a	Nhập Excel
+
+0x51	Thay thế
+
+0x61	Hỗ Trợ
+0x62	Kiểm tra Mã
+0x63	Kiểm tra Cập nhật
+
+0x6a	Thông tin
+0x6b	Phiên bản:
+0x6c	Được tạo bởi:
+
+0x91	Cơ Sở Dữ Liệu Thẻ
+0x92	Tập Lệnh Thẻ
+0x93	Hình ảnh Thẻ
+0x94	CardEditSet
+0x95	Excel
+
+0xab	Các Thẻ đã chọn 
+0xac	Các Thẻ hiển thị
+0xad	Toàn bộ Thẻ
+0xae	Các Thẻ trùng lặp
+0xaf	Các Thẻ khác biệt
+
+0xb5	Tìm
+0xb6	Tìm gì
+0xb7	Tìm tiếp
+0xb8	Tìm trước
+0xb9	Tìm tất cả
+
+0xc1	Thay thế với
+0xc2	Thay  thế tiếp
+0xc3	Thay thế tất cả
+
+-------------------------------------
+0xe1	Tạo một Cơ Sở Dữ Liệu Thẻ mới.
+0xe2	Tạo một Tập Lệnh Thẻ Mới.
+0xe3	Tạo một tệp ZIP mới.
+0xe4	Mở một Cơ Sở Dữ Liệu Thẻ hiện có.
+0xe5	Mở một Tập Lệnh Thẻ hiện có.
+
+0xea	Lưu tất cả các Thẻ trong danh sách vào tệp Cơ Sở Dữ Liệu Thẻ gốc.
+0xeb	Lưu tất cả các Thẻ trong danh sách vào tệp CardEditorSet gốc.
+0xec	Lưu tất cả các Thẻ trong danh sách vào tệp Excel gốc.
+0xed	Lưu nội dung Tập Lệnh hiện tại vào tệp Tập Lệnh gốc.
+
+0xf1	Lưu các Thẻ vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
+0xf2	Lưu các Thẻ đã chọn vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
+0xf3	Lưu các Thẻ đang hiển thị (sau khi áp dụng lọc) vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
+0xf4	Lưu Toàn bộ các Thẻ trong danh sách vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
+0xf5	Lưu nội dung Tập Lệnh hiện tại vào một Tệp Tập Lệnh mới.
+0xff	Thoát khỏi ứng dụng.
+
+0x105	Mở một thẻ Chỉnh Sửa Hình Ảnh mới.
+0x106	Mở một thẻ Chỉnh Sửa Dữ Liệu mới.
+0x107	Mở một thẻ Chỉnh Sửa Mã mới.
+0x10a	Mở Cửa Sổ Hỗ Trợ Tập Lệnh.
+
+0x10f	Mở Cửa Sổ Cài Đặt.
+
+0x11a	Sao chép các Thẻ vào Bảng nhớ tạm.
+0x11b	Sao chép các Thẻ đã chọn vào Bảng nhớ tạm.
+0x11c	Sao chép các Thẻ đang hiển thị (sau khi áp dụng lọc) vào Bảng nhớ tạm.
+0x11d	Sao chép Toàn bộ các Thẻ trong danh sách vào Bảng nhớ tạm.
+0x11e	Dán Các Thẻ từ Bảng nhớ tạm vào danh sách.
+
+0x125	Lọc và hiển thị các Thẻ trong danh sách sử dụng tệp Cơ Sở Dữ Liệu Thẻ.
+0126	Lọc và hiển thị trong danh sách các Thẻ CÓ XUẤT HIỆN trong Cơ Sở Dữ Liệu Thẻ được chọn.
+0x127	Lọc và hiển thị trong danh sách các Thẻ KHÔNG XUẤT HIỆN trong Cơ Sở Dữ Liệu Thẻ được chọn.
+0x128	Lọc và hiển thị các Thẻ trong danh sách sử dụng tệp Bộ Bài.
+0x129	Lọc và hiển thị trong danh sách các Thẻ CÓ XUẤT HIỆN trong Bộ Bài được chọn.
+0x12a	Lọc và hiển thị trong danh sách các Thẻ KHÔNG XUẤT HIỆN trong Bộ Bài được chọn.
+
+0x131	Trích xuất Cơ Sở Dữ Liệu (và tất cả Hình Ảnh, Tập Lệnh của mỗi Thẻ trong Cơ Sở Dữ Liệu) dưới dạng tệp ZIP.
+0x132	Trích xuất các Thẻ được chọn.
+0x133	Trích xuất các Thẻ đang hiển thị (sau khi áp dụng lọc).
+0x134	Trích xuất toàn bộ các Thẻ trong danh sách.
+
+0x13a	Trích xuất các Thẻ dưới dạng tệp CardEditorSet.
+0x13b	Trích xuất các Thẻ được chọn.
+0x13c	Trích xuất các Thẻ đang hiển thị (sau khi áp dụng lọc).
+0x13d	Trích xuất toàn bộ các Thẻ trong danh sách.
+0x13e	Nhập các Thẻ từ tệp CardEditorSet vào danh sách.
+
+0x145	Trích xuất các Thẻ dưới dạng tệp Excel.
+0x146	Trích xuất các Thẻ được chọn.
+0x147	Trích xuất các Thẻ đang hiển thị (sau khi áp dụng lọc).
+0x148	Trích xuất toàn bộ các Thẻ trong danh sách.
+0x149	Nhập các Thẻ từ tệp Excel vào danh sách.
+
+0x171	Phân tích mã để tìm ra các vấn đề về định dạng và sửa bất kỳ lỗi không nhất quán nào được phát hiện.
+0x172	Kiểm tra các bản cập nhật dữ liệu ứng dụng mới nhất.
+0x173	Mã nguồn trên Github.
+
+------------------------------
+0x181	Nguồn dữ liệu
+0x182	Đường dẫn trình duyệt
+0x183	Màu nền
+0x184	Màu chữ
+0x185	Font chữ
+0x186	Cỡ chữ
+0x187	Chủ đề
+0x188	Tô sáng
+0x189	Ngôn ngữ
+0x18a	Kích thước ảnh
+0x18b	Kích thước Tem
+0x18c	Căn lề Tem
+0x18d	Vị trí Tem
+0x18e	DPI ảnh
+0x18f	Sắp xếp
+0x190	Max Item
+0x191	Tiêu đề
+0x192	Ngắt dòng
+0x193	Tự động tìm
+0x194	Cho phép lưu
+0x195	Cho phép tạo
+0x196	Gấp mã
+0x197	Trò chơi
+
+-----------------------------
+0x198	Nâng cao
+0x199	Khác hoa/thường
+0x19a	Khớp tiền tố
+0x19b	Khớp hậu tố
+0x19c	Dùng ký tự đại diện
+0x19d	Chỉ tìm từ hoàn chỉnh
+0x19e	Bỏ qua ký tự dấu câu
+0x19f	Bỏ qua ký tự khoảng trắng
+
+---------------------------
+0x1a7	Nguyên Mẫu: 
+0x1a8	Loại Thẻ: 
+0x1a9	Chủng Tộc: 
+0x1aa	Thuộc Tính: 
+0x1ab	Thông Tin Thẻ
+0x1ac	 Tìm kiếm Thẻ
+0x1ad	 Tìm kiếm Tập Lệnh
+0x1ae	 Tìm tên Scrapi
+0x1af	 Tìm mô tả Scrapi
+
+---------------------------
+0x1b5	ID
+0x1b6	Định Danh
+0x1b7	Bí Danh
+0x1b8	Tên Thẻ
+
+0x1c1	Phạm vi
+0x1c2	Loại Thẻ
+0x1c3	Chủng tộc
+0x1c4	Thuộc tính
+0x1c5	SetCode/Nguyên mẫu
+0x1c6	Danh mục
+
+0x1d1	Cấp
+0x1d2	Cấp âm
+0x1d3	Hạng
+0x1d4	Link
+0x1d5	Link Rating
+0x1d6	Link Arrows
+0x1d7	Pendulum Scale
+0x1d8	Maximum
+
+0x1e1	Công
+0x1e2	Thủ
+0x1e3	Rộng
+0x1e4	Cao
+0x1e5	Hiếm
+
+0x1ed	Cỡ ảnh
+0x1ee	Ảnh
+0x1ef	Mã
+
+0x1f4	Thêm
+0x1f5	Sạch
+0x1f6	Xóa
+0x1f7	Sửa
+0x1f8	Hoàn tác
+0x1f9	Hoàn tác hành động cuối cùng để khôi phục trạng thái trước đó. Chuột phải để làm lại.
+0x1fa	Đặt lại
+0x1fb	Tải lại
+0x1fc	Lọc
+0x1fd	Tìm kiếm/Lọc Thẻ trong danh sách bằng dữ liệu trên giao diện. Chuột phải để mở menu.
+0x1fe	Xóa bộ lọc
+
+0x201	ID tăng dần
+0x202	ID giảm dần
+0x203	Tên tăng dần
+0x204	Tên giảm dần
+0x205	Sắp xếp thẻ trong theo thứ tự:
+0x206	Chuột phải để sắp xếp theo mặc định.
+
+---------------------------
+0x211	Lỗi
+0x212	Cảnh Báo
+0x213	Thông Tin
+0x214	Thông Báo
+0x215	Câu Hỏi
+
+0x21b	Có
+0x21c	Không
+0x21d	Đồng ý
+0x21e	Hủy bỏ
+0x21f	Thêm nó, éo quan tâm.
+
+0x225	Lỗi nguồn dữ liệu.
+0x226	Nguồn dữ liệu bị thiếu hoặc không tồn tại, hãy kiểm tra Cập nhật và khởi động lại ứng dụng.
+
+0x231	Đã xảy ra lỗi:
+0x232	Lỗi khi tạo tệp cdb:
+0x233	Lỗi khi tạo tệp script:
+0x234	Lỗi khi tạo tệp hình ảnh thẻ:
+0x235	Lỗi khi tạo tệp ceds:
+0x236	Lỗi khi đọc tệp:
+0x237	Lỗi khi đọc cấu hình:
+0x238	Lỗi khi ghi tệp:
+0x239	Lỗi khi sao chép thẻ:
+0x23a	Lỗi khi dán thẻ:
+0x23b	Lỗi khi lưu Thẻ:
+0x23c	Lỗi khi lưu tập lệnh:
+0x23d	Lỗi khi thêm thẻ:
+0x23e	Lỗi khi xóa thẻ:
+0x23f	Lỗi khi xóa file:
+0x240	Lỗi khi sửa thẻ:
+0x241	Lỗi khi xuất dữ liệu:
+0x242	Lỗi khi nhập dữ liệu:
+0x243	Lỗi khi tải xuống dữ liệu:
+0x244	Lỗi khi cập nhật dữ liệu:
+0x245	Lỗi khi truy xuất dữ liệu:
+0x246	Lỗi kết nối Cơ Sở Dữ Liệu:
+0x247	Lỗi khi nhân bản kho lưu trữ:
+
+0x251	Đường dẫn tệp không hợp lệ.
+0x252	Định dạng tệp không hợp lệ.
+0x253	Xử lý tập tin không hợp lệ.
+0x254	Thao tác tập tin không hợp lệ.
+0x255	Đường dẫn thư mục không hợp lệ.
+
+0x25a	Đường dẫn dữ liệu không hợp lệ.
+0x25b	Định dạng dữ liệu không hợp lệ.
+0x25c	Lựa chọn dữ liệu không hợp lệ.
+
+0x261	Định danh Thẻ không hợp lệ.
+0x262	Bí danh Thẻ không hợp lệ.
+0x263	Quyền truy cập không hợp lệ.
+0x264	Mã hóa không hợp lệ.
+0x265	Cài đặt không hợp lệ. Hãy lựa chọn cài đặt trước khi lưu.
+2x266	Cỡ chữ không hợp lệ. Cỡ chữ phải là số hợp lệ nằm trong khoảng từ 1 đến 50.
+2x267	Item tối đa không hợp lệ. Item tối đa phải là số hợp lệ nằm trong khoảng từ 1 đến 100.
+0x268	Kích thước ảnh không hợp lệ. Hãy nhập theo định dạng a,b trong đó a và b là số.
+0x269	Kích thước tem độ hiếm không hợp lệ. Hãy nhập theo định dạng a,b trong đó a và b là số.
+0x26a	Căn lề tem độ hiếm không hợp lệ. Hãy nhập theo định dạng a,b trong đó a và b là số.
+0x26b	DPI của hình ảnh không hợp lệ. DPI phải là số hợp lệ nằm trong khoảng từ 1 đến 100.
+0x26c	ngoài phạm vi cho phép.
+0x26d	Không được bỏ trống.
+
+0x275	Mã màu nền không hợp lệ.
+0x276	Mã màu chữ không hợp lệ.
+
+0x281	Không tìm thấy Thẻ nào.
+0x282	Không có Thẻ nào được chọn.
+0x283	Không có Thẻ để sao chép.
+0x284	Không có Thẻ để trích xuất.
+0x285	Không có Thẻ để lọc.
+0x286	Không có Thẻ để lưu.
+0x287	Không có Thẻ để thay thế.
+
+0x288	Không tìm thấy tệp nào.
+0x289	Không có cửa sổ nào được chọn.
+0x28a	Không có Cơ Sở Dữ Liệu Thẻ nào được chọn.
+0x28b	Không tìm thấy Thẻ hợp lệ.
+0x28c	Không tìm thấy dữ liệu hợp lệ.
+0x28d	Không có dữ liệu hợp lệ trong bảng nhớ tạm.
+0x28e	Không tìm thấy mã định danh Konami.
+0x28f	Không thể tìm kiếm Thẻ này trên Yugipedia.
+
+0x295	Thư mục không tồn tại.
+0x296	Tập tin không tồn tại.
+0x297	Tập tin đã tồn tại.
+0x298	Thẻ không tồn tại trong Cơ Sở Dữ Liệu.
+0x299	ID Thẻ đã tồn tại.
+0x29a	ID Thẻ không tồn tại.
+0x29b	ID Thẻ không tồn tại trong danh sách.
+0x29c	Không phải là tập tin hình ảnh.
+0x29d	Giá trị Chiều rộng hoặc Chiều cao không phải là số hợp lệ.
+0x29e	Tệp Lua
+0x29f	Mô tả cho ID này.
+0x2a0	cho ID
+0x2a1	không tìm thấy
+0x2a2	trống
+
+0x2aa	Cơ Sở Dữ Liệu đã được tạo thành công, bạn có muốn mở nó không?
+0x2ab	File đã được tạo thành công, bạn có muốn mở nó không?
+0x2ac	Thêm Thẻ mới thành công!
+0x2ad	Cập nhật Thẻ thành công!
+0x2ae	Xóa thẻ thành công!
+0x2af	Sao chép thẻ thành công!
+0x2b0	Dán thẻ thành công!
+0x2b1	Thay thế thẻ thành công!
+0x2b2	Lưu thẻ thành công!
+0x2b3	Lưu tập lệnh thành công!
+0x2b4	Dữ liệu đã được xuất thành công!
+0x2b5	Dữ liệu đã được nhập thành công!
+0x2b6	Tệp Zip đã được xuất thành công tại:
+0x2b7	Tệp Excel đã được xuất thành công tại:
+
+0x2c1	Trích xuất dữ liệu hàm thành công!
+0x2c2	Trích xuất dữ liệu hằng số thành công!
+0x2c3	Kho lưu trữ đã được sao chép thành công!
+0x2c4	Dữ liệu đã được cập nhật thành công!
+0x2c5	Cài đặt đã được đặt lại về mặc định.
+0x2c6	Khởi động lại ứng dụng để áp dụng.
+0x2c7	Lọc thành công. Đã tìm thấy
+0x2c8	Thẻ trong tổng số
+0x2c9	Thẻ.
+
+0x2d4	Chọn thư mục
+0x2d5	Lưu tập tin Cơ Sở Dữ Liệu
+0x2d6	Lưu tập tin
+0x2d7	Tất cả tệp
+0x2d8	Tệp văn bản
+0x2d9	Tệp Markdown
+0x2da	Tệp log
+0x2db	Tệp bộ bài
+0x2dc	Tệp YAML
+0x2dd	Tệp cấu hình
+0x2de	Tệp ZIP
+0x2df	Tệp Excel
+
+0x2e5	Xác nhận đặt lại?
+0x2e6	Xác nhận làm trống?
+0x2e7	Xác nhận xóa?
+
+0x2f1	Định danh Thẻ đã bị thay đổi.
+0x2f2	Xóa Thẻ đã chọn hay Thẻ có định danh mới nhập?
+0x2f3	Tạo Tập Lệnh Thẻ của Thẻ đã chọn hay Thẻ có định danh mới nhập?
+0x2f4	Tạo hình ảnh của Thẻ đã chọn hay Thẻ có định danh mới nhập?
+0x2f5	Thẻ đã chọn
+0x2f6	ID mới nhập
+
+0x301	Bạn có muốn xóa toàn bộ dữ liệu đã chọn trên giao diện không?
+0x302	Bạn có chắc không? Những thẻ có ID 4 chữ số hoặc thấp hơn sẽ bị trò chơi bỏ qua.
+0x303	Bạn có chắc chắn muốn làm trống tất cả dữ liệu đã chọn trên giao diện không?
+0x304	Bạn có chắc chắn muốn Đặt lại thẻ đã chọn không? Những thay đổi sẽ không được lưu.
+0x305	Bạn có chắc chắn muốn khôi phục cài đặt mặc định không? Mọi thay đổi sẽ bị mất.
+0x306	Bạn có chắc chắn muốn XÓA VĨNH VIỄN thẻ đã chọn không?
+0x307	Bạn có chắc chắn muốn lưu tệp trống?
+0x308	Bạn có muốn ghi đè nó không?
+
+0x315	Nguồn dữ liệu bị thiếu hoặc không hợp lệ, hãy tải xuống ngay?
+0x316	Không tìm thấy bản cập nhật nào.
+0x317	Cập nhật hoàn tất!
+0x318	Đã có bản cập nhật, tải xuống ngay?
+
+0x321	Không thể xóa tệp hiện có sau nhiều lần thử.
+0x322	Không tìm thấy đường dẫn git.exe, hãy đảm bảo Git được cài đặt và sử dụng đường dẫn chính xác trong cấu hình ứng dụng.
+0x323	Đường dẫn Git bị thiếu hoặc trống trong cấu hình. Sử dụng đường dẫn Git mặc định.
+0x324	Tệp tô sáng cú pháp không tồn tại.
+0x325	Sử dụng đường dẫn mặc định.
