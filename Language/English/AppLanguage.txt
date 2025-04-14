@@ -256,6 +256,7 @@
 0x245	Error fetching data:
 0x246	Error Connecting Database:
 0x247	Error Clone Repository:
+0x248	You may need to delete the "data\DataSupport" folder and try again.
 
 0x251	Invalid File Path.
 0x252	Invalid File Format.
