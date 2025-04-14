@@ -300,8 +300,9 @@
 0x28b	Không tìm thấy Thẻ hợp lệ.
 0x28c	Không tìm thấy dữ liệu hợp lệ.
 0x28d	Không có dữ liệu hợp lệ trong bảng nhớ tạm.
-0x28e	Không tìm thấy mã định danh Konami.
-0x28f	Không thể tìm kiếm Thẻ này trên Yugipedia.
+0x28e	Không dành cho người dùng thông thường.
+0x28f	Không tìm thấy mã định danh Konami.
+0x290	Không thể tìm kiếm Thẻ này trên Yugipedia.
 
 0x295	Thư mục không tồn tại.
 0x296	Tập tin không tồn tại.
