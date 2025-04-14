@@ -297,8 +297,9 @@
 0x28b	No valid Cards found.
 0x28c	No valid Datas found.
 0x28d	No valid Data in Clipboard.
-0x28e	Konami ID not found.
-0x28f	Unable to search Yugipedia for this Card.
+0x28e	Not intended for regular users.
+0x28f	Konami ID not found.
+0x290	Unable to search Yugipedia for this Card.
 
 0x295	Folder does not exist.
 0x296	File does not exist.
