@@ -331,6 +331,8 @@
 0x2b5	Data imported successfully!
 0x2b6	Zip file exported successfully at:
 0x2b7	Excel file exported successfully at:
+0x2b8	Registry Key created successfully at:
+0x2b9	Double Click this file to set Registry Key.
 
 0x2c1	Extract functions data successfully!
 0x2c2	Extract constants data successfully!
