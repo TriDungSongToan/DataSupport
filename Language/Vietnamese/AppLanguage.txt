@@ -258,6 +258,7 @@
 0x245	Lỗi khi truy xuất dữ liệu:
 0x246	Lỗi kết nối Cơ Sở Dữ Liệu:
 0x247	Lỗi khi nhân bản kho lưu trữ:
+0x248	Bạn có thể cần xóa thư mục "data\DataSupport" và thử lại.
 
 0x251	Đường dẫn tệp không hợp lệ.
 0x252	Định dạng tệp không hợp lệ.
