@@ -334,6 +334,8 @@
 0x2b5	Dữ liệu đã được nhập thành công!
 0x2b6	Tệp Zip đã được xuất thành công tại:
 0x2b7	Tệp Excel đã được xuất thành công tại:
+0x2b8	Khóa đăng ký đã được tạo thành công tại:
+0x2b9	Nhấp đúp vào tệp này để thiết lập Khóa đăng ký.
 
 0x2c1	Trích xuất dữ liệu hàm thành công!
 0x2c2	Trích xuất dữ liệu hằng số thành công!
