@@ -84,8 +84,8 @@
 0x105	Mở một thẻ Chỉnh Sửa Hình Ảnh mới.
 0x106	Mở một thẻ Chỉnh Sửa Dữ Liệu mới.
 0x107	Mở một thẻ Chỉnh Sửa Mã mới.
-0x10a	Mở Cửa Sổ Hỗ Trợ Tập Lệnh.
 
+0x10a	Mở Cửa Sổ Hỗ Trợ Tập Lệnh.
 0x10f	Mở Cửa Sổ Cài Đặt.
 
 0x11a	Sao chép các Thẻ vào Bảng nhớ tạm.
@@ -95,7 +95,7 @@
 0x11e	Dán Các Thẻ từ Bảng nhớ tạm vào danh sách.
 
 0x125	Lọc và hiển thị các Thẻ trong danh sách sử dụng tệp Cơ Sở Dữ Liệu Thẻ.
-0126	Lọc và hiển thị trong danh sách các Thẻ CÓ XUẤT HIỆN trong Cơ Sở Dữ Liệu Thẻ được chọn.
+0x126	Lọc và hiển thị trong danh sách các Thẻ CÓ XUẤT HIỆN trong Cơ Sở Dữ Liệu Thẻ được chọn.
 0x127	Lọc và hiển thị trong danh sách các Thẻ KHÔNG XUẤT HIỆN trong Cơ Sở Dữ Liệu Thẻ được chọn.
 0x128	Lọc và hiển thị các Thẻ trong danh sách sử dụng tệp Bộ Bài.
 0x129	Lọc và hiển thị trong danh sách các Thẻ CÓ XUẤT HIỆN trong Bộ Bài được chọn.
@@ -123,40 +123,42 @@
 0x173	Mã nguồn trên Github.
 
 ------------------------------
-0x181	Nguồn dữ liệu
-0x182	Đường dẫn trình duyệt
-0x183	Màu nền
-0x184	Màu chữ
-0x185	Font chữ
-0x186	Cỡ chữ
-0x187	Chủ đề
-0x188	Tô sáng
-0x189	Ngôn ngữ
-0x18a	Kích thước ảnh
-0x18b	Kích thước Tem
-0x18c	Căn lề Tem
-0x18d	Vị trí Tem
-0x18e	DPI ảnh
-0x18f	Sắp xếp
-0x190	Max Item
-0x191	Tiêu đề
-0x192	Ngắt dòng
-0x193	Tự động tìm
-0x194	Cho phép lưu
-0x195	Cho phép tạo
-0x196	Gấp mã
-0x197	Trò chơi
+0x180	Nguồn Dữ Liệu
+0x181	Trình Duyệt
+0x182	Màu Nền
+0x183	Màu Chữ
+0x184	Font Chữ
+0x185	Cỡ Chữ
+0x186	Chủ Đề
+0x187	Tô Sáng
+0x188	Ngôn Ngữ
+0x189	Kích Thước Ảnh
+0x18a	Kích Thước Tem
+0x18b	Căn Lề Tem
+0x18c	Vị Trí Tem
+0x18d	DPI ảnh
+0x18e	Sắp xếp
+0x18f	Max Item
+0x190	Tiêu đề
+0x191	Ngắt dòng
+0x192	Ghi đè
+0x193	Ghi đè Mô tả Hiệu ứng của Thẻ có ID đã tồn tại trong danh sách khi thực hiện thao tác Dán/Nhập.
+0x194	Bỏ qua các Thẻ có ID đã tồn tại trong danh sách khi thực hiện thao tác Dán và Nhập.
+0x195	Tự động tìm
+0x196	Cho phép lưu
+0x197	Cho phép tạo
+0x198	Gấp mã
+0x199	Trò chơi
 
 -----------------------------
-0x198	Nâng cao
-0x199	Khác hoa/thường
-0x19a	Khớp tiền tố
-0x19b	Khớp hậu tố
-0x19c	Dùng ký tự đại diện
-0x19d	Chỉ tìm từ hoàn chỉnh
-0x19e	Bỏ qua ký tự dấu câu
-0x19f	Bỏ qua ký tự khoảng trắng
-
+0x19a	Nâng cao
+0x19b	Khác hoa/thường
+0x19c	Khớp tiền tố
+0x19d	Khớp hậu tố
+0x19e	Dùng ký tự đại diện
+0x19f	Chỉ tìm từ hoàn chỉnh
+0x1a0	Bỏ qua ký tự dấu câu
+0x1a1	Bỏ qua ký tự khoảng trắng
 ---------------------------
 0x1a7	Nguyên Mẫu: 
 0x1a8	Loại Thẻ: 
@@ -218,7 +220,6 @@
 0x204	Tên giảm dần
 0x205	Sắp xếp thẻ trong theo thứ tự:
 0x206	Chuột phải để sắp xếp theo mặc định.
-
 ---------------------------
 0x211	Lỗi
 0x212	Cảnh Báo
@@ -294,7 +295,6 @@
 0x285	Không có Thẻ để lọc.
 0x286	Không có Thẻ để lưu.
 0x287	Không có Thẻ để thay thế.
-
 0x288	Không tìm thấy tệp nào.
 0x289	Không có cửa sổ nào được chọn.
 0x28a	Không có Cơ Sở Dữ Liệu Thẻ nào được chọn.
