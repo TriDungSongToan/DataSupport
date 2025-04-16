@@ -123,39 +123,42 @@
 0x173	Source code on Github.
 
 ------------------------------
-0x181	Data Source
-0x182	Browser Path
-0x183	Background
-0x184	Foreground
-0x185	FontFamily
-0x186	FontSize
-0x187	Theme
-0x188	Highlight
-0x189	Language
-0x18a	Image Size
-0x18b	Stamp Size
-0x18c	Stamp Margin
-0x18d	Stamp Position
-0x18e	Image DPI
-0x18f	Sort
-0x190	Max Item
-0x191	List Header
-0x192	Word Wrap
-0x193	Auto Search
-0x194	Allow Save
-0x195	Allow New
-0x196	Code Folding
-0x197	Game
+0x180	Data Source
+0x181	Browser Path
+0x182	Background
+0x183	Foreground
+0x184	FontFamily
+0x185	FontSize
+0x186	Theme
+0x187	Highlight
+0x188	Language
+0x189	Image Size
+0x18a	Stamp Size
+0x18b	Stamp Margin
+0x18c	Stamp Position
+0x18d	Image DPI
+0x18e	Sort
+0x18f	Max Item
+0x190	List Header
+0x191	Word Wrap
+0x192	Overwrite
+0x193	Overwrite Effect Description of Cards with IDs already existing in the list when performing Paste/Import operations.
+0x194	Ignore Cards with IDs that already exist in the list when performing Paste and Import operations.
+0x195	Auto Search
+0x196	Allow Save
+0x197	Allow New
+0x198	Code Folding
+0x199	Game
 
 -----------------------------
-0x198	Advanced
-0x199	Match Case
-0x19a	Match Prefix
-0x19b	Match Suffix
-0x19c	Use Wildcards
-0x19d	Whole Words
-0x19e	Ignore Punctuation
-0x19f	Ignore White-Space
+0x19a	Advanced
+0x19b	Match Case
+0x19c	Match Prefix
+0x19d	Match Suffix
+0x19e	Use Wildcards
+0x19f	Whole Words
+0x1a0	Ignore Punctuation
+0x1a1	Ignore White-Space
 ---------------------------
 0x1a7	Archetype: 
 0x1a8	Card Type: 
@@ -213,10 +216,10 @@
 
 0x201	ID Ascending
 0x202	ID Descending
-0x203	Card Name Ascending
-0x204	Card Name Descending
+0x203	Name Ascending
+0x204	Name Descending
 0x205	Sort cards in the list in order:
-
+0x206	Right click to sort by default.
 ----------------------------
 0x211	Error
 0x212	Warning
