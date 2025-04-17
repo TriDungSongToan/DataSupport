@@ -218,7 +218,7 @@
 0x202	ID giảm dần
 0x203	Tên tăng dần
 0x204	Tên giảm dần
-0x205	Sắp xếp thẻ trong theo thứ tự:
+0x205	Sắp xếp thẻ trong danh sách theo thứ tự:
 0x206	Chuột phải để sắp xếp theo mặc định.
 ---------------------------
 0x211	Lỗi
