@@ -79,6 +79,7 @@
 0xf3	Lưu các Thẻ đang hiển thị (sau khi áp dụng lọc) vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
 0xf4	Lưu Toàn bộ các Thẻ trong danh sách vào một Tệp Cơ Sở Dữ Liệu Thẻ mới.
 0xf5	Lưu nội dung Tập Lệnh hiện tại vào một Tệp Tập Lệnh mới.
+
 0xff	Thoát khỏi ứng dụng.
 
 0x105	Mở một thẻ Chỉnh Sửa Hình Ảnh mới.
