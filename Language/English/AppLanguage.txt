@@ -79,6 +79,7 @@
 0xf3	Save the currently displayed cards (after applying filters) to a new database file.
 0xf4	Save all cards in the list to a new database file.
 0xf5	Save the current script content as a new Card Script file.
+
 0xff	Exit the application.
 
 0x105	Open a new Image Editor Tab.
